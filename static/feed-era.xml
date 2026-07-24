@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 02:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:32:50 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -119,20 +119,20 @@
       <description>Date: 2026-07-26 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>超人力霸王舞台劇In Taiwan 2026</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
+      <guid isPermaLink="false">era:P19Q1GAI</guid>
+      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-07-25 – 2026-08-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>7月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPI83</link>
       <guid isPermaLink="false">era:P1BTPI83</guid>
       <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-07-25 – 2026-07-31 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>超人力霸王舞台劇In Taiwan 2026</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
-      <guid isPermaLink="false">era:P19Q1GAI</guid>
-      <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-07-24 – 2026-08-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
