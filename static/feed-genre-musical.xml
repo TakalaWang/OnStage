@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 02:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:16:53 GMT</lastBuildDate>
     <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
@@ -53,6 +53,14 @@
       <pubDate>Sun, 26 Jul 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-07-27 – 2026-08-15 · Venue: 排練室、小劇場, 臺中市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》</title>
+      <link>https://www.opentix.life/event/2080134872605343745</link>
+      <guid isPermaLink="false">opentix:2080134872605343745</guid>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-10-30 – 2026-11-01 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-07-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>躍演《勸世三姊妹》中文音樂劇</title>
@@ -223,14 +231,6 @@
       <description>Date: 2026-09-05 – 2026-09-20 · Venue: PLAYground 南村劇場．青鳥．有.設計, 臺北市 · On sale: 2026-05-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026臺東藝術節：《轟吧！全壘打》棒球音樂劇</title>
-      <link>https://www.opentix.life/event/2054052615857229824</link>
-      <guid isPermaLink="false">opentix:2054052615857229824</guid>
-      <pubDate>Tue, 19 May 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-07-25 · Venue: 臺東縣政府文化處藝文中心演藝廳, 臺東縣 · On sale: 2026-05-19 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>唱歌集《大家都怎麼做音樂劇？》</title>
       <link>https://www.opentix.life/event/2052621362491457537</link>
       <guid isPermaLink="false">opentix:2052621362491457537</guid>
@@ -284,7 +284,7 @@
       <guid isPermaLink="false">opentix:2044254955820302336</guid>
       <pubDate>Tue, 28 Apr 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-07-25 – 2026-07-26 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-04-28 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-07-26 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-04-28 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《老男孩》音樂劇</title>
@@ -308,7 +308,7 @@
       <guid isPermaLink="false">opentix:2009210831283515392</guid>
       <pubDate>Sun, 25 Jan 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-07-25 – 2026-08-30 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · On sale: 2026-01-25 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-07-26 – 2026-08-30 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · On sale: 2026-01-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《你好，我是接體員》黑色幽默音樂劇</title>

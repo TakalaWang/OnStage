@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 02:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:16:53 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -468,7 +468,7 @@
       <guid isPermaLink="false">accupass:2607071252499670621290</guid>
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
+      <description>Date: 2026-08-15 · Venue: 現場馬拉桑特色餐廳三樓, 新竹市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>爆笑中文喜劇催眠秀｜蔣海明</title>
@@ -540,7 +540,7 @@
       <guid isPermaLink="false">accupass:2607051348271557070980</guid>
       <pubDate>Sat, 08 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-08-09 – 2026-08-29 · Source: Accupass 活動通</description>
+      <description>Date: 2026-08-09 – 2026-08-29 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
@@ -711,12 +711,44 @@
       <description>Date: 2026-07-27 – 2026-08-15 · Venue: 排練室、小劇場, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《Re:late》2026雙卡司再創作版</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
+      <guid isPermaLink="false">udn:P1B0JCEG</guid>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-07-26 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>會演是英雄2之《英雄所賤略同》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
+      <guid isPermaLink="false">udn:P185ZP45</guid>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-07-26 – 2026-12-27 · Venue: 臺北市藝文推廣處 城市舞台, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>超人力霸王舞台劇In Taiwan 2026</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
+      <guid isPermaLink="false">era:P19Q1GAI</guid>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-07-26 – 2026-08-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>7月高雄市電影館｜長短腳電影院－蹦蹦奇遇森友會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPI8Q</link>
       <guid isPermaLink="false">era:P1BTPI8Q</guid>
       <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-07-26 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>7月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPI83</link>
+      <guid isPermaLink="false">era:P1BTPI83</guid>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-07-26 – 2026-07-31 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>王金櫻《月娘照佇雙叉路》專輯分享會</title>
@@ -751,60 +783,28 @@
       <description>Date: 2026-07-26 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《Re:late》2026雙卡司再創作版</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
-      <guid isPermaLink="false">udn:P1B0JCEG</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-25 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+      <title>所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》</title>
+      <link>https://www.opentix.life/event/2080134872605343745</link>
+      <guid isPermaLink="false">opentix:2080134872605343745</guid>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-10-30 – 2026-11-01 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-07-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>會演是英雄2之《英雄所賤略同》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
-      <guid isPermaLink="false">udn:P185ZP45</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-25 – 2026-12-27 · Venue: 臺北市藝文推廣處 城市舞台, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>西班牙國家舞團《唐吉訶德》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P169PNE2</link>
-      <guid isPermaLink="false">udn:P169PNE2</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-25 · Venue: 國家戲劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>超人力霸王舞台劇In Taiwan 2026</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
-      <guid isPermaLink="false">era:P19Q1GAI</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-07-25 – 2026-08-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>7月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPI83</link>
-      <guid isPermaLink="false">era:P1BTPI83</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-25 – 2026-07-31 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>愛情限定・即興互動劇場</title>
-      <link>https://www.accupass.com/event/2606270924082068313823</link>
-      <guid isPermaLink="false">accupass:2606270924082068313823</guid>
+      <title>第一超棒台北脫口秀| 台北場 07/26（六）20:00|飛客俱樂部 |曹小歐 /Evan / 樂樂法利 / 阿秋 /懿霽</title>
+      <link>https://www.accupass.com/event/2607051111421319360628</link>
+      <guid isPermaLink="false">accupass:2607051111421319360628</guid>
       <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-07-25 · Venue: 福興公園對面, 臺中市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-07-25 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【戲劇中的女性群像：三個角色，三杯酒】戲劇Ｘ品酒沙龍 </title>
-      <link>https://www.accupass.com/event/2607060720031937742921</link>
-      <guid isPermaLink="false">accupass:2607060720031937742921</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2077662622413549569</link>
+      <guid isPermaLink="false">opentix:2077662622413549569</guid>
+      <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-07-25 · Venue: 喝喝書店 HĒHĒ BOOKSTORE &amp; WINE, 臺北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-07-29 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-07-23 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
