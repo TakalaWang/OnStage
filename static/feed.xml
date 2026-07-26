@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 13:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:09:26 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -791,20 +791,20 @@
       <description>Date: 2026-10-30 – 2026-11-01 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-07-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>第一超棒台北脫口秀| 台北場 07/26（六）20:00|飛客俱樂部 |曹小歐 /Evan / 樂樂法利 / 阿秋 /懿霽</title>
-      <link>https://www.accupass.com/event/2607051111421319360628</link>
-      <guid isPermaLink="false">accupass:2607051111421319360628</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-07-25 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2077662622413549569</link>
       <guid isPermaLink="false">opentix:2077662622413549569</guid>
       <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-07-29 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-07-23 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【10/3 台中群島】藍恩首次單口喜劇專場《All Around You》 </title>
+      <link>https://comedyclub.kktix.cc/events/allaroundyou1003</link>
+      <guid isPermaLink="false">kktix:comedyclub/allaroundyou1003</guid>
+      <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-03 · Venue: 群島藝術園區 Islands Art Park, 臺中市 · On sale: 2026-07-23 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>
