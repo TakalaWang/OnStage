@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 02:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:00:15 GMT</lastBuildDate>
     <item>
       <title>《璦之舞樂》劇場共融音樂會</title>
       <link>https://www.accupass.com/event/2607100325289806760750</link>
@@ -268,7 +268,7 @@
       <guid isPermaLink="false">accupass:2607071252499670621290</guid>
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-15 · Venue: 現場馬拉桑特色餐廳三樓, 新竹市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>動物 FUN 舞島</title>
@@ -375,20 +375,20 @@
       <description>Date: 2026-08-01 · Venue: 華山1914文化創意產業園區中3館 2樓拱廳 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>「潮劇場」-《我願》</title>
-      <link>https://www.accupass.com/event/2605261250523133554170</link>
-      <guid isPermaLink="false">accupass:2605261250523133554170</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-01 · Venue: 芳苑鄉農會, 彰化縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>2026 青少年劇場〈N個我〉</title>
       <link>https://www.accupass.com/event/2605210313307306301300</link>
       <guid isPermaLink="false">accupass:2605210313307306301300</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-01 – 2026-08-02 · Venue: 基隆表演藝術中心島嶼實驗劇場, 基隆市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>「潮劇場」-《我願》</title>
+      <link>https://www.accupass.com/event/2605261250523133554170</link>
+      <guid isPermaLink="false">accupass:2605261250523133554170</guid>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-01 · Venue: 芳苑鄉農會, 彰化縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026童演童語 特別活動-《仙界故事我來續》</title>
@@ -423,12 +423,28 @@
       <description>Date: 2026-07-31 · Venue: 桃園市政府文化局演藝廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>傳奇戲樓《藝決天下・四部曲》興傳奇青年劇場</title>
+      <link>https://www.opentix.life/event/2078041749721079808</link>
+      <guid isPermaLink="false">opentix:2078041749721079808</guid>
+      <pubDate>Wed, 29 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-26 – 2026-11-01 · Venue: 板橋放送所 CLT 戲劇館-傳奇戲樓, 新北市 · On sale: 2026-07-29 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>《渡子江：死了都要愛》</title>
       <link>https://www.opentix.life/event/2079807327897186305</link>
       <guid isPermaLink="false">opentix:2079807327897186305</guid>
       <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-04 – 2026-09-05 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>FOCASA馬戲團《幾米男孩的100次勇敢》</title>
+      <link>https://www.opentix.life/event/2079092696435740673</link>
+      <guid isPermaLink="false">opentix:2079092696435740673</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-10 – 2026-11-08 · Venue: 澎湖縣演藝廳, 澎湖縣 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 NTT遇見巨人—愛爾蘭鬼才編導丹．科利《迷失的李爾》</title>
@@ -525,14 +541,6 @@
       <pubDate>Sun, 26 Jul 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-07-27 – 2026-07-31 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2077662622413549569</link>
-      <guid isPermaLink="false">opentix:2077662622413549569</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-29 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-07-23 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>狂想劇場《島上的最後晚餐》</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-16 – 2026-08-30 · Venue: 拾久駅, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】哭池</title>
-      <link>https://www.opentix.life/event/2064260343396847617</link>
-      <guid isPermaLink="false">opentix:2064260343396847617</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-16 – 2026-08-21 · Venue: 叢口, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
