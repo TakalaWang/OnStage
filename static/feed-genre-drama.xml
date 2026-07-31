@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 02:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:54:29 GMT</lastBuildDate>
     <item>
       <title>《璦之舞樂》劇場共融音樂會</title>
       <link>https://www.accupass.com/event/2607100325289806760750</link>
@@ -335,6 +335,14 @@
       <description>Date: 2026-08-08 – 2026-08-09 · Venue: 宜蘭礁溪 跑馬古道公園（北園區）, 宜蘭縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《臺灣音樂文學 XR 劇場—東方美人》</title>
+      <link>https://www.accupass.com/event/2607150601282144942313</link>
+      <guid isPermaLink="false">accupass:2607150601282144942313</guid>
+      <pubDate>Sun, 02 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-03 – 2026-08-06 · Venue: 合勝堂, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>OSTA-Open Stage To All</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P17UDSOS</link>
       <guid isPermaLink="false">era:P17UDSOS</guid>
@@ -349,6 +357,14 @@
       <pubDate>Sat, 01 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-02 · Venue: 臺南市立圖書館新總館6樓-哇劇場, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《Re:late》2026雙卡司再創作版</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
+      <guid isPermaLink="false">udn:P1B0JCEG</guid>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-01 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
@@ -399,28 +415,28 @@
       <description>Date: 2026-08-01 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《Re:late》2026雙卡司再創作版</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
-      <guid isPermaLink="false">udn:P1B0JCEG</guid>
-      <pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+      <title>聚炬創作體 X 耳東灶夢所《行動代號：透明媽媽》</title>
+      <link>https://www.opentix.life/event/2082796902489927681</link>
+      <guid isPermaLink="false">opentix:2082796902489927681</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-07-31 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+      <description>Date: 2026-10-03 – 2026-10-04 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>7月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPI83</link>
-      <guid isPermaLink="false">era:P1BTPI83</guid>
-      <pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+      <title>小海龜 游啊游</title>
+      <link>https://www.opentix.life/event/2082720936493752321</link>
+      <guid isPermaLink="false">opentix:2082720936493752321</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-07-31 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>第十八屆想演就演戲劇節《STORY》</title>
-      <link>https://www.accupass.com/event/2606061309056184232100</link>
-      <guid isPermaLink="false">accupass:2606061309056184232100</guid>
-      <pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+      <title>國光劇團2026《永恆時尚：小雪》演出</title>
+      <link>https://www.opentix.life/event/2070054664294359041</link>
+      <guid isPermaLink="false">opentix:2070054664294359041</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-07-31 · Venue: 桃園市政府文化局演藝廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-12-11 – 2026-12-20 · Venue: 臺灣戲曲中心大表演廳, 臺北市 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>傳奇戲樓《藝決天下・四部曲》興傳奇青年劇場</title>
@@ -719,14 +735,6 @@
       <description>Date: 2026-11-07 – 2026-11-08 · Venue: 恆春文化中心劇場館表演廳, 屏東縣 · On sale: 2026-07-07 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>來福OPEN MIC 7月</title>
-      <link>https://www.accupass.com/event/2606280743551685530405</link>
-      <guid isPermaLink="false">accupass:2606280743551685530405</guid>
-      <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-07-03 – 2026-07-31 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>2026北投小戲節—野村眞人《吉日再會》</title>
       <link>https://www.opentix.life/event/2070026434774556673</link>
       <guid isPermaLink="false">opentix:2070026434774556673</guid>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-16 – 2026-08-21 · Venue: 叢口, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】紅塵客棧</title>
-      <link>https://www.opentix.life/event/2059888091843555329</link>
-      <guid isPermaLink="false">opentix:2059888091843555329</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-16 – 2026-08-30 · Venue: 二空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
