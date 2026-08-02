@@ -29,6 +29,7 @@ const KEYWORDS = [
 
 const PAGES_PER_KEYWORD = 2;
 const MAX_DETAIL_FETCHES = 80;
+const SEARCH_RETRIES = 3;
 
 const EXTRA_NON_THEATRE =
 	/線上課|學士班|碩士班|進修|招生|甄試|導覽|讀書|書店|工藝|體驗營|夏令營|冬令營|營隊|徵件|徵選|甄選|比賽|競賽/;
@@ -151,24 +152,31 @@ export function buildAccupassShow(item: SearchItem, ld: LdEvent | null): Show {
 }
 
 async function searchPage(keyword: string, currentIndex: number): Promise<SearchItem[]> {
-	try {
-		const res = await politeFetch(SEARCH_API, {
-			method: 'POST',
-			headers: { 'Content-Type': 'application/json', referer: 'https://www.accupass.com/' },
-			body: JSON.stringify({
-				categoryTypeList: [],
-				simpleEventPlaceTypeList: [],
-				cityLocationList: [],
-				sortBy: '4',
-				timeType: '0',
-				keyword,
-				currentIndex,
-			}),
-		});
-		return parseSearchResponse(await res.json());
-	} catch {
-		return [];
+	let lastError = 'unknown error';
+	for (let attempt = 1; attempt <= SEARCH_RETRIES; attempt++) {
+		try {
+			const res = await politeFetch(SEARCH_API, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json', referer: 'https://www.accupass.com/' },
+				body: JSON.stringify({
+					categoryTypeList: [],
+					simpleEventPlaceTypeList: [],
+					cityLocationList: [],
+					sortBy: '4',
+					timeType: '0',
+					keyword,
+					currentIndex,
+				}),
+			});
+			const json = (await res.json()) as SearchResponse;
+			if (!Array.isArray(json.items)) throw new Error('response.items is not an array');
+			return parseSearchResponse(json);
+		} catch (err) {
+			lastError = err instanceof Error ? err.message : String(err);
+			if (attempt < SEARCH_RETRIES) await sleep(800 * attempt);
+		}
 	}
+	throw new Error(`search "${keyword}" page ${currentIndex}: ${lastError}`);
 }
 
 export function parseEventLd(html: string): LdEvent | null {
@@ -185,44 +193,40 @@ export function parseEventLd(html: string): LdEvent | null {
 }
 
 export async function scrapeAccupass(): Promise<Show[]> {
-	try {
-		const fast = process.env.ONSTAGE_FAST === '1';
+	const fast = process.env.ONSTAGE_FAST === '1';
 
-		const candidates = new Map<string, SearchItem>();
-		for (const keyword of KEYWORDS) {
-			for (let page = 0; page < PAGES_PER_KEYWORD; page++) {
-				const items = await searchPage(keyword, page);
-				if (items.length === 0) break;
-				for (const it of items) {
-					if (it.eventIdNumber && !candidates.has(it.eventIdNumber)) {
-						candidates.set(it.eventIdNumber, it);
-					}
+	const candidates = new Map<string, SearchItem>();
+	for (const keyword of KEYWORDS) {
+		for (let page = 0; page < PAGES_PER_KEYWORD; page++) {
+			const items = await searchPage(keyword, page);
+			if (items.length === 0) break;
+			for (const it of items) {
+				if (it.eventIdNumber && !candidates.has(it.eventIdNumber)) {
+					candidates.set(it.eventIdNumber, it);
 				}
-				await sleep(400);
 			}
+			await sleep(400);
 		}
-
-		const kept = filterAccupass([...candidates.values()]);
-
-		const shows: Show[] = [];
-		let detailFetches = 0;
-		for (const it of kept) {
-			const id = it.eventIdNumber;
-			let ld: LdEvent | null = null;
-
-			if (!fast && detailFetches < MAX_DETAIL_FETCHES) {
-				try {
-					const page = await politeFetch(EVENT_URL(id));
-					ld = parseEventLd(await page.text());
-					detailFetches++;
-					await sleep(400);
-				} catch {}
-			}
-
-			shows.push(buildAccupassShow(it, ld));
-		}
-		return shows;
-	} catch {
-		return [];
 	}
+
+	const kept = filterAccupass([...candidates.values()]);
+
+	const shows: Show[] = [];
+	let detailFetches = 0;
+	for (const it of kept) {
+		const id = it.eventIdNumber;
+		let ld: LdEvent | null = null;
+
+		if (!fast && detailFetches < MAX_DETAIL_FETCHES) {
+			try {
+				const page = await politeFetch(EVENT_URL(id));
+				ld = parseEventLd(await page.text());
+				detailFetches++;
+				await sleep(400);
+			} catch {}
+		}
+
+		shows.push(buildAccupassShow(it, ld));
+	}
+	return shows;
 }

@@ -1142,3 +1142,29 @@ export function findVenue(text: string | null | undefined): Venue | null {
 	}
 	return null;
 }
+
+// ponytail: city-center fallback keeps unknown venues visible; add exact geocodes when they are verified.
+export const CITY_CENTERS: Record<string, Venue> = {
+	臺北市: { name: '臺北市（其他場館）', aliases: [], city: '臺北市', lat: 25.0375, lng: 121.5637 },
+	新北市: { name: '新北市（其他場館）', aliases: [], city: '新北市', lat: 25.0118, lng: 121.465 },
+	基隆市: { name: '基隆市（其他場館）', aliases: [], city: '基隆市', lat: 25.1276, lng: 121.7392 },
+	桃園市: { name: '桃園市（其他場館）', aliases: [], city: '桃園市', lat: 24.9937, lng: 121.301 },
+	新竹市: { name: '新竹市（其他場館）', aliases: [], city: '新竹市', lat: 24.8138, lng: 120.9675 },
+	新竹縣: { name: '新竹縣（其他場館）', aliases: [], city: '新竹縣', lat: 24.8387, lng: 121.0177 },
+	苗栗縣: { name: '苗栗縣（其他場館）', aliases: [], city: '苗栗縣', lat: 24.5602, lng: 120.8214 },
+	臺中市: { name: '臺中市（其他場館）', aliases: [], city: '臺中市', lat: 24.1477, lng: 120.6736 },
+	彰化縣: { name: '彰化縣（其他場館）', aliases: [], city: '彰化縣', lat: 24.0756, lng: 120.544 },
+	南投縣: { name: '南投縣（其他場館）', aliases: [], city: '南投縣', lat: 23.9609, lng: 120.9719 },
+	雲林縣: { name: '雲林縣（其他場館）', aliases: [], city: '雲林縣', lat: 23.7092, lng: 120.4313 },
+	嘉義市: { name: '嘉義市（其他場館）', aliases: [], city: '嘉義市', lat: 23.4801, lng: 120.4491 },
+	嘉義縣: { name: '嘉義縣（其他場館）', aliases: [], city: '嘉義縣', lat: 23.4589, lng: 120.293 },
+	臺南市: { name: '臺南市（其他場館）', aliases: [], city: '臺南市', lat: 22.9997, lng: 120.227 },
+	高雄市: { name: '高雄市（其他場館）', aliases: [], city: '高雄市', lat: 22.6273, lng: 120.3014 },
+	屏東縣: { name: '屏東縣（其他場館）', aliases: [], city: '屏東縣', lat: 22.6761, lng: 120.494 },
+	宜蘭縣: { name: '宜蘭縣（其他場館）', aliases: [], city: '宜蘭縣', lat: 24.757, lng: 121.753 },
+	花蓮縣: { name: '花蓮縣（其他場館）', aliases: [], city: '花蓮縣', lat: 23.991, lng: 121.611 },
+	臺東縣: { name: '臺東縣（其他場館）', aliases: [], city: '臺東縣', lat: 22.7554, lng: 121.15 },
+	澎湖縣: { name: '澎湖縣（其他場館）', aliases: [], city: '澎湖縣', lat: 23.5711, lng: 119.5793 },
+	金門縣: { name: '金門縣（其他場館）', aliases: [], city: '金門縣', lat: 24.4493, lng: 118.3767 },
+	連江縣: { name: '連江縣（其他場館）', aliases: [], city: '連江縣', lat: 26.1605, lng: 119.951 },
+};
