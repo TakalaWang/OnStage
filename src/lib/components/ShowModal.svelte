@@ -4,6 +4,7 @@
 	import { downloadShowIcs } from '$lib/ics';
 	import { loadDescription } from '$lib/descriptions';
 	import { thumb } from '$lib/img';
+	import { googleMapsSearchUrl } from '$lib/maps';
 	import { fade, scale } from 'svelte/transition';
 	import { cubicOut } from 'svelte/easing';
 	import { prefersReducedMotion } from 'svelte/motion';
@@ -110,7 +111,15 @@
 					<Icon name="map-pin" size={16} class="text-curtain-500" />
 					<dt class="text-gray-400">場館</dt>
 					<dd class="text-gray-800 dark:text-gray-200">
-						{show.venue ?? ''}{show.city ? ` · ${show.city}` : ''}
+						{#if show.venue}
+							<a
+								href={googleMapsSearchUrl(show.venue, show.city)}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="underline decoration-gray-300 underline-offset-2 hover:text-curtain-600"
+								>{show.venue}</a
+							>
+						{:else}{show.venue ?? ''}{/if}{show.city ? ` · ${show.city}` : ''}
 					</dd>
 				{/if}
 				{#if fmtOnSale(show.onSaleAt, true)}

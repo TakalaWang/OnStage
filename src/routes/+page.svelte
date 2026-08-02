@@ -11,6 +11,7 @@
 	import favicon from '$lib/assets/favicon.svg';
 	import { favorites } from '$lib/favorites.svelte';
 	import { GENRE_SLUG } from '$lib/genres';
+	import { eventPath } from '$lib/slug';
 	import { REGION_ORDER, REGIONS } from '$lib/regions';
 	import { findVenue } from '$lib/venues';
 	import { initialDark, applyDark } from '$lib/theme';
@@ -241,20 +242,47 @@
 	const jsonLd = $derived(
 		JSON.stringify({
 			'@context': 'https://schema.org',
-			'@type': 'ItemList',
-			name: '幕間 OnStage TW — 台灣戲劇演出',
-			itemListElement: data.shows.slice(0, 40).map((s, i) => ({
-				'@type': 'ListItem',
-				position: i + 1,
-				item: {
-					'@type': 'Event',
-					name: s.title,
-					url: s.url,
-					...(s.startDate ? { startDate: s.startDate } : {}),
-					...(s.endDate ? { endDate: s.endDate } : {}),
-					...(s.venue ? { location: { '@type': 'Place', name: s.venue } } : {}),
+			'@graph': [
+				{
+					'@type': 'WebSite',
+					'@id': `${data.siteUrl}/#website`,
+					url: data.siteUrl,
+					name: '幕間 OnStage TW',
+					inLanguage: 'zh-Hant',
 				},
-			})),
+				{
+					'@type': 'ItemList',
+					name: '幕間 OnStage TW — 台灣戲劇演出',
+					itemListElement: data.shows.slice(0, 40).map((s, i) => ({
+						'@type': 'ListItem',
+						position: i + 1,
+						item: {
+							'@type': 'Event',
+							name: s.title,
+							url: `${data.siteUrl}${eventPath(s.id)}`,
+							...(s.startDate ? { startDate: s.startDate } : {}),
+							...(s.endDate ? { endDate: s.endDate } : {}),
+							...(s.venue
+								? {
+										location: {
+											'@type': 'Place',
+											name: s.venue,
+											...(s.city
+												? {
+														address: {
+															'@type': 'PostalAddress',
+															addressLocality: s.city,
+															addressCountry: 'TW',
+														},
+													}
+												: {}),
+										},
+									}
+								: {}),
+						},
+					})),
+				},
+			],
 		}).replace(/</g, '\\u003c'),
 	);
 

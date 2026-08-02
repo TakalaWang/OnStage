@@ -1,10 +1,11 @@
 <script lang="ts">
 	import 'leaflet/dist/leaflet.css';
 	import type { Map as LMap, CircleMarker } from 'leaflet';
-	import { findVenue, type Venue } from '$lib/venues';
+	import { CITY_CENTERS, findVenue, type Venue } from '$lib/venues';
 	import { SOURCE_LABELS, type Show } from '$lib/types';
 	import { fmtDateRange } from '$lib/format';
 	import { thumb } from '$lib/img';
+	import { googleMapsSearchUrl } from '$lib/maps';
 	import { initialDark, applyDark } from '$lib/theme';
 	import ShowModal from '$lib/components/ShowModal.svelte';
 	import Icon from '$lib/components/Icon.svelte';
@@ -24,7 +25,8 @@
 			const vv = findVenue(ss.venue);
 			if (vv) return vv;
 		}
-		return null;
+		const city = s.city ?? s.sessions.find((ss) => ss.city)?.city;
+		return city ? (CITY_CENTERS[city] ?? null) : null;
 	}
 
 	const groups = $derived.by(() => {
@@ -135,7 +137,13 @@
 		{#if activeVenue}
 			<div class="mb-3 flex items-start justify-between gap-2">
 				<div>
-					<p class="font-semibold text-gray-900 dark:text-gray-100">{activeVenue}</p>
+					<a
+						href={googleMapsSearchUrl(activeVenue.replace('（其他場館）', ''), null)}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="font-semibold text-gray-900 underline decoration-gray-300 underline-offset-2 hover:text-curtain-600 dark:text-gray-100"
+						>{activeVenue}</a
+					>
 					<p class="text-xs text-gray-400">{activeShows.length} 檔演出</p>
 				</div>
 				<button
@@ -181,8 +189,11 @@
 			</p>
 			<p class="mt-3 text-xs text-gray-400">
 				已定位 {groups.list.length} 個場館{groups.unlocated
-					? ` · ${groups.unlocated} 檔未標記（場館未收錄）`
+					? ` · ${groups.unlocated} 檔缺少縣市`
 					: ''}
+			</p>
+			<p class="mt-2 text-xs text-gray-400">
+				「其他場館」是縣市中心的概略位置，點場館名稱可開啟 Google Maps 查實際位置。
 			</p>
 		{/if}
 	</aside>
