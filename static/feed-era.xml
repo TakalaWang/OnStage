@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 02 Aug 2026 13:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:11:42 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -37,6 +37,14 @@
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>日本TAMAKKO-ZA和太鼓劇團[龍馬太鼓]</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJKBJM</link>
+      <guid isPermaLink="false">era:P1DJKBJM</guid>
+      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 – 2026-10-11 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 02 Aug 2026 13:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:11:42 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -109,6 +109,14 @@
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>日本TAMAKKO-ZA和太鼓劇團[龍馬太鼓]</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJKBJM</link>
+      <guid isPermaLink="false">era:P1DJKBJM</guid>
+      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 – 2026-10-11 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>打架俱樂部｜即興裡的反派練習（九月場）</title>
@@ -452,7 +460,7 @@
       <guid isPermaLink="false">accupass:2604161813399320653180</guid>
       <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-22 · Source: Accupass 活動通</description>
+      <description>Date: 2026-08-22 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>小小導演招募中！《不被記得的孩子：小朋友打造王國版》 兒童劇場共創營</title>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-12 – 2026-09-13 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>陳三五娘-再回眸</title>
-      <link>https://www.opentix.life/event/2077998196478681089</link>
-      <guid isPermaLink="false">opentix:2077998196478681089</guid>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-26 · Venue: 宜蘭演藝廳, 宜蘭縣 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
