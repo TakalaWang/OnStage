@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:58:54 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -92,7 +92,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜10/10（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
@@ -252,7 +252,7 @@
       <guid isPermaLink="false">accupass:2604161816079539147950</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
@@ -775,6 +775,14 @@
       <description>Date: 2026-08-05 · Venue: 國立臺灣圖書館B1演藝廳, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《地・獄・笑・話》</title>
+      <link>https://www.opentix.life/event/2082735823420825601</link>
+      <guid isPermaLink="false">opentix:2082735823420825601</guid>
+      <pubDate>Tue, 04 Aug 2026 01:45:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
       <guid isPermaLink="false">era:P1D806CZ</guid>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-12 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026太平洋左岸藝術季：山東野表演坊《愛的囚徒》</title>
-      <link>https://www.opentix.life/event/2082368600514551809</link>
-      <guid isPermaLink="false">opentix:2082368600514551809</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-25 – 2026-09-27 · Venue: 花蓮港放送局1944, 花蓮縣 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

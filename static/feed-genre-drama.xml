@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:58:54 GMT</lastBuildDate>
     <item>
       <title>《璦之舞樂》劇場共融音樂會</title>
       <link>https://www.accupass.com/event/2607100325289806760750</link>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>英雄傳 武聖關公</title>
@@ -148,7 +148,7 @@
       <guid isPermaLink="false">accupass:2604161816079539147950</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
@@ -365,6 +365,14 @@
       <pubDate>Thu, 06 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-07 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>《地・獄・笑・話》</title>
+      <link>https://www.opentix.life/event/2082735823420825601</link>
+      <guid isPermaLink="false">opentix:2082735823420825601</guid>
+      <pubDate>Tue, 04 Aug 2026 01:45:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
@@ -789,14 +797,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-15 – 2026-08-22 · Venue: 舊峸劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】Wake Up Lab：一杯咖啡的療癒劇場</title>
-      <link>https://www.opentix.life/event/2069725448668581889</link>
-      <guid isPermaLink="false">opentix:2069725448668581889</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-20 · Venue: 二空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026臺北藝穗節】《他抓走的他》推理互動劇場</title>
