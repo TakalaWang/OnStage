@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:00:43 GMT</lastBuildDate>
     <item>
       <title>《璦之舞樂》劇場共融音樂會</title>
       <link>https://www.accupass.com/event/2607100325289806760750</link>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>英雄傳 武聖關公</title>
@@ -367,20 +367,36 @@
       <description>Date: 2026-08-07 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
+      <guid isPermaLink="false">era:P1D806CZ</guid>
+      <pubDate>Tue, 04 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-05 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>2026好有藝思表演藝術節《跟大野狼打勾勾？！》</title>
+      <link>https://www.opentix.life/event/2077333632621015041</link>
+      <guid isPermaLink="false">opentix:2077333632621015041</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-05 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 NTT遇見巨人—當代傳奇劇場《慾望城國》</title>
+      <link>https://www.opentix.life/event/2082725174577897473</link>
+      <guid isPermaLink="false">opentix:2082725174577897473</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>《地・獄・笑・話》</title>
       <link>https://www.opentix.life/event/2082735823420825601</link>
       <guid isPermaLink="false">opentix:2082735823420825601</guid>
       <pubDate>Tue, 04 Aug 2026 01:45:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
-      <guid isPermaLink="false">era:P1D806CZ</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-04 – 2026-08-29 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>面白放送</title>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-08 – 2026-08-09 · Venue: 山峸藝術公寓ART APT. 頂樓天台劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】饅頭</title>
-      <link>https://www.opentix.life/event/2065387285208125441</link>
-      <guid isPermaLink="false">opentix:2065387285208125441</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-22 · Venue: 舊峸劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】《他抓走的他》推理互動劇場</title>
-      <link>https://www.opentix.life/event/2059548187274895361</link>
-      <guid isPermaLink="false">opentix:2059548187274895361</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-28 · Venue: 北投中心新村-E2-2心村行+E2-3展間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

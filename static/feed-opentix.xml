@@ -5,7 +5,23 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:00:43 GMT</lastBuildDate>
+    <item>
+      <title>2026好有藝思表演藝術節《跟大野狼打勾勾？！》</title>
+      <link>https://www.opentix.life/event/2077333632621015041</link>
+      <guid isPermaLink="false">opentix:2077333632621015041</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-05 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 NTT遇見巨人—當代傳奇劇場《慾望城國》</title>
+      <link>https://www.opentix.life/event/2082725174577897473</link>
+      <guid isPermaLink="false">opentix:2082725174577897473</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>《地・獄・笑・話》</title>
       <link>https://www.opentix.life/event/2082735823420825601</link>
@@ -317,14 +333,6 @@
       <pubDate>Tue, 21 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-12 · Venue: 米倉劇場, 桃園市 · On sale: 2026-07-21 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>躍演《勸世三姊妹》中文音樂劇</title>
-      <link>https://www.opentix.life/event/2051591825313611777</link>
-      <guid isPermaLink="false">opentix:2051591825313611777</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-08-08 – 2026-10-25 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-07-20 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>神化</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-21 – 2026-08-22 · Venue: 福利社, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】查爾斯鋼琴獨奏會</title>
-      <link>https://www.opentix.life/event/2069594709796982784</link>
-      <guid isPermaLink="false">opentix:2069594709796982784</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-21 – 2026-08-23 · Venue: 羊檯Lamp｜鄰里關係工作室, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

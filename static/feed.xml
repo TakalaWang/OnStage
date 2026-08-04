@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:00:43 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -92,7 +92,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜10/10（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
@@ -431,6 +431,14 @@
       <description>Date: 2026-08-23 · Venue: 桃園市立圖書館總館 1 樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>8/23 府城喜劇OPEN MIC</title>
+      <link>https://www.accupass.com/event/2607311134351438833787</link>
+      <guid isPermaLink="false">accupass:2607311134351438833787</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-08-23 · Venue: 不要點上方地址直接引導，可至地圖APP搜尋SASADRA CAFE, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>【相聲愛NG】實驗相聲開放麥｜08/22（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191143415517524000</link>
       <guid isPermaLink="false">accupass:2607191143415517524000</guid>
@@ -767,6 +775,14 @@
       <description>Date: 2026-08-06 – 2026-08-28 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
+      <guid isPermaLink="false">era:P1D806CZ</guid>
+      <pubDate>Tue, 04 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-05 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>《仙履奇緣》閱讀親子音樂劇</title>
       <link>https://www.accupass.com/event/2606110629275773528700</link>
       <guid isPermaLink="false">accupass:2606110629275773528700</guid>
@@ -775,36 +791,20 @@
       <description>Date: 2026-08-05 · Venue: 國立臺灣圖書館B1演藝廳, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《地・獄・笑・話》</title>
-      <link>https://www.opentix.life/event/2082735823420825601</link>
-      <guid isPermaLink="false">opentix:2082735823420825601</guid>
-      <pubDate>Tue, 04 Aug 2026 01:45:00 GMT</pubDate>
+      <title>2026好有藝思表演藝術節《跟大野狼打勾勾？！》</title>
+      <link>https://www.opentix.life/event/2077333632621015041</link>
+      <guid isPermaLink="false">opentix:2077333632621015041</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-05 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
-      <guid isPermaLink="false">era:P1D806CZ</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+      <title>2026 NTT遇見巨人—當代傳奇劇場《慾望城國》</title>
+      <link>https://www.opentix.life/event/2082725174577897473</link>
+      <guid isPermaLink="false">opentix:2082725174577897473</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-04 – 2026-08-29 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>現場喜劇: 8月份/飛客劇樂部《週二歐噴麥》open mic｜主持：傑森 /FOHER / 秋涼 / 俊彥</title>
-      <link>https://www.accupass.com/event/2608010912022052069029</link>
-      <guid isPermaLink="false">accupass:2608010912022052069029</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-04 – 2026-08-25 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2079844992243417089</link>
-      <guid isPermaLink="false">opentix:2079844992243417089</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-12 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
