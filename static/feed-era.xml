@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 01:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:57:12 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -29,6 +29,14 @@
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-17 · Venue: 新莊文化藝術中心演藝廳, 新北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>夢想嘉年華</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DVKL7M</link>
+      <guid isPermaLink="false">era:P1DVKL7M</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-09 · Venue: 高雄市文化中心至善廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>英雄傳 武聖關公</title>
@@ -122,9 +130,9 @@
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
       <guid isPermaLink="false">era:P1D806CZ</guid>
-      <pubDate>Tue, 04 Aug 2026 16:00:00 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-05 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+      <description>Date: 2026-08-06 – 2026-08-29 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
