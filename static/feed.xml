@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:59:18 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -284,7 +284,7 @@
       <guid isPermaLink="false">accupass:2604161607482058993332</guid>
       <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-05 · Venue: 桃園市觀音區草漯國民小學活動中心, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-05 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《木盒宇宙》劇場版</title>
@@ -349,6 +349,14 @@
       <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-08-29 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>即興PK擂台賽 08/29（六）20:00 |飛客劇樂部｜夏大寶 /東區德 /姸慧 / 特蕾莎 / KJ /城寶 / 梅森</title>
+      <link>https://www.accupass.com/event/2608041255081139070857</link>
+      <guid isPermaLink="false">accupass:2608041255081139070857</guid>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-08-29 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026客家即興喜劇《新客報到3.0》｜新北場</title>
@@ -743,6 +751,14 @@
       <description>Date: 2026-08-07 – 2026-08-16 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>《我（他）把故事交給它（我）》→ 2026宜蘭青少年劇場 × 移動展演</title>
+      <link>https://www.accupass.com/event/2607290534441214888105</link>
+      <guid isPermaLink="false">accupass:2607290534441214888105</guid>
+      <pubDate>Thu, 06 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-07 · Venue: 集合地點：宜蘭演藝廳（宜蘭市中山路二段482號）, 宜蘭縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>喜劇開港 脫口秀OPEN MIC  (八月場)</title>
       <link>https://www.accupass.com/event/2607261224111048855246</link>
       <guid isPermaLink="false">accupass:2607261224111048855246</guid>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 04 Aug 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-08-05 · Venue: 國立臺灣圖書館B1演藝廳, 新北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026好有藝思表演藝術節《跟大野狼打勾勾？！》</title>
-      <link>https://www.opentix.life/event/2077333632621015041</link>
-      <guid isPermaLink="false">opentix:2077333632621015041</guid>
-      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-05 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026 NTT遇見巨人—當代傳奇劇場《慾望城國》</title>
-      <link>https://www.opentix.life/event/2082725174577897473</link>
-      <guid isPermaLink="false">opentix:2082725174577897473</guid>
-      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

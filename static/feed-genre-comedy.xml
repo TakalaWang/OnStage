@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:59:18 GMT</lastBuildDate>
     <item>
       <title>【別人家的小孩】醫師致葦 ✕ 台積工程師佳偉 — 雙人喜劇專場</title>
       <link>https://www.accupass.com/event/2607121028531840493938</link>
@@ -61,6 +61,14 @@
       <pubDate>Sat, 29 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-08-30 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>即興PK擂台賽 08/29（六）20:00 |飛客劇樂部｜夏大寶 /東區德 /姸慧 / 特蕾莎 / KJ /城寶 / 梅森</title>
+      <link>https://www.accupass.com/event/2608041255081139070857</link>
+      <guid isPermaLink="false">accupass:2608041255081139070857</guid>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-08-29 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026客家即興喜劇《新客報到3.0》｜新北場</title>
@@ -255,14 +263,6 @@
       <description>Date: 2026-10-04 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【11/6 台中群島加演場】藍恩首次單口喜劇專場《All Around You》 </title>
-      <link>https://comedyclub.kktix.cc/events/allaroundyou1106</link>
-      <guid isPermaLink="false">kktix:comedyclub/allaroundyou1106</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-06 · Venue: 群島藝術園區 Islands Art Park, 臺中市 · On sale: 2026-08-03 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>【11/13卡米地加演場】藍恩首次單口喜劇專場《All Around You》 </title>
       <link>https://comedyclub.kktix.cc/events/allaroundyou1113</link>
       <guid isPermaLink="false">kktix:comedyclub/allaroundyou1113</guid>
@@ -285,6 +285,14 @@
       <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-07-30 – 2026-08-31 · Venue: 遊牧計畫, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【11/06 彰化場】2026 佳諭單口喜劇專場《Get 婚》</title>
+      <link>https://comedyclub.kktix.cc/events/get20261106</link>
+      <guid isPermaLink="false">kktix:comedyclub/get20261106</guid>
+      <pubDate>Mon, 27 Jul 2026 11:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-06 · Venue: 賽博洋行, 彰化縣 · On sale: 2026-07-27 · Source: KKTIX</description>
     </item>
     <item>
       <title>【11/07 雲林場】2026 佳諭單口喜劇專場《Get 婚》</title>
