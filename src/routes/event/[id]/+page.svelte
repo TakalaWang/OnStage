@@ -29,9 +29,12 @@
 			show.venue ? `${show.venue}${show.city ? ` · ${show.city}` : ''}` : show.city,
 			fmtPrice(show) ? `票價 ${fmtPrice(show)}` : null,
 			show.category,
+			show.description,
 		]
 			.filter(Boolean)
-			.join('｜'),
+			.join('｜')
+			.replace(/\s+/g, ' ')
+			.slice(0, 160),
 	);
 
 	const ogImage = $derived(show.imageUrl ?? `${data.siteUrl}/og.png`);
@@ -43,6 +46,7 @@
 			'@type': 'Event',
 			name: show.title,
 			url: canonical,
+			eventStatus: 'https://schema.org/EventScheduled',
 			...(show.startDate ? { startDate: show.startDate } : {}),
 			...(show.endDate ? { endDate: show.endDate } : {}),
 			...(show.imageUrl ? { image: show.imageUrl } : {}),
@@ -75,6 +79,7 @@
 							price: show.minPrice,
 							priceCurrency: 'TWD',
 							url: show.url,
+							...(show.onSaleAt ? { validFrom: show.onSaleAt } : {}),
 						},
 					}
 				: {}),

@@ -2,7 +2,6 @@
 	import { SOURCE_LABELS, type Show } from '$lib/types';
 	import { fmtDateRange, SOURCE_COLOR } from '$lib/format';
 	import { initialDark, applyDark } from '$lib/theme';
-	import { thumb } from '$lib/img';
 	import ShowModal from '$lib/components/ShowModal.svelte';
 	import Icon from '$lib/components/Icon.svelte';
 	import type { PageData } from './$types';
@@ -160,6 +159,7 @@
 <svelte:head>
 	<title>月曆 — 幕間 OnStage TW</title>
 	<meta name="description" content="用月曆檢視台灣戲劇演出，依演出日期一目了然。" />
+	<link rel="canonical" href={`${data.siteUrl}/calendar`} />
 </svelte:head>
 
 <header class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3.5 sm:px-5">
@@ -330,8 +330,10 @@
 							>
 								{#if show.imageUrl}
 									<img
-										src={thumb(show.imageUrl, 140)}
+										src={show.imageUrl}
 										alt=""
+										width="140"
+										height="140"
 										loading="lazy"
 										decoding="async"
 										referrerpolicy="no-referrer"

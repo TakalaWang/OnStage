@@ -202,9 +202,9 @@
 		if (!sentinel) return;
 		const io = new IntersectionObserver(
 			(entries) => {
-				if (entries[0].isIntersecting) visible += 36;
+				if (entries[0].isIntersecting) visible += 12;
 			},
-			{ rootMargin: '800px' },
+			{ rootMargin: '600px' },
 		);
 		io.observe(sentinel);
 		return () => io.disconnect();
