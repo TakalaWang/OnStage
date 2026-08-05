@@ -4,7 +4,6 @@
 	import { CITY_CENTERS, findVenue, type Venue } from '$lib/venues';
 	import { SOURCE_LABELS, type Show } from '$lib/types';
 	import { fmtDateRange } from '$lib/format';
-	import { thumb } from '$lib/img';
 	import { googleMapsSearchUrl } from '$lib/maps';
 	import { initialDark, applyDark } from '$lib/theme';
 	import ShowModal from '$lib/components/ShowModal.svelte';
@@ -163,8 +162,10 @@
 						>
 							{#if s.imageUrl}
 								<img
-									src={thumb(s.imageUrl, 140)}
+									src={s.imageUrl}
 									alt=""
+									width="140"
+									height="140"
 									loading="lazy"
 									decoding="async"
 									referrerpolicy="no-referrer"

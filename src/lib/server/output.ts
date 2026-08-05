@@ -75,7 +75,6 @@ function renderSitemap(active: Show[], today: string): string {
 	const urls = [
 		{ loc: `${SITE_URL}/`, priority: '1.0', changefreq: 'daily' },
 		{ loc: `${SITE_URL}/calendar`, priority: '0.7', changefreq: 'daily' },
-		{ loc: `${SITE_URL}/map`, priority: '0.7', changefreq: 'daily' },
 		{ loc: `${SITE_URL}/about`, priority: '0.3', changefreq: 'monthly' },
 		...active.map((s) => ({
 			loc: `${SITE_URL}/event/${eventSlug(s.id)}`,

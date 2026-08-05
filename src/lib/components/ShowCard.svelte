@@ -3,7 +3,6 @@
 	import { fmtDateRange, fmtPrice, fmtOnSale, daysUntilOnSale, SOURCE_COLOR } from '$lib/format';
 	import { favorites } from '$lib/favorites.svelte';
 	import { eventPath } from '$lib/slug';
-	import { thumb } from '$lib/img';
 	import Icon from './Icon.svelte';
 
 	let {
@@ -38,9 +37,12 @@
 	<div class="relative aspect-[3/2] overflow-hidden bg-curtain-950">
 		{#if show.imageUrl}
 			<img
-				src={thumb(show.imageUrl, 480)}
+				src={show.imageUrl}
 				alt={show.title}
-				loading="lazy"
+				width="480"
+				height="320"
+				loading={index < 3 ? 'eager' : 'lazy'}
+				fetchpriority={index < 3 ? 'high' : 'low'}
 				decoding="async"
 				referrerpolicy="no-referrer"
 				class="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-110"
