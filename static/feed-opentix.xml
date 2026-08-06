@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 02:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:56:19 GMT</lastBuildDate>
+    <item>
+      <title>唱歌集《今晚，我想來點》（一直）翻轉の人生音樂劇</title>
+      <link>https://www.opentix.life/event/2082771982137057281</link>
+      <guid isPermaLink="false">opentix:2082771982137057281</guid>
+      <pubDate>Thu, 06 Aug 2026 04:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-13 – 2026-11-15 · Venue: 水源劇場, 臺北市 · On sale: 2026-08-06 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>新文化館年度戲劇演出《大正十六年》</title>
       <link>https://www.opentix.life/event/2081904868818423809</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-20 – 2026-08-23 · Venue: 尾田家, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】一山還有一山高，一媽還有一媽媽</title>
-      <link>https://www.opentix.life/event/2063884988637630465</link>
-      <guid isPermaLink="false">opentix:2063884988637630465</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-20 – 2026-08-21 · Venue: 小馬廄, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
