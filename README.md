@@ -6,8 +6,6 @@ Taiwan's theatre ticketing is fragmented across OPENTIX, udn, KHAM, ERA, KKTIX a
 
 Theatre only (stage plays, musicals, traditional opera, puppetry, children's theatre, crosstalk, comedy…); concerts and music recitals are excluded.
 
-> UI is in Traditional Chinese (the audience is in Taiwan). Code, docs and this README are in English.
-
 ## Features
 
 - **List view**, **calendar view** (`/calendar`) and **map view** (`/map`), plus a prerendered **per-show page** at `/event/[id]` (own title, OG tags and schema.org Event JSON-LD, so individual shows are indexable).
