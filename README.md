@@ -6,8 +6,6 @@ Taiwan's theatre ticketing is fragmented across OPENTIX, udn, KHAM, ERA, KKTIX a
 
 Theatre only (stage plays, musicals, traditional opera, puppetry, children's theatre, crosstalk, comedy…); concerts and music recitals are excluded.
 
-🔗 **Live:** https://onstage.takalawang.dev · 📦 **Repo:** https://github.com/TakalaWang/onstage-tw
-
 > UI is in Traditional Chinese (the audience is in Taiwan). Code, docs and this README are in English.
 
 ## Features
