@@ -1,4 +1,4 @@
-# OnStage TW（幕間）
+# OnStage（幕間）
 
 > See every theatre performance in Taiwan in one place.
 
