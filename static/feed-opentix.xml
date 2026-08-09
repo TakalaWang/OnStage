@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 01:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:43:04 GMT</lastBuildDate>
     <item>
       <title>2026歌仔戲旗艦展演—唐美雲歌仔戲團《南都幽靈夜譚》</title>
       <link>https://www.opentix.life/event/2084921215902920705</link>
@@ -647,28 +647,20 @@
       <description>Date: 2026-08-29 – 2027-01-23 · Venue: 中壢藝術館音樂廳, 桃園市 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>2026苗北心勢力：瑤場共創《再見卡門》沉浸式舞蹈小歌劇</title>
+      <link>https://www.opentix.life/event/2067495578192642049</link>
+      <guid isPermaLink="false">opentix:2067495578192642049</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 苗北藝文中心實驗劇場, 苗栗縣 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>國立臺灣戲曲學院復興京劇團 《封神風雲》神榜降臨 ‧ 封神再起</title>
       <link>https://www.opentix.life/event/2069694701413556225</link>
       <guid isPermaLink="false">opentix:2069694701413556225</guid>
       <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026北投小戲節—《鯨生：海神公主與神秘的龍宮城》</title>
-      <link>https://www.opentix.life/event/2070042828018405377</link>
-      <guid isPermaLink="false">opentix:2070042828018405377</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-09 · Venue: 山峸藝術公寓ART APT. 頂樓天台劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026北投小戲節—野村眞人《吉日再會》</title>
-      <link>https://www.opentix.life/event/2070026434774556673</link>
-      <guid isPermaLink="false">opentix:2070026434774556673</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-09 · Venue: 舊峸劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026臺北藝穗節】《他抓走的他》推理互動劇場</title>
@@ -805,6 +797,14 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-19 – 2026-08-30 · Venue: 拾久駅, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026臺北藝穗節】「路口再見」- 回溯劇場</title>
+      <link>https://www.opentix.life/event/2064611742581805057</link>
+      <guid isPermaLink="false">opentix:2064611742581805057</guid>
+      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-20 – 2026-08-26 · Venue: 藝秀設計影像工作室, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
