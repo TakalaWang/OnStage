@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:16:50 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -365,6 +365,14 @@
       <pubDate>Tue, 04 Aug 2026 01:45:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【11/6 高雄場】Ellery 呈獻 THE CUT - Fall Edition 秋季場</title>
+      <link>https://comedyclub.kktix.cc/events/thecutautumn1106</link>
+      <guid isPermaLink="false">kktix:comedyclub/thecutautumn1106</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-06 · Venue: 洛克音樂藝文展演空間 Rock Music Live House, 高雄市 · On sale: 2026-08-03 · Source: KKTIX</description>
     </item>
     <item>
       <title>面白放送</title>
@@ -767,28 +775,12 @@
       <description>Date: 2026-08-15 – 2026-08-28 · Venue: 北投中心新村-E2-2心村行+E2-3展間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026臺北藝穗節】塔你個羅！</title>
-      <link>https://www.opentix.life/event/2065387090704117761</link>
-      <guid isPermaLink="false">opentix:2065387090704117761</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-22 · Venue: 叢口, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【2026臺北藝穗節】饅頭</title>
       <link>https://www.opentix.life/event/2065387285208125441</link>
       <guid isPermaLink="false">opentix:2065387285208125441</guid>
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-15 – 2026-08-22 · Venue: 舊峸劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】Wake Up Lab：一杯咖啡的療癒劇場</title>
-      <link>https://www.opentix.life/event/2069725448668581889</link>
-      <guid isPermaLink="false">opentix:2069725448668581889</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-20 · Venue: 二空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026臺北藝穗節】擬家聊天室</title>
@@ -805,6 +797,14 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-15 – 2026-08-16 · Venue: 台北偶戲館黑箱劇場, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026臺北藝穗節】Wake Up Lab：一杯咖啡的療癒劇場</title>
+      <link>https://www.opentix.life/event/2069725448668581889</link>
+      <guid isPermaLink="false">opentix:2069725448668581889</guid>
+      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-15 – 2026-08-20 · Venue: 二空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
