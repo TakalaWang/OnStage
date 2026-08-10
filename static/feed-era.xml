@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 01:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:00:01 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -61,6 +61,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-09-19 – 2026-11-22 · Venue: 臺中市政府文化局中山堂, 臺中市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>9月高雄市電影館｜長短腳電影院－小腳丫遠征隊</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6TW5K</link>
+      <guid isPermaLink="false">era:P1E6TW5K</guid>
+      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-06 – 2026-09-12 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>《旅店迴旋曲》-清水劇團2026年度公演</title>
@@ -122,17 +130,17 @@
       <title>超人力霸王舞台劇In Taiwan 2026</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
       <guid isPermaLink="false">era:P19Q1GAI</guid>
-      <pubDate>Sat, 08 Aug 2026 16:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
-      <description>Date: 2026-08-09 – 2026-08-16 · Venue: 桃園展演中心展演廳, 桃園市 · Source: 年代售票</description>
+      <description>Date: 2026-08-12 – 2026-08-16 · Venue: 新營文化中心演藝廳, 臺南市 · Source: 年代售票</description>
     </item>
     <item>
       <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
       <guid isPermaLink="false">era:P1D806CZ</guid>
-      <pubDate>Sat, 08 Aug 2026 16:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-09 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+      <description>Date: 2026-08-12 – 2026-08-29 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
