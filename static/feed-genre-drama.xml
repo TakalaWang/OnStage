@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 01:24:05 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -439,14 +439,6 @@
       <description>Date: 2026-12-11 – 2026-12-13 · Venue: 臺北市中山堂中正廳, 臺北市 · On sale: 2026-08-11 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>我們為什麼還需要劇場？──在快速時代中，重新找回感受與敘事的能力</title>
-      <link>https://www.accupass.com/event/2606220744071034648220</link>
-      <guid isPermaLink="false">accupass:2606220744071034648220</guid>
-      <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-11 · Venue:  (入口在101斜對面，松智路上）, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>烏犬劇場《你生下我的時候我也生下了你》</title>
       <link>https://www.opentix.life/event/2084120461598142465</link>
       <guid isPermaLink="false">opentix:2084120461598142465</guid>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-06 – 2026-11-08 · Venue: 水源劇場, 臺北市 · On sale: 2026-07-20 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>環遊世界80+1天</title>
+      <link>https://www.opentix.life/event/2076862416033050624</link>
+      <guid isPermaLink="false">opentix:2076862416033050624</guid>
+      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-23 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
