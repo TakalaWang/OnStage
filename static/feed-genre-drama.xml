@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:59:37 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -335,6 +335,14 @@
       <description>Date: 2026-08-16 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
+      <guid isPermaLink="false">era:P1D806CZ</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-16 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026年「要到泉劇場」開幕系列─《府城弦話集》</title>
       <link>https://www.accupass.com/event/2607200729511936660720</link>
       <guid isPermaLink="false">accupass:2607200729511936660720</guid>
@@ -415,20 +423,12 @@
       <description>Date: 2026-08-13 · Venue: 新莊文化藝術中心, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D806CZ</link>
-      <guid isPermaLink="false">era:P1D806CZ</guid>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
+      <title>「外交官的故事」部分發表會（含劇團重要報告等）</title>
+      <link>https://www.opentix.life/event/2084532856189726721</link>
+      <guid isPermaLink="false">opentix:2084532856189726721</guid>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-12 – 2026-08-29 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026新莊有好戲-【劇場開箱系列】一心戲劇團《審石頭？Oh MyGod！真的假的啦？》</title>
-      <link>https://www.accupass.com/event/2605290610322435439730</link>
-      <guid isPermaLink="false">accupass:2605290610322435439730</guid>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-12 · Venue: 新莊文化藝術中心, 新北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-05 – 2026-10-07 · Venue: 誠品表演廳, 臺北市 · On sale: 2026-08-12 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《當時光起舞》臺北市中山堂90週年紀念演出</title>
@@ -559,12 +559,12 @@
       <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2079844992243417089</link>
-      <guid isPermaLink="false">opentix:2079844992243417089</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+      <title>【11/6 高雄場】Ellery 呈獻 THE CUT - Fall Edition 秋季場</title>
+      <link>https://comedyclub.kktix.cc/events/thecutautumn1106</link>
+      <guid isPermaLink="false">kktix:comedyclub/thecutautumn1106</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-12 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-06 · Venue: 洛克音樂藝文展演空間 Rock Music Live House, 高雄市 · On sale: 2026-08-03 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026趨勢詩劇場《零雨的房間》</title>
@@ -581,6 +581,14 @@
       <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-04 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2079844992243417089</link>
+      <guid isPermaLink="false">opentix:2079844992243417089</guid>
+      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《臺語鬧熱戲場：張古董租妻 × 怪咖紳士秦大條》</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-06 – 2026-11-08 · Venue: 水源劇場, 臺北市 · On sale: 2026-07-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>環遊世界80+1天</title>
-      <link>https://www.opentix.life/event/2076862416033050624</link>
-      <guid isPermaLink="false">opentix:2076862416033050624</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-23 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

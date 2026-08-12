@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:59:37 GMT</lastBuildDate>
+    <item>
+      <title>「外交官的故事」部分發表會（含劇團重要報告等）</title>
+      <link>https://www.opentix.life/event/2084532856189726721</link>
+      <guid isPermaLink="false">opentix:2084532856189726721</guid>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-05 – 2026-10-07 · Venue: 誠品表演廳, 臺北市 · On sale: 2026-08-12 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>于魁智、李勝素與中國戲曲學院名家匯演</title>
       <link>https://www.opentix.life/event/2076872118440620032</link>
@@ -183,14 +191,6 @@
       <description>Date: 2026-09-12 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-04 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2079844992243417089</link>
-      <guid isPermaLink="false">opentix:2079844992243417089</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-12 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026趨勢詩劇場《零雨的房間》</title>
       <link>https://www.opentix.life/event/2082029137613692928</link>
       <guid isPermaLink="false">opentix:2082029137613692928</guid>
@@ -213,6 +213,14 @@
       <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-04 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2079844992243417089</link>
+      <guid isPermaLink="false">opentix:2079844992243417089</guid>
+      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026財團法人廖瓊枝歌仔戲文教基金會《火燒紅蓮寺》</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-16 – 2026-08-19 · Venue: 倏忽空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】凌晨三點的便利商店</title>
-      <link>https://www.opentix.life/event/2066427618950164481</link>
-      <guid isPermaLink="false">opentix:2066427618950164481</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-16 – 2026-08-21 · Venue: 窩窩藝文空間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
