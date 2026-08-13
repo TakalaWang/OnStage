@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:01:40 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -423,14 +423,6 @@
       <description>Date: 2026-08-14 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026新莊有好戲-【劇場開箱系列】一心戲劇團《審石頭？Oh MyGod！真的假的啦？》</title>
-      <link>https://www.accupass.com/event/2606010559251224548396</link>
-      <guid isPermaLink="false">accupass:2606010559251224548396</guid>
-      <pubDate>Wed, 12 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-13 · Venue: 新莊文化藝術中心, 新北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>「外交官的故事」部分發表會（含劇團重要報告等）</title>
       <link>https://www.opentix.life/event/2084532856189726721</link>
       <guid isPermaLink="false">opentix:2084532856189726721</guid>
@@ -540,7 +532,7 @@
       <guid isPermaLink="false">opentix:2079024127582380033</guid>
       <pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-15 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-05 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026好有藝思表演藝術節《跟大野狼打勾勾？！》</title>
@@ -805,6 +797,14 @@
       <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-23 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>OPEN週末劇院_阮劇團《樓上的好人》</title>
+      <link>https://www.opentix.life/event/2066809416750247937</link>
+      <guid isPermaLink="false">opentix:2066809416750247937</guid>
+      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 彰化縣文化局員林演藝廳小劇場, 彰化縣 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
