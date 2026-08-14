@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 13:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:25:36 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -407,6 +407,22 @@
       <description>Date: 2026-09-02 · Venue: 國家兩廳院 戲劇院一樓大廳, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【11/14】《笑果器》</title>
+      <link>https://comedyclub.kktix.cc/events/effector1114</link>
+      <guid isPermaLink="false">kktix:comedyclub/effector1114</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【11/15】《笑果器》</title>
+      <link>https://comedyclub.kktix.cc/events/effector1115</link>
+      <guid isPermaLink="false">kktix:comedyclub/effector1115</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>《笑果器》</title>
       <link>https://comedyclub.kktix.cc/events/effector</link>
       <guid isPermaLink="false">kktix:comedyclub/effector</guid>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-14 · Venue: 四號公園文創演藝廳, 新北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>來福OPEN MIC 8月</title>
-      <link>https://www.accupass.com/event/2607311132261294108772</link>
-      <guid isPermaLink="false">accupass:2607311132261294108772</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-14 – 2026-08-28 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026年「要到泉劇場」開幕系列─《秀蓮 ！頑張って》</title>
-      <link>https://www.accupass.com/event/2607200603491108696152</link>
-      <guid isPermaLink="false">accupass:2607200603491108696152</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-14 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
