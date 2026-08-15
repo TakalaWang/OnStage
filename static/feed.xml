@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:32:23 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -68,7 +68,7 @@
       <guid isPermaLink="false">accupass:2605291106371243915188</guid>
       <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-11-06 – 2026-11-21 · Source: Accupass 活動通</description>
+      <description>Date: 2026-11-06 – 2026-11-21 · Venue: 卡米地+（小廳）, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
@@ -340,7 +340,7 @@
       <guid isPermaLink="false">accupass:2604161816079539147950</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
@@ -615,6 +615,14 @@
       <description>Date: 2026-08-22 – 2026-08-29 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
+      <guid isPermaLink="false">era:P1D834GM</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-22 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>【相聲愛NG】實驗相聲開放麥｜08/22（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191143415517524000</link>
       <guid isPermaLink="false">accupass:2607191143415517524000</guid>
@@ -695,6 +703,30 @@
       <description>Date: 2026-08-19 – 2026-08-26 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《Re:late》2026雙卡司再創作版</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
+      <guid isPermaLink="false">udn:P1B0JCEG</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>舞台劇《都更男女》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P18P4HS6</link>
+      <guid isPermaLink="false">udn:P18P4HS6</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-08-16 – 2026-09-06 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>超人力霸王舞台劇In Taiwan 2026</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
+      <guid isPermaLink="false">era:P19Q1GAI</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-08-16 · Venue: 雲林表演廳, 雲林縣 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>8月高雄市電影館｜長短腳電影院－嘰嘰王子：宇宙無敵</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPVOX</link>
       <guid isPermaLink="false">era:P1BTPVOX</guid>
@@ -727,52 +759,20 @@
       <description>Date: 2026-08-16 · Venue: 肆·我 MOI.Lab, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《Re:late》2026雙卡司再創作版</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
-      <guid isPermaLink="false">udn:P1B0JCEG</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+      <title>《聽偶講故事：原來這就是客家八音》</title>
+      <link>https://www.opentix.life/event/2084470210869399553</link>
+      <guid isPermaLink="false">opentix:2084470210869399553</guid>
+      <pubDate>Sat, 15 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+      <description>Date: 2026-09-12 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>舞台劇《都更男女》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P18P4HS6</link>
-      <guid isPermaLink="false">udn:P18P4HS6</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-08-15 – 2026-09-06 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>超人力霸王舞台劇In Taiwan 2026</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
-      <guid isPermaLink="false">era:P19Q1GAI</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-08-15 – 2026-08-16 · Venue: 高雄市文化中心至德堂, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
-      <guid isPermaLink="false">era:P1D834GM</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026年「要到泉劇場」開幕系列─《城市巡禮－要道館》</title>
-      <link>https://www.accupass.com/event/2607200718068577139420</link>
-      <guid isPermaLink="false">accupass:2607200718068577139420</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title> 2026年「要到泉劇場」開幕系列─《慢陶府城》</title>
-      <link>https://www.accupass.com/event/2607200651161967281830</link>
-      <guid isPermaLink="false">accupass:2607200651161967281830</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
+      <title>真・春雨漫才專場《藝術就是爆炸》</title>
+      <link>https://www.opentix.life/event/2085199132312293377</link>
+      <guid isPermaLink="false">opentix:2085199132312293377</guid>
+      <pubDate>Sat, 15 Aug 2026 03:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-30 – 2026-10-31 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 八月 【雄好笑 漫才 OPEN MIC】</title>

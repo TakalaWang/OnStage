@@ -5,14 +5,14 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:32:23 GMT</lastBuildDate>
     <item>
       <title>（漫才拼盤秀）撿橘子 - 金桔不景氣</title>
       <link>https://www.accupass.com/event/2605291106371243915188</link>
       <guid isPermaLink="false">accupass:2605291106371243915188</guid>
       <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-11-06 – 2026-11-21 · Source: Accupass 活動通</description>
+      <description>Date: 2026-11-06 – 2026-11-21 · Venue: 卡米地+（小廳）, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【別人家的小孩】醫師致葦 ✕ 台積工程師佳偉 — 雙人喜劇專場</title>
@@ -181,6 +181,14 @@
       <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-08-16 · Venue: 肆·我 MOI.Lab, 屏東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>真・春雨漫才專場《藝術就是爆炸》</title>
+      <link>https://www.opentix.life/event/2085199132312293377</link>
+      <guid isPermaLink="false">opentix:2085199132312293377</guid>
+      <pubDate>Sat, 15 Aug 2026 03:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-30 – 2026-10-31 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 八月 【雄好笑 漫才 OPEN MIC】</title>
@@ -364,7 +372,7 @@
       <guid isPermaLink="false">opentix:2064982560279306241</guid>
       <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-08-15 – 2026-08-16 · Venue: 鬧房間, 臺北市 · On sale: 2026-06-22 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-08-16 · Venue: 鬧房間, 臺北市 · On sale: 2026-06-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026臺北藝穗節】及時行樂短篇即興集錦</title>

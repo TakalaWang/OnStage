@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:32:23 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -188,7 +188,7 @@
       <guid isPermaLink="false">accupass:2604161816079539147950</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
@@ -327,6 +327,14 @@
       <description>Date: 2026-08-23 · Venue: 國立臺灣藝術教育館 南海劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
+      <guid isPermaLink="false">era:P1D834GM</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-22 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026童演童語-《仙界小霹靂-圖書館特工》任務四：協調</title>
       <link>https://www.accupass.com/event/2604161813399320653180</link>
       <guid isPermaLink="false">accupass:2604161813399320653180</guid>
@@ -349,6 +357,14 @@
       <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-19 – 2026-08-22 · Venue: 民生路老宅56-3, 臺中市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《Re:late》2026雙卡司再創作版</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
+      <guid isPermaLink="false">udn:P1B0JCEG</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
       <title>8月高雄市電影館｜長短腳電影院－嘰嘰王子：宇宙無敵</title>
@@ -375,36 +391,12 @@
       <description>Date: 2026-08-16 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《Re:late》2026雙卡司再創作版</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B0JCEG</link>
-      <guid isPermaLink="false">udn:P1B0JCEG</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+      <title>《聽偶講故事：原來這就是客家八音》</title>
+      <link>https://www.opentix.life/event/2084470210869399553</link>
+      <guid isPermaLink="false">opentix:2084470210869399553</guid>
+      <pubDate>Sat, 15 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-16 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
-      <guid isPermaLink="false">era:P1D834GM</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026年「要到泉劇場」開幕系列─《城市巡禮－要道館》</title>
-      <link>https://www.accupass.com/event/2607200718068577139420</link>
-      <guid isPermaLink="false">accupass:2607200718068577139420</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title> 2026年「要到泉劇場」開幕系列─《慢陶府城》</title>
-      <link>https://www.accupass.com/event/2607200651161967281830</link>
-      <guid isPermaLink="false">accupass:2607200651161967281830</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>HSINCHU COMEDY LIVE</title>
@@ -805,6 +797,14 @@
       <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-23 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>OPEN週末劇院_阮劇團《樓上的好人》</title>
+      <link>https://www.opentix.life/event/2066809416750247937</link>
+      <guid isPermaLink="false">opentix:2066809416750247937</guid>
+      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 彰化縣文化局員林演藝廳小劇場, 彰化縣 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

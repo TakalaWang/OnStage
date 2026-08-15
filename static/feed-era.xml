@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:32:23 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -103,6 +103,22 @@
       <description>Date: 2026-08-22 – 2026-08-29 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
+      <guid isPermaLink="false">era:P1D834GM</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-22 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>超人力霸王舞台劇In Taiwan 2026</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
+      <guid isPermaLink="false">era:P19Q1GAI</guid>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-08-16 · Venue: 雲林表演廳, 雲林縣 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>8月高雄市電影館｜長短腳電影院－嘰嘰王子：宇宙無敵</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BTPVOX</link>
       <guid isPermaLink="false">era:P1BTPVOX</guid>
@@ -117,22 +133,6 @@
       <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-16 – 2026-08-29 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>超人力霸王舞台劇In Taiwan 2026</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Q1GAI</link>
-      <guid isPermaLink="false">era:P19Q1GAI</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-08-15 – 2026-08-16 · Venue: 高雄市文化中心至德堂, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
-      <guid isPermaLink="false">era:P1D834GM</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-15 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
