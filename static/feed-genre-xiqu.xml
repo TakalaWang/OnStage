@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 16 Aug 2026 00:58:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:32:01 GMT</lastBuildDate>
     <item>
       <title>2026年「要到泉劇場」開幕系列─《武德跫音，南管初聽》</title>
       <link>https://www.accupass.com/event/2607200826119605184400</link>
@@ -263,14 +263,6 @@
       <description>Date: 2026-10-02 – 2026-10-04 · Venue: 臺灣戲曲中心多功能廳, 臺北市 · On sale: 2026-05-06 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>崑曲《崔氏的怨悔癡癲》</title>
-      <link>https://www.opentix.life/event/2039548820209590273</link>
-      <guid isPermaLink="false">opentix:2039548820209590273</guid>
-      <pubDate>Fri, 01 May 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-08-16 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-05-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【崑劇】風城崑劇團《牡丹亭》、《爛柯山》</title>
       <link>https://www.opentix.life/event/2035245605008674817</link>
       <guid isPermaLink="false">opentix:2035245605008674817</guid>
@@ -285,14 +277,6 @@
       <pubDate>Fri, 03 Apr 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-09-12 · Venue: 大東文化藝術中心, 高雄市 · On sale: 2026-04-03 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026兒童戲曲藝術節:五洲勝義閣掌中劇團《巨人阿里》</title>
-      <link>https://www.opentix.life/event/2034094569913835520</link>
-      <guid isPermaLink="false">opentix:2034094569913835520</guid>
-      <pubDate>Wed, 01 Apr 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-08-16 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-04-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>臺灣豫劇團2026唱秋公演《劉姥姥》</title>
@@ -317,14 +301,6 @@
       <pubDate>Wed, 25 Feb 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-08-29 – 2026-08-30 · Venue: 臺灣豫劇團大排練場, 高雄市 · On sale: 2026-02-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>臺灣豫劇團2026武俠宇宙系列《行俠》</title>
-      <link>https://www.opentix.life/event/2006268914625200129</link>
-      <guid isPermaLink="false">opentix:2006268914625200129</guid>
-      <pubDate>Wed, 21 Jan 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-08-16 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-01-21 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
