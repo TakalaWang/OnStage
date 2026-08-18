@@ -5,7 +5,31 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:38:24 GMT</lastBuildDate>
+    <item>
+      <title>【牛山海灣之歌】</title>
+      <link>https://www.opentix.life/event/2082667316303683585</link>
+      <guid isPermaLink="false">opentix:2082667316303683585</guid>
+      <pubDate>Tue, 18 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 – 2026-10-26 · Venue: 花蓮文化創意產業園區 第18棟包裝工廠, 花蓮縣 · On sale: 2026-08-18 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026臺北藝穗節】即使世界末日還是想吃枝仔冰</title>
+      <link>https://www.opentix.life/event/2064535827594289153</link>
+      <guid isPermaLink="false">opentix:2064535827594289153</guid>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026臺北藝穗節】H&amp;G2：Encore糖果屋！饒舌互動劇場</title>
+      <link>https://www.opentix.life/event/2064620422574579713</link>
+      <guid isPermaLink="false">opentix:2064620422574579713</guid>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2085323910961053697</link>
@@ -612,7 +636,7 @@
       <guid isPermaLink="false">opentix:2075184697495470081</guid>
       <pubDate>Wed, 15 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-08-18 – 2026-08-22 · Venue: 北投中心新村-E2-2心村行+E2-3展間, 臺北市 · On sale: 2026-07-15 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-08-19 – 2026-08-22 · Venue: 北投中心新村-E2-2心村行+E2-3展間, 臺北市 · On sale: 2026-07-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>國光劇團魔幻京劇《公主與她的魔法扇》2026苗北藝術節</title>
@@ -781,30 +805,6 @@
       <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 苗北藝文中心實驗劇場, 苗栗縣 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>國立臺灣戲曲學院復興京劇團 《封神風雲》神榜降臨 ‧ 封神再起</title>
-      <link>https://www.opentix.life/event/2069694701413556225</link>
-      <guid isPermaLink="false">opentix:2069694701413556225</guid>
-      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】伽利略計畫《它仍然在動：公轉第七年》</title>
-      <link>https://www.opentix.life/event/2070031576102068225</link>
-      <guid isPermaLink="false">opentix:2070031576102068225</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-17 – 2026-08-30 · Venue: 小劇場學校, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】《他抓走的他》推理互動劇場</title>
-      <link>https://www.opentix.life/event/2059548187274895361</link>
-      <guid isPermaLink="false">opentix:2059548187274895361</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-18 – 2026-08-28 · Venue: 北投中心新村-E2-2心村行+E2-3展間, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
