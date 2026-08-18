@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:47:45 GMT</lastBuildDate>
     <item>
       <title>（漫才拼盤秀）撿橘子 - 金桔不景氣</title>
       <link>https://www.accupass.com/event/2605291106371243915188</link>
@@ -45,6 +45,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: WESTAR, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>礙笑人生 2026：多重身份——誰說我們不能開玩笑？身心障礙者專場脫口秀</title>
+      <link>https://www.accupass.com/event/2608171658504510151300</link>
+      <guid isPermaLink="false">accupass:2608171658504510151300</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 龍山文創基地B1廣場, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【劇舞即Party】舞蹈即興×即興歌唱× Social Party</title>
@@ -175,14 +183,6 @@
       <description>Date: 2026-08-19 – 2026-08-26 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>真・春雨漫才專場《藝術就是爆炸》</title>
-      <link>https://www.opentix.life/event/2085199132312293377</link>
-      <guid isPermaLink="false">opentix:2085199132312293377</guid>
-      <pubDate>Sat, 15 Aug 2026 03:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-30 – 2026-10-31 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>&lt; 2026『大寶流』漫才&amp; 短劇訓練班 &gt;｜08/09～08/29｜ 飛客俱樂部 </title>
       <link>https://www.accupass.com/event/2607051348271557070980</link>
       <guid isPermaLink="false">accupass:2607051348271557070980</guid>
@@ -247,14 +247,6 @@
       <description>Date: 2026-08-04 – 2026-08-25 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>春雨x好竹弋《超即興期天~Super》</title>
-      <link>https://www.opentix.life/event/2080199452213727233</link>
-      <guid isPermaLink="false">opentix:2080199452213727233</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-04 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【11/13卡米地加演場】藍恩首次單口喜劇專場《All Around You》 </title>
       <link>https://comedyclub.kktix.cc/events/allaroundyou1113</link>
       <guid isPermaLink="false">kktix:comedyclub/allaroundyou1113</guid>
@@ -317,38 +309,6 @@
       <pubDate>Mon, 27 Jul 2026 11:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-22 · Venue: All Star Live House 奧斯卡美式餐廳, 花蓮縣 · On sale: 2026-07-27 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>黃梅調喜劇《三笑點秋香》創團20年慶公演</title>
-      <link>https://www.opentix.life/event/2070424632643018752</link>
-      <guid isPermaLink="false">opentix:2070424632643018752</guid>
-      <pubDate>Fri, 10 Jul 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-06 – 2026-09-27 · Venue: 基隆表演藝術中心演藝廳, 基隆市 · On sale: 2026-07-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【整人專家】喜劇診聊室</title>
-      <link>https://www.opentix.life/event/2070339678321119233</link>
-      <guid isPermaLink="false">opentix:2070339678321119233</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-23 · Venue: 竹東音樂巷親愛音樂廳, 新竹縣 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】及時行樂短篇即興集錦</title>
-      <link>https://www.opentix.life/event/2057758233623863297</link>
-      <guid isPermaLink="false">opentix:2057758233623863297</guid>
-      <pubDate>Sat, 20 Jun 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-18 – 2026-08-30 · Venue: 拾久駅, 臺北市 · On sale: 2026-06-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026ECHO偶計劃－《玩物JAM》物件即興創作</title>
-      <link>https://www.opentix.life/event/2052300926144778241</link>
-      <guid isPermaLink="false">opentix:2052300926144778241</guid>
-      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-11 · Venue: 牯嶺街小劇場二樓藝文空間, 臺北市 · On sale: 2026-05-15 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 北部綜藝能工作室《週三即興子》</title>
