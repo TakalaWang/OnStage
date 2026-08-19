@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:55:04 GMT</lastBuildDate>
     <item>
       <title>【牛山海灣之歌】</title>
       <link>https://www.opentix.life/event/2082667316303683585</link>
@@ -13,22 +13,6 @@
       <pubDate>Tue, 18 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 – 2026-10-26 · Venue: 花蓮文化創意產業園區 第18棟包裝工廠, 花蓮縣 · On sale: 2026-08-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】即使世界末日還是想吃枝仔冰</title>
-      <link>https://www.opentix.life/event/2064535827594289153</link>
-      <guid isPermaLink="false">opentix:2064535827594289153</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】H&amp;G2：Encore糖果屋！饒舌互動劇場</title>
-      <link>https://www.opentix.life/event/2064620422574579713</link>
-      <guid isPermaLink="false">opentix:2064620422574579713</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>面白放送</title>
@@ -805,6 +789,22 @@
       <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 苗北藝文中心實驗劇場, 苗栗縣 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>國立臺灣戲曲學院復興京劇團 《封神風雲》神榜降臨 ‧ 封神再起</title>
+      <link>https://www.opentix.life/event/2069694701413556225</link>
+      <guid isPermaLink="false">opentix:2069694701413556225</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-07-06 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026臺北藝穗節】 核⼦科技當代轉譯三部曲II《我們在被遺落的城市裡》</title>
+      <link>https://www.opentix.life/event/2068924931740704769</link>
+      <guid isPermaLink="false">opentix:2068924931740704769</guid>
+      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-19 – 2026-08-20 · Venue: 濕地Venue-B1, 臺北市 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

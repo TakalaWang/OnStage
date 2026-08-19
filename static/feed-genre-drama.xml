@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:55:04 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -415,22 +415,6 @@
       <description>Date: 2026-10-25 – 2026-10-26 · Venue: 花蓮文化創意產業園區 第18棟包裝工廠, 花蓮縣 · On sale: 2026-08-18 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026臺北藝穗節】即使世界末日還是想吃枝仔冰</title>
-      <link>https://www.opentix.life/event/2064535827594289153</link>
-      <guid isPermaLink="false">opentix:2064535827594289153</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026臺北藝穗節】H&amp;G2：Encore糖果屋！饒舌互動劇場</title>
-      <link>https://www.opentix.life/event/2064620422574579713</link>
-      <guid isPermaLink="false">opentix:2064620422574579713</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2085323910961053697</link>
       <guid isPermaLink="false">opentix:2085323910961053697</guid>
@@ -805,6 +789,22 @@
       <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-29 · Venue: 國家兩廳院實驗劇場, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>狂想劇場《島上的最後晚餐》</title>
+      <link>https://www.opentix.life/event/2075129131158446080</link>
+      <guid isPermaLink="false">opentix:2075129131158446080</guid>
+      <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-09 – 2026-10-11 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-07-23 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>萍蓬草劇團《乞丐王子》奇蹟轉運站</title>
+      <link>https://www.opentix.life/event/2076505628948193281</link>
+      <guid isPermaLink="false">opentix:2076505628948193281</guid>
+      <pubDate>Wed, 22 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 · Venue: 彰化縣文化局員林演藝廳表演廳, 彰化縣 · On sale: 2026-07-22 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
