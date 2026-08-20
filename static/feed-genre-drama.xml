@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:54:58 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -423,14 +423,6 @@
       <description>Date: 2027-01-10 · Venue: 臺北市中山堂光復廳, 臺北市 · On sale: 2026-08-19 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026臺北藝穗節】剩下的身體</title>
-      <link>https://www.opentix.life/event/2059902565718548480</link>
-      <guid isPermaLink="false">opentix:2059902565718548480</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-19 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>當金錢遇上親情，當愛情遇上利益｜議題式劇場</title>
       <link>https://www.accupass.com/event/2607300417543113418900</link>
       <guid isPermaLink="false">accupass:2607300417543113418900</guid>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-06 – 2026-11-08 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026秋天藝術節 四把椅子劇團 ✕ 大衛．吉塞森《如果我有寫信給你》</title>
+      <link>https://www.opentix.life/event/2070413509618323457</link>
+      <guid isPermaLink="false">opentix:2070413509618323457</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-29 · Venue: 國家兩廳院實驗劇場, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:54:58 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -783,14 +783,6 @@
       <description>Date: 2027-01-10 · Venue: 臺北市中山堂光復廳, 臺北市 · On sale: 2026-08-19 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026臺北藝穗節】剩下的身體</title>
-      <link>https://www.opentix.life/event/2059902565718548480</link>
-      <guid isPermaLink="false">opentix:2059902565718548480</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-19 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>當金錢遇上親情，當愛情遇上利益｜議題式劇場</title>
       <link>https://www.accupass.com/event/2607300417543113418900</link>
       <guid isPermaLink="false">accupass:2607300417543113418900</guid>
@@ -805,6 +797,14 @@
       <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-08-19 – 2026-08-26 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2085323910961053697</link>
+      <guid isPermaLink="false">opentix:2085323910961053697</guid>
+      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-26 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-17 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
