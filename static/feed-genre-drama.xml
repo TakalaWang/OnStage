@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:39:03 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -167,6 +167,14 @@
       <description>Date: 2026-09-13 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>所以你想要說什麼？——王甯 X 藍恩 《藍》＋ 駱思維 X 華旭《Take1：拿機器跳舞的，與出一張嘴流汗的 》</title>
+      <link>https://www.accupass.com/event/2608161543031596983764</link>
+      <guid isPermaLink="false">accupass:2608161543031596983764</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊2F, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026大開潘朵拉戲劇節</title>
       <link>https://www.accupass.com/event/2606021410571642744698</link>
       <guid isPermaLink="false">accupass:2606021410571642744698</guid>
@@ -213,14 +221,6 @@
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊1F, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>所以你想要說什麼？——王甯X藍恩 《藍》＋ 駱思維 X 華旭《Take1：拿機器跳舞的，與出一張嘴流汗的 》</title>
-      <link>https://www.accupass.com/event/2608161543031596983764</link>
-      <guid isPermaLink="false">accupass:2608161543031596983764</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊2F, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>所以你想要說什麼？——李祐祐緯 Feat. 李祐緯《我何嘗不想成為一名偉大的舞蹈家》</title>
@@ -421,6 +421,14 @@
       <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-22 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>面粉趴2026 秋</title>
+      <link>https://www.opentix.life/event/2085571299153297409</link>
+      <guid isPermaLink="false">opentix:2085571299153297409</guid>
+      <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-09 – 2026-10-11 · Venue: Legacy TERA, 臺北市 · On sale: 2026-08-21 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>當文字站上舞台：劇本如何成為現場</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作</title>
-      <link>https://www.opentix.life/event/2077294943314518017</link>
-      <guid isPermaLink="false">opentix:2077294943314518017</guid>
-      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-11-28 · Venue: 中影八德大樓演講廳, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
