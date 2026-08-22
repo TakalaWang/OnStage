@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:54:38 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -431,14 +431,6 @@
       <description>Date: 2026-10-09 – 2026-10-11 · Venue: Legacy TERA, 臺北市 · On sale: 2026-08-21 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>當文字站上舞台：劇本如何成為現場</title>
-      <link>https://www.accupass.com/event/2606220752099543975500</link>
-      <guid isPermaLink="false">accupass:2606220752099543975500</guid>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-21 · Venue:  (入口在101斜對面，松智路上）, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>《好了啦！達康！》第十季第三集－請問可以耽誤你120分鐘嗎？</title>
       <link>https://www.opentix.life/event/2089638704332963840</link>
       <guid isPermaLink="false">opentix:2089638704332963840</guid>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作</title>
+      <link>https://www.opentix.life/event/2077294943314518017</link>
+      <guid isPermaLink="false">opentix:2077294943314518017</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-11-28 · Venue: 中影八德大樓演講廳, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
