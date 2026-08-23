@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:35:15 GMT</lastBuildDate>
     <item>
       <title>（漫才拼盤秀）撿橘子 - 金桔不景氣</title>
       <link>https://www.accupass.com/event/2605291106371243915188</link>
@@ -127,14 +127,6 @@
       <description>Date: 2026-08-30 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>收夏吧!喜劇大神</title>
-      <link>https://www.accupass.com/event/2607161043358408499550</link>
-      <guid isPermaLink="false">accupass:2607161043358408499550</guid>
-      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-29 · Venue: 杯貝咖啡空間, 新竹縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>即興PK擂台賽 08/29（六）20:00 |飛客劇樂部｜夏大寶 /東區德 /姸慧 / 特蕾莎 / KJ /城寶 / 梅森</title>
       <link>https://www.accupass.com/event/2608041255081139070857</link>
       <guid isPermaLink="false">accupass:2608041255081139070857</guid>
@@ -151,6 +143,14 @@
       <description>Date: 2026-08-29 – 2026-08-30 · Venue: 新北市客家文化園區, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>收夏吧!喜劇大神</title>
+      <link>https://www.accupass.com/event/2607161043358408499550</link>
+      <guid isPermaLink="false">accupass:2607161043358408499550</guid>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-08-29 · Venue: 杯貝咖啡空間, 新竹縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>【08/29】歡樂週末夜 ✨2026喜劇開港拼盤秀 ✨</title>
       <link>https://www.accupass.com/event/2606260430471446249074</link>
       <guid isPermaLink="false">accupass:2606260430471446249074</guid>
@@ -165,22 +165,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-08-28 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>8/23 府城喜劇OPEN MIC</title>
-      <link>https://www.accupass.com/event/2607311134351438833787</link>
-      <guid isPermaLink="false">accupass:2607311134351438833787</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-23 · Venue: 不要點上方地址直接引導，可至地圖APP搜尋SASADRA CAFE, 臺南市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>首度來台！澳洲喜劇天王 Tim Ellis 歡樂魔術秀！</title>
-      <link>https://www.accupass.com/event/2606300740121862078281</link>
-      <guid isPermaLink="false">accupass:2606300740121862078281</guid>
-      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-22 – 2026-08-23 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>即興open mic 同歡樂 ： 8月份|08/19 (三）08/26（三）20:00｜ Fakers club 飛客喜劇劇樂部 ｜主持：東區德 / 新激梗社 / 特蕾莎</title>
@@ -341,14 +325,6 @@
       <pubDate>Fri, 10 Jul 2026 04:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-06 – 2026-09-27 · Venue: 基隆表演藝術中心演藝廳, 基隆市 · On sale: 2026-07-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【整人專家】喜劇診聊室</title>
-      <link>https://www.opentix.life/event/2070339678321119233</link>
-      <guid isPermaLink="false">opentix:2070339678321119233</guid>
-      <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-08-23 · Venue: 竹東音樂巷親愛音樂廳, 新竹縣 · On sale: 2026-07-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026臺北藝穗節】及時行樂短篇即興集錦</title>
