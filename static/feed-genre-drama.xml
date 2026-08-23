@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:00:38 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -236,7 +236,7 @@
       <guid isPermaLink="false">accupass:2608110655091652762043</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026童演童語-《仙界小霹靂-圖書館特工》任務五：負責</title>
@@ -453,14 +453,6 @@
       <pubDate>Wed, 19 Aug 2026 03:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-10 · Venue: 臺北市中山堂光復廳, 臺北市 · On sale: 2026-08-19 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>當金錢遇上親情，當愛情遇上利益｜議題式劇場</title>
-      <link>https://www.accupass.com/event/2607300417543113418900</link>
-      <guid isPermaLink="false">accupass:2607300417543113418900</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-19 – 2026-08-22 · Venue: 麥當勞隔壁、捷運文心櫻花站步行3分鐘, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>面白放送</title>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-11-28 · Venue: 中影八德大樓演講廳, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026秋天藝術節 卡羅琳．居拉．阮 《眼淚》</title>
+      <link>https://www.opentix.life/event/2070445180942770176</link>
+      <guid isPermaLink="false">opentix:2070445180942770176</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-30 – 2026-11-01 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-07-27 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
