@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:57:02 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -503,14 +503,6 @@
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【34歲裸辭幹什麼？！】 多情城市 Live Podcast</title>
-      <link>https://www.accupass.com/event/2608131648561951646437</link>
-      <guid isPermaLink="false">accupass:2608131648561951646437</guid>
-      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-25 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>2026 NTT劇院展開《我的爵視金曲夜》</title>
       <link>https://www.opentix.life/event/2084544321432363008</link>
       <guid isPermaLink="false">opentix:2084544321432363008</guid>
@@ -805,6 +797,14 @@
       <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 – 2026-10-04 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>小海龜 游啊游</title>
+      <link>https://www.opentix.life/event/2082720936493752321</link>
+      <guid isPermaLink="false">opentix:2082720936493752321</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
