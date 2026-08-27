@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:38:00 GMT</lastBuildDate>
     <item>
       <title>漫才練喙花《南有妹迪 IN 菩薩》</title>
       <link>https://www.opentix.life/event/2090731211515404289</link>
@@ -29,6 +29,14 @@
       <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 – 2026-10-26 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>夜路不怕黑：攑燈照暗暝</title>
+      <link>https://www.opentix.life/event/2089637449305997313</link>
+      <guid isPermaLink="false">opentix:2089637449305997313</guid>
+      <pubDate>Wed, 26 Aug 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 – 2026-10-04 · Venue: 澎湖縣白沙鄉小赤村（北海道租車行前方空地）, 澎湖縣 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>創造焦點《小丑八怪-蘭後呢？》</title>
@@ -287,20 +295,20 @@
       <description>Date: 2026-10-10 – 2026-10-11 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026莫比斯圓環創作公社《非常譯外：群盲》</title>
-      <link>https://www.opentix.life/event/2082037328271515648</link>
-      <guid isPermaLink="false">opentix:2082037328271515648</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-18 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
       <link>https://www.opentix.life/event/2076940244628860929</link>
       <guid isPermaLink="false">opentix:2076940244628860929</guid>
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026莫比斯圓環創作公社《非常譯外：群盲》</title>
+      <link>https://www.opentix.life/event/2082037328271515648</link>
+      <guid isPermaLink="false">opentix:2082037328271515648</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-18 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《鬼谷第貳部》</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 15 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-10-03 · Venue: 苗北藝文中心演藝廳, 苗栗縣 · On sale: 2026-07-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>圓仔花意識拼貼劇坊《鶯鶯》</title>
-      <link>https://www.opentix.life/event/2054124040675516417</link>
-      <guid isPermaLink="false">opentix:2054124040675516417</guid>
-      <pubDate>Wed, 15 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-24 – 2026-10-25 · Venue: 基隆表演藝術中心島嶼實驗劇場, 基隆市 · On sale: 2026-07-15 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

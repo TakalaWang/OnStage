@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:38:00 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -212,6 +212,14 @@
       <guid isPermaLink="false">accupass:2604161852431123538314</guid>
       <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
+      <description>Date: 2026-09-26 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《從「請戲」出發，看見大稻埕的布袋戲與地方生活》</title>
+      <link>https://www.accupass.com/event/2608260946132984241690</link>
+      <guid isPermaLink="false">accupass:2608260946132984241690</guid>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
+      <category>偶戲</category>
       <description>Date: 2026-09-26 · Source: Accupass 活動通</description>
     </item>
     <item>
@@ -444,7 +452,7 @@
       <guid isPermaLink="false">accupass:2608180721041353981256</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊1F, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026玩聚場藝術節——假面的集會 2026 PLAY ARTS FESTIVAL-MASKS CONVENTION</title>
@@ -631,6 +639,14 @@
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-08-31 · Source: KKTIX</description>
     </item>
     <item>
+      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
+      <guid isPermaLink="false">era:P1D834GM</guid>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-08-30 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>《是誰的腳丫丫》 免費親子劇＿桃園總圖微光廳</title>
       <link>https://www.accupass.com/event/2607201506157220304330</link>
       <guid isPermaLink="false">accupass:2607201506157220304330</guid>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-08-28 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026年「要到泉劇場」開幕系列─《九霄凌雲劍》</title>
-      <link>https://www.accupass.com/event/2607200740002231546230</link>
-      <guid isPermaLink="false">accupass:2607200740002231546230</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-28 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>用影像改變世界！台客劇場林冠廷 X 永續實踐者跨界對談｜綠影創作獎論壇暨頒獎典禮</title>
-      <link>https://www.accupass.com/event/2608171024125675597840</link>
-      <guid isPermaLink="false">accupass:2608171024125675597840</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-28 · Venue: 2026亞太永續博覽會 永續沙龍舞台(台北世貿一館), 臺北市 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
