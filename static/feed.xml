@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:29:02 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -471,6 +471,14 @@
       <description>Date: 2026-09-11 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>飛客喜劇夜： 中秋節賞月企劃  09/11（五）20:00|飛客俱樂部 |大可愛 / 小歐 / 賀瓏 / 姸慧 / 賴安</title>
+      <link>https://www.accupass.com/event/2608261714297559598630</link>
+      <guid isPermaLink="false">accupass:2608261714297559598630</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-11 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>【 09月場】喜劇抬槓</title>
       <link>https://www.accupass.com/event/2608201047301857755825</link>
       <guid isPermaLink="false">accupass:2608201047301857755825</guid>
@@ -605,6 +613,14 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>微光電影院｜〈喜劇懸疑特輯〉</title>
+      <link>https://www.accupass.com/event/2608270349174982076470</link>
+      <guid isPermaLink="false">accupass:2608270349174982076470</guid>
+      <pubDate>Mon, 31 Aug 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-01 – 2026-09-29 · Venue: 1樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《笑果器》</title>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-28 · Venue: 2026亞太永續博覽會 永續沙龍舞台(台北世貿一館), 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>8月高雄市電影館｜劇場版 吉伊卡哇 人魚島的秘密（中配版）</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D834GM</link>
-      <guid isPermaLink="false">era:P1D834GM</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-27 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>《惡心鏡》</title>
-      <link>https://www.opentix.life/event/2089355278383927297</link>
-      <guid isPermaLink="false">opentix:2089355278383927297</guid>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 · Venue: 彰化縣文化局員林演藝廳小劇場, 彰化縣 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

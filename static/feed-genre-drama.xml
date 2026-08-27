@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:29:02 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -583,14 +583,6 @@
       <description>Date: 2026-09-20 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-08-17 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2085323910961053697</link>
-      <guid isPermaLink="false">opentix:2085323910961053697</guid>
-      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>《聽偶講故事：原來這就是客家八音》</title>
       <link>https://www.opentix.life/event/2084470210869399553</link>
       <guid isPermaLink="false">opentix:2084470210869399553</guid>
@@ -805,6 +797,14 @@
       <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: 樹林藝文中心演藝廳, 新北市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《龍女流浪記》</title>
+      <link>https://www.opentix.life/event/2082042280907173889</link>
+      <guid isPermaLink="false">opentix:2082042280907173889</guid>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-15 · Venue: 樹林藝文中心演藝廳, 新北市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:29:02 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -109,14 +109,6 @@
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-27 – 2026-08-30 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>滄海天后 海上明燈 媽祖 音樂劇</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BGGOWG</link>
-      <guid isPermaLink="false">era:P1BGGOWG</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-08-26 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
