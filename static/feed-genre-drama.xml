@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:46:25 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -68,7 +68,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>夢想嘉年華</title>
@@ -244,7 +244,7 @@
       <guid isPermaLink="false">accupass:2608180721041353981256</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊1F, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026玩聚場藝術節——假面的集會 2026 PLAY ARTS FESTIVAL-MASKS CONVENTION</title>
@@ -252,7 +252,7 @@
       <guid isPermaLink="false">accupass:2608110655091652762043</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Source: Accupass 活動通</description>
+      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026童演童語-《仙界小霹靂-圖書館特工》任務五：負責</title>
@@ -431,14 +431,6 @@
       <description>Date: 2026-08-28 – 2026-08-29 · Venue: 南投縣魚池鄉魚池國民小學, 南投縣 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026年「要到泉劇場」開幕系列─《九霄凌雲劍》</title>
-      <link>https://www.accupass.com/event/2607200740002231546230</link>
-      <guid isPermaLink="false">accupass:2607200740002231546230</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-28 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>《惡心鏡》</title>
       <link>https://www.opentix.life/event/2089355278383927297</link>
       <guid isPermaLink="false">opentix:2089355278383927297</guid>
@@ -487,6 +479,14 @@
       <description>Date: 2026-10-17 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
+      <link>https://www.opentix.life/event/2090751612802322433</link>
+      <guid isPermaLink="false">opentix:2090751612802322433</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
       <link>https://www.opentix.life/event/2090741870444568576</link>
       <guid isPermaLink="false">opentix:2090741870444568576</guid>
@@ -503,12 +503,12 @@
       <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
-      <link>https://www.opentix.life/event/2090751612802322433</link>
-      <guid isPermaLink="false">opentix:2090751612802322433</guid>
+      <title>【2026KIPF】飛人集社《小飛飛的天空》</title>
+      <link>https://www.opentix.life/event/2090762636955799553</link>
+      <guid isPermaLink="false">opentix:2090762636955799553</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-10-24 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026KIPF】印尼 Goni Puppet Theatre《風兒帶我去哪裡》</title>
@@ -517,14 +517,6 @@
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-24 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026KIPF】飛人集社《小飛飛的天空》</title>
-      <link>https://www.opentix.life/event/2090762636955799553</link>
-      <guid isPermaLink="false">opentix:2090762636955799553</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-24 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026KIPF】錦飛鳳傀儡戲劇團 《靖姑傳奇》</title>
@@ -623,14 +615,6 @@
       <description>Date: 2026-10-03 – 2026-10-04 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-08-14 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>來福OPEN MIC 8月</title>
-      <link>https://www.accupass.com/event/2607311132261294108772</link>
-      <guid isPermaLink="false">accupass:2607311132261294108772</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-14 – 2026-08-28 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>「外交官的故事」部分發表會（含劇團重要報告等）</title>
       <link>https://www.opentix.life/event/2084532856189726721</link>
       <guid isPermaLink="false">opentix:2084532856189726721</guid>
@@ -671,20 +655,20 @@
       <description>Date: 2026-10-10 – 2026-10-11 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
-      <link>https://www.opentix.life/event/2076940244628860929</link>
-      <guid isPermaLink="false">opentix:2076940244628860929</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026莫比斯圓環創作公社《非常譯外：群盲》</title>
       <link>https://www.opentix.life/event/2082037328271515648</link>
       <guid isPermaLink="false">opentix:2082037328271515648</guid>
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-18 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
+      <link>https://www.opentix.life/event/2076940244628860929</link>
+      <guid isPermaLink="false">opentix:2076940244628860929</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《鬼谷第貳部》</title>
@@ -805,6 +789,22 @@
       <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-26 · Venue: 宜蘭演藝廳, 宜蘭縣 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>萬象藝術劇場《齊天大聖鬧龍宮》</title>
+      <link>https://www.opentix.life/event/2079055081068621825</link>
+      <guid isPermaLink="false">opentix:2079055081068621825</guid>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 基隆表演藝術中心演藝廳, 基隆市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>走戲人《酷麗鳥搞砸了》</title>
+      <link>https://www.opentix.life/event/2079784321891332096</link>
+      <guid isPermaLink="false">opentix:2079784321891332096</guid>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 · Venue: 樹林藝文中心演藝廳, 新北市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

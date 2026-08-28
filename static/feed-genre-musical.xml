@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:46:25 GMT</lastBuildDate>
     <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
@@ -45,6 +45,14 @@
       <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-09-05 · Venue: 誠品表演廳, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《那個女人是誰？》原創音樂劇</title>
+      <link>https://www.opentix.life/event/2092887492767944705</link>
+      <guid isPermaLink="false">opentix:2092887492767944705</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-10-30 – 2026-10-31 · Venue: 臺北市政府青年局3樓臺北演藝廳, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>唱歌集《今晚，我想來點》（一直）翻轉の人生音樂劇</title>
@@ -252,7 +260,7 @@
       <guid isPermaLink="false">opentix:2051591825313611777</guid>
       <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-08-28 – 2026-10-25 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-05-05 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-08-29 – 2026-10-25 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-05-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>嚎哮排演 音樂劇《別叫我成功：藝術界歸來的兒子》臺北場</title>
@@ -276,7 +284,7 @@
       <guid isPermaLink="false">opentix:2028768565934878721</guid>
       <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-08-28 – 2026-09-06 · Venue: 水源劇場, 臺北市 · On sale: 2026-03-31 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-08-29 – 2026-09-06 · Venue: 水源劇場, 臺北市 · On sale: 2026-03-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《情人哏裡出西施》跨界改編古裝音樂劇</title>
