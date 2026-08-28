@@ -5,7 +5,31 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:22:16 GMT</lastBuildDate>
+    <item>
+      <title>PILIGILI奇幻冒險記</title>
+      <link>https://www.opentix.life/event/2090340198001360896</link>
+      <guid isPermaLink="false">opentix:2090340198001360896</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>在戰場與神殿之間</title>
+      <link>https://www.opentix.life/event/2079761930235998209</link>
+      <guid isPermaLink="false">opentix:2079761930235998209</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-23 – 2026-10-25 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026廳院選 當代傳奇劇場《慾望城國》王者再臨</title>
+      <link>https://www.opentix.life/event/2084175420436328449</link>
+      <guid isPermaLink="false">opentix:2084175420436328449</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-03 – 2026-12-06 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>漫才練喙花《南有妹迪 IN 菩薩》</title>
       <link>https://www.opentix.life/event/2090731211515404289</link>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-04 · Venue: 彰化縣文化局員林演藝廳表演廳, 彰化縣 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>NEXT劇場_楊景翔演劇團《我不是影后》</title>
-      <link>https://www.opentix.life/event/2066812720814366721</link>
-      <guid isPermaLink="false">opentix:2066812720814366721</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 彰化縣文化局員林演藝廳表演廳, 彰化縣 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>環遊世界80+1天</title>
-      <link>https://www.opentix.life/event/2076862416033050624</link>
-      <guid isPermaLink="false">opentix:2076862416033050624</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-07-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>國光劇團魔幻京劇《公主與她的魔法扇》2026苗北藝術節</title>
-      <link>https://www.opentix.life/event/2076493611234652160</link>
-      <guid isPermaLink="false">opentix:2076493611234652160</guid>
-      <pubDate>Wed, 15 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-10-03 · Venue: 苗北藝文中心演藝廳, 苗栗縣 · On sale: 2026-07-15 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
