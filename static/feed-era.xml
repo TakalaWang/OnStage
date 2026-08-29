@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:07:37 GMT</lastBuildDate>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
@@ -85,22 +85,6 @@
       <pubDate>Sat, 29 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-08-30 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026年夏季巧虎大型舞臺劇「銀河怪盜的祕密」</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P192ILGJ</link>
-      <guid isPermaLink="false">era:P192ILGJ</guid>
-      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-08-29 · Venue: 員林演藝廳表演廳, 彰化縣 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>《旅店迴旋曲》-清水劇團2026年度公演</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C4LT81</link>
-      <guid isPermaLink="false">era:P1C4LT81</guid>
-      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-08-29 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
