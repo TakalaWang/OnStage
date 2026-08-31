@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:45:09 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -165,6 +165,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 宜蘭傳藝園區, 宜蘭縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>秋日拾光 ― 草地野餐派對</title>
+      <link>https://www.accupass.com/event/2608260732541806603163</link>
+      <guid isPermaLink="false">accupass:2608260732541806603163</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 新北市立鶯歌陶瓷博物館, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《妖怪說》移動式戲劇演出</title>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-04 – 2026-09-05 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>FOCASA馬戲團《幾米男孩的100次勇敢》</title>
-      <link>https://www.opentix.life/event/2079092696435740673</link>
-      <guid isPermaLink="false">opentix:2079092696435740673</guid>
-      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-10 – 2026-11-08 · Venue: 澎湖縣演藝廳, 澎湖縣 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

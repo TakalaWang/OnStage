@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:45:09 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -317,6 +317,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 宜蘭傳藝園區, 宜蘭縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>秋日拾光 ― 草地野餐派對</title>
+      <link>https://www.accupass.com/event/2608260732541806603163</link>
+      <guid isPermaLink="false">accupass:2608260732541806603163</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 新北市立鶯歌陶瓷博物館, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【音樂劇的時光之旅】音樂會</title>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
-      <link>https://www.opentix.life/event/2090751612802322433</link>
-      <guid isPermaLink="false">opentix:2090751612802322433</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
