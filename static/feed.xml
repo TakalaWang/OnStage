@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:58:03 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -303,14 +303,6 @@
       <description>Date: 2026-09-19 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【劇舞即Party】舞蹈即興×即興歌唱× Social Party</title>
-      <link>https://www.accupass.com/event/2608051950321367015178</link>
-      <guid isPermaLink="false">accupass:2608051950321367015178</guid>
-      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-19 · Venue: 艸創心演擊樂場, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>《上戲囉～》親子繪本劇場</title>
       <link>https://www.accupass.com/event/2605041142171536632756</link>
       <guid isPermaLink="false">accupass:2605041142171536632756</guid>
@@ -333,6 +325,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 宜蘭傳藝園區, 宜蘭縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【劇舞即Party】舞蹈即興×即興歌唱× Social Party</title>
+      <link>https://www.accupass.com/event/2608051950321367015178</link>
+      <guid isPermaLink="false">accupass:2608051950321367015178</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-19 · Venue: 艸創心演擊樂場, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【09/19】歡樂週末夜 ✨2026喜劇開港拼盤秀 ✨</title>
@@ -679,6 +679,22 @@
       <description>Date: 2026-11-29 · Venue: 西門紅樓 The Red House 二樓劇場, 臺北市 · On sale: 2026-09-01 · Source: KKTIX</description>
     </item>
     <item>
+      <title>兒童布袋戲《焰王現身：心火山的祕密》</title>
+      <link>https://www.opentix.life/event/2090004484659298305</link>
+      <guid isPermaLink="false">opentix:2090004484659298305</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>偶戲</category>
+      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>戲釀青春──2026駐團演訓計畫 育成聯合展演</title>
+      <link>https://www.opentix.life/event/2090269380048343041</link>
+      <guid isPermaLink="false">opentix:2090269380048343041</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-06 – 2026-11-22 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【11/14】《笑果器》</title>
       <link>https://comedyclub.kktix.cc/events/effector1114</link>
       <guid isPermaLink="false">kktix:comedyclub/effector1114</guid>
@@ -693,6 +709,30 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>不可能在一個晚上演完莎士比亞全集吧?</title>
+      <link>https://www.opentix.life/event/2090640441233874944</link>
+      <guid isPermaLink="false">opentix:2090640441233874944</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》</title>
+      <link>https://www.opentix.life/event/2091723887007420417</link>
+      <guid isPermaLink="false">opentix:2091723887007420417</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>裸（R.O.D）劇團習作（二）《Not Today》</title>
+      <link>https://www.opentix.life/event/2091726066492534785</link>
+      <guid isPermaLink="false">opentix:2091726066492534785</guid>
+      <pubDate>Tue, 01 Sep 2026 03:50:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>現場喜劇: 9月份/飛客劇樂部《週二歐噴麥》open mic｜主持：阿檀叔叔 / 微涼 / 秋涼 / 俊彥</title>
@@ -765,46 +805,6 @@
       <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>在戰場與神殿之間</title>
-      <link>https://www.opentix.life/event/2079761930235998209</link>
-      <guid isPermaLink="false">opentix:2079761930235998209</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-23 – 2026-10-25 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《那個女人是誰？》原創音樂劇</title>
-      <link>https://www.opentix.life/event/2092887492767944705</link>
-      <guid isPermaLink="false">opentix:2092887492767944705</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-10-30 – 2026-10-31 · Venue: 臺北市政府青年局3樓臺北演藝廳, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026廳院選 當代傳奇劇場《慾望城國》王者再臨</title>
-      <link>https://www.opentix.life/event/2084175420436328449</link>
-      <guid isPermaLink="false">opentix:2084175420436328449</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-03 – 2026-12-06 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>漫才練喙花《南有妹迪 IN 菩薩》</title>
-      <link>https://www.opentix.life/event/2090731211515404289</link>
-      <guid isPermaLink="false">opentix:2090731211515404289</guid>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-13 · Venue: 全美戲院 A廳, 臺南市 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《惡心鏡》</title>
-      <link>https://www.opentix.life/event/2089355278383927297</link>
-      <guid isPermaLink="false">opentix:2089355278383927297</guid>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 · Venue: 彰化縣文化局員林演藝廳小劇場, 彰化縣 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

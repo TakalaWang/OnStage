@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:58:03 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -327,6 +327,14 @@
       <description>Date: 2026-09-02 · Venue: 國家兩廳院 戲劇院一樓大廳, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>戲釀青春──2026駐團演訓計畫 育成聯合展演</title>
+      <link>https://www.opentix.life/event/2090269380048343041</link>
+      <guid isPermaLink="false">opentix:2090269380048343041</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-06 – 2026-11-22 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【11/14】《笑果器》</title>
       <link>https://comedyclub.kktix.cc/events/effector1114</link>
       <guid isPermaLink="false">kktix:comedyclub/effector1114</guid>
@@ -341,6 +349,30 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>不可能在一個晚上演完莎士比亞全集吧?</title>
+      <link>https://www.opentix.life/event/2090640441233874944</link>
+      <guid isPermaLink="false">opentix:2090640441233874944</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》</title>
+      <link>https://www.opentix.life/event/2091723887007420417</link>
+      <guid isPermaLink="false">opentix:2091723887007420417</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>裸（R.O.D）劇團習作（二）《Not Today》</title>
+      <link>https://www.opentix.life/event/2091726066492534785</link>
+      <guid isPermaLink="false">opentix:2091726066492534785</guid>
+      <pubDate>Tue, 01 Sep 2026 03:50:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《笑果器》</title>
@@ -773,38 +805,6 @@
       <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-07 – 2026-11-08 · Venue: 基隆表演藝術中心演藝廳, 基隆市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>走戲人《酷麗鳥搞砸了》</title>
-      <link>https://www.opentix.life/event/2079784321891332096</link>
-      <guid isPermaLink="false">opentix:2079784321891332096</guid>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 · Venue: 樹林藝文中心演藝廳, 新北市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《龍女流浪記》</title>
-      <link>https://www.opentix.life/event/2082042280907173889</link>
-      <guid isPermaLink="false">opentix:2082042280907173889</guid>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-15 · Venue: 樹林藝文中心演藝廳, 新北市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>聚炬創作體 X 耳東灶夢所《行動代號：透明媽媽》</title>
-      <link>https://www.opentix.life/event/2082796902489927681</link>
-      <guid isPermaLink="false">opentix:2082796902489927681</guid>
-      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 – 2026-10-04 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>小海龜 游啊游</title>
-      <link>https://www.opentix.life/event/2082720936493752321</link>
-      <guid isPermaLink="false">opentix:2082720936493752321</guid>
-      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-07-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
