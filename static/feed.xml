@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:25:32 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -69,6 +69,14 @@
       <pubDate>Wed, 11 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-12 – 2027-02-20 · Venue: 嘟嘟房停車場旁邊, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
+      <guid isPermaLink="false">era:P1ET7M40</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-07 – 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>劇場在地・共創新連結-白色恐怖田調分享會(含呈現演出)</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-09 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026關渡藝術節戲劇學院秋季公演《那該死美好的日子》</title>
-      <link>https://www.opentix.life/event/2092882777473224704</link>
-      <guid isPermaLink="false">opentix:2092882777473224704</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-23 – 2026-11-01 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
