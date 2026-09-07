@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 07 Sep 2026 02:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:04:24 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -199,6 +199,14 @@
       <description>Date: 2026-10-03 – 2026-10-11 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>《幫幫我，月老》｜10月限定場</title>
+      <link>https://www.accupass.com/event/2609020750081160947016</link>
+      <guid isPermaLink="false">accupass:2609020750081160947016</guid>
+      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 – 2026-10-04 · Venue: 高雄捷運鳳山站二號出口集合, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>打架俱樂部｜即興裡的反派練習（九月場）</title>
       <link>https://www.accupass.com/event/2605041335582923192090</link>
       <guid isPermaLink="false">accupass:2605041335582923192090</guid>
@@ -333,6 +341,14 @@
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-19 – 2026-09-20 · Venue: 龍山文創基地B1廣場, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>幼兒園免費活動 | Ocean Adventure 海洋冒險 沉浸式體驗戲劇</title>
+      <link>https://www.accupass.com/event/2609070703013386535580</link>
+      <guid isPermaLink="false">accupass:2609070703013386535580</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 · Venue: 惠文領袖幼兒園, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>漫才 Open Mic : 大女子集團 | 09/19  (六）20:00 | 飛客俱樂部</title>
@@ -631,6 +647,30 @@
       <description>Date: 2026-09-09 · Venue: Cave Café 卡濰咖啡早午餐（明誠店）, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2088185625126940673</link>
+      <guid isPermaLink="false">opentix:2088185625126940673</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-16 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>無花果樹毋是毋開花-白寶珠女士的故事</title>
+      <link>https://www.opentix.life/event/2094701120285835264</link>
+      <guid isPermaLink="false">opentix:2094701120285835264</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-03 – 2026-10-23 · Venue: 澎湖縣演藝廳, 澎湖縣 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>盤花仙境大冒險</title>
+      <link>https://www.opentix.life/event/2091822012383260673</link>
+      <guid isPermaLink="false">opentix:2091822012383260673</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>2026 SHOW MUSICAL《WILD WILD》</title>
       <link>https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F4200H</link>
       <guid isPermaLink="false">kham:P1F4200H</guid>
@@ -765,46 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【11/15】《笑果器》</title>
-      <link>https://comedyclub.kktix.cc/events/effector1115</link>
-      <guid isPermaLink="false">kktix:comedyclub/effector1115</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>不可能在一個晚上演完莎士比亞全集吧?</title>
-      <link>https://www.opentix.life/event/2090640441233874944</link>
-      <guid isPermaLink="false">opentix:2090640441233874944</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》</title>
-      <link>https://www.opentix.life/event/2091723887007420417</link>
-      <guid isPermaLink="false">opentix:2091723887007420417</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>裸（R.O.D）劇團習作（二）《Not Today》</title>
-      <link>https://www.opentix.life/event/2091726066492534785</link>
-      <guid isPermaLink="false">opentix:2091726066492534785</guid>
-      <pubDate>Tue, 01 Sep 2026 03:50:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>現場喜劇: 9月份/飛客劇樂部《週二歐噴麥》open mic｜主持：阿檀叔叔 / 微涼 / 秋涼 / 俊彥</title>
-      <link>https://www.accupass.com/event/2608312013378963328410</link>
-      <guid isPermaLink="false">accupass:2608312013378963328410</guid>
-      <pubDate>Mon, 31 Aug 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-01 – 2026-09-29 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
