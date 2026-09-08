@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:27:25 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -111,6 +111,14 @@
       <description>Date: 2026-10-25 · Venue: 蘆洲功學社音樂廳, 新北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>【城市故事行旅】圓山小旅行 走進台北百年建築的時光長廊｜林安泰古厝｜圓山別莊｜王大閎建築劇場｜臨濟護國禪寺</title>
+      <link>https://www.accupass.com/event/2608161009051043957021</link>
+      <guid isPermaLink="false">accupass:2608161009051043957021</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 · Venue: 集合地點：臺北市中山區濱江街5號(集合), 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>星火計畫</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E9S2B6</link>
       <guid isPermaLink="false">era:P1E9S2B6</guid>
@@ -125,6 +133,14 @@
       <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-10-24 · Venue: 國立雲林科技大學雲泰表演廳 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>【城市故事行旅】新莊小旅行｜三百年老街 × 百年古廟 × 戲曲巷弄 × 老店滋味</title>
+      <link>https://www.accupass.com/event/2608161009211123836604</link>
+      <guid isPermaLink="false">accupass:2608161009211123836604</guid>
+      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2026-10-24 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《硬是要德》喜劇之夜</title>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>戲釀青春──2026駐團演訓計畫 育成聯合展演</title>
-      <link>https://www.opentix.life/event/2090269380048343041</link>
-      <guid isPermaLink="false">opentix:2090269380048343041</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-06 – 2026-11-22 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【11/14】《笑果器》</title>
-      <link>https://comedyclub.kktix.cc/events/effector1114</link>
-      <guid isPermaLink="false">kktix:comedyclub/effector1114</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-01 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>

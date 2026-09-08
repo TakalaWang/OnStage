@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:27:25 GMT</lastBuildDate>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務｜ 11/21台南午場</title>
       <link>https://www.accupass.com/event/2608060919285459856110</link>
@@ -45,6 +45,14 @@
       <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 · Venue: 蘆洲功學社音樂廳, 新北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>【城市故事行旅】圓山小旅行 走進台北百年建築的時光長廊｜林安泰古厝｜圓山別莊｜王大閎建築劇場｜臨濟護國禪寺</title>
+      <link>https://www.accupass.com/event/2608161009051043957021</link>
+      <guid isPermaLink="false">accupass:2608161009051043957021</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 · Venue: 集合地點：臺北市中山區濱江街5號(集合), 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>星火計畫</title>
@@ -727,20 +735,20 @@
       <description>Date: 2026-10-10 – 2026-10-11 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
-      <link>https://www.opentix.life/event/2076940244628860929</link>
-      <guid isPermaLink="false">opentix:2076940244628860929</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026莫比斯圓環創作公社《非常譯外：群盲》</title>
       <link>https://www.opentix.life/event/2082037328271515648</link>
       <guid isPermaLink="false">opentix:2082037328271515648</guid>
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-18 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
+      <link>https://www.opentix.life/event/2076940244628860929</link>
+      <guid isPermaLink="false">opentix:2076940244628860929</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《鬼谷第貳部》</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-06 – 2026-11-08 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026 正港雄有戲《功德嘉年華》</title>
-      <link>https://www.opentix.life/event/2079024127582380033</link>
-      <guid isPermaLink="false">opentix:2079024127582380033</guid>
-      <pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-05 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
