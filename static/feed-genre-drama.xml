@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:46:40 GMT</lastBuildDate>
     <item>
       <title>2026璀璨星光、讓愛起飛～35週年慶音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR</link>
@@ -215,6 +215,14 @@
       <description>Date: 2026-09-19 · Venue: 惠文領袖幼兒園, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>鳴響公民劇場《三月十三》演出</title>
+      <link>https://www.accupass.com/event/2609061307471249533223</link>
+      <guid isPermaLink="false">accupass:2609061307471249533223</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 湯德章故居&amp;司法博物館／此次演出將分兩條路線進行，索票時請確認集合地點。, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>一起走進故事裡：今天真美好</title>
       <link>https://www.accupass.com/event/2608231058349110945190</link>
       <guid isPermaLink="false">accupass:2608231058349110945190</guid>
@@ -349,6 +357,14 @@
       <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-11 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>盜火劇團《熊出沒的森林》讀劇演出</title>
+      <link>https://www.opentix.life/event/2095065236091641857</link>
+      <guid isPermaLink="false">opentix:2095065236091641857</guid>
+      <pubDate>Wed, 09 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 新竹縣政府文化局演奏廳, 新竹縣 · On sale: 2026-09-09 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>試試製作所《不在場練習》</title>
@@ -493,14 +509,6 @@
       <pubDate>Mon, 31 Aug 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-08-31 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2088180928861229056</link>
-      <guid isPermaLink="false">opentix:2088180928861229056</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-09 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026關渡藝術節戲劇學院秋季公演《那該死美好的日子》</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-07 – 2026-11-08 · Venue: 彰化縣文化局員林演藝廳小劇場, 彰化縣 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【醉花陰】的萬千氣象</title>
-      <link>https://www.opentix.life/event/2084588766303989760</link>
-      <guid isPermaLink="false">opentix:2084588766303989760</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
