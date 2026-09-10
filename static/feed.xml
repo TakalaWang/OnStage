@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 02:29:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:42:07 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -125,6 +125,14 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>紅瓦民族舞蹈團『秋意濃』</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FKLQFW</link>
+      <guid isPermaLink="false">era:P1FKLQFW</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
@@ -415,20 +423,20 @@
       <description>Date: 2026-09-19 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>鳴響公民劇場《三月十三》演出</title>
-      <link>https://www.accupass.com/event/2609061307471249533223</link>
-      <guid isPermaLink="false">accupass:2609061307471249533223</guid>
-      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 湯德章故居&amp;司法博物館／此次演出將分兩條路線進行，索票時請確認集合地點。, 臺南市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>《上戲囉～》親子繪本劇場</title>
       <link>https://www.accupass.com/event/2605041142171536632756</link>
       <guid isPermaLink="false">accupass:2605041142171536632756</guid>
       <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-09-19 · Venue: 馬祖梅石藝文中心1F, 連江縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>鳴響公民劇場《三月十三》演出</title>
+      <link>https://www.accupass.com/event/2609061307471249533223</link>
+      <guid isPermaLink="false">accupass:2609061307471249533223</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-09-19 – 2026-09-20 · Venue: 湯德章故居&amp;司法博物館／此次演出將分兩條路線進行，索票時請確認集合地點。, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>一起走進故事裡：今天真美好</title>
@@ -543,6 +551,30 @@
       <description>Date: 2026-09-13 · Venue: 愛心門入口, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026 台北喜劇節 | 盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
+      <link>https://comedyclub.kktix.cc/events/lucas2026</link>
+      <guid isPermaLink="false">kktix:comedyclub/lucas2026</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026 台北喜劇節 |【台北】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
+      <link>https://comedyclub.kktix.cc/events/lucas20261204</link>
+      <guid isPermaLink="false">kktix:comedyclub/lucas20261204</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-04 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026 台北喜劇節 | 【台中】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
+      <link>https://comedyclub.kktix.cc/events/lucas20261206</link>
+      <guid isPermaLink="false">kktix:comedyclub/lucas20261206</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-06 · Venue: 台中教育大學寶成廳, 臺中市 · On sale: 2026-09-12 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>9月高雄市電影館｜長短腳電影院－小腳丫遠征隊</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6TW5K</link>
       <guid isPermaLink="false">era:P1E6TW5K</guid>
@@ -557,14 +589,6 @@
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-09-12 · Venue: 南投縣政府文化局演藝廳, 南投縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>所以你想要說什麼？——王甯 X 藍恩 《藍》＋ 駱思維 X 華旭《Take1：拿機器跳舞的，與出一張嘴流汗的 》</title>
-      <link>https://www.accupass.com/event/2608161543031596983764</link>
-      <guid isPermaLink="false">accupass:2608161543031596983764</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊2F, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026大開潘朵拉戲劇節</title>
@@ -631,14 +655,6 @@
       <description>Date: 2026-09-12 · Venue: 樂君亭文創, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>所以你想要說什麼？——喻敏婷 X 品喬《成年少女》＋魯直葳 X 瑞恩《先別急著貼標籤！》</title>
-      <link>https://www.accupass.com/event/2608161610321861940226</link>
-      <guid isPermaLink="false">accupass:2608161610321861940226</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空總國家文化基地 C7通信分隊1F, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>所以你想要說什麼？——李祐祐緯 Feat. 李祐緯《我何嘗不想成為一名偉大的舞蹈家》</title>
       <link>https://www.accupass.com/event/2608180721041353981256</link>
       <guid isPermaLink="false">accupass:2608180721041353981256</guid>
@@ -677,6 +693,30 @@
       <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-11 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>聲韻跨海峽・同心詠家園——海南非物質文化遺產主題演出</title>
+      <link>https://www.opentix.life/event/2082748580382793729</link>
+      <guid isPermaLink="false">opentix:2082748580382793729</guid>
+      <pubDate>Thu, 10 Sep 2026 09:50:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Venue: 桃園市政府文化局演藝廳, 桃園市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《地球人遇見小王子》</title>
+      <link>https://www.opentix.life/event/2097251126499532800</link>
+      <guid isPermaLink="false">opentix:2097251126499532800</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2027-01-10 · Venue: 大事件劇場, 高雄市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>南管戲傳統劇目《陳三五娘》〈賞春〉〈賞燈〉〈答歌〉</title>
+      <link>https://www.opentix.life/event/2088156315559481345</link>
+      <guid isPermaLink="false">opentix:2088156315559481345</guid>
+      <pubDate>Thu, 10 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2026-10-23 · Venue: 國立臺北藝術大學音樂廳, 臺北市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>馬戲埕《抵家》：台味高空馬戲創作計畫</title>
@@ -765,46 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-06 – 2026-09-20 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>臺灣布袋戲傳習中心旗艦巡演</title>
-      <link>https://www.accupass.com/event/2608060917163807075530</link>
-      <guid isPermaLink="false">accupass:2608060917163807075530</guid>
-      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
-      <category>偶戲</category>
-      <description>Date: 2026-09-06 – 2027-04-17 · Venue: 北港家湖廳, 雲林縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>犀牛劇團《非常新生活》</title>
-      <link>https://www.opentix.life/event/2094279822423867392</link>
-      <guid isPermaLink="false">opentix:2094279822423867392</guid>
-      <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>BABY 的宇宙怒氣「大」冒險</title>
-      <link>https://www.opentix.life/event/2092913971741368320</link>
-      <guid isPermaLink="false">opentix:2092913971741368320</guid>
-      <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺灣戲曲中心小表演廳, 臺北市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>來福OPEN MIC 9月</title>
-      <link>https://www.accupass.com/event/2608251438499671452490</link>
-      <guid isPermaLink="false">accupass:2608251438499671452490</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-04 – 2026-09-25 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>喜劇開港 脫口秀OPEN MIC  (九月場)</title>
-      <link>https://www.accupass.com/event/2608270726571057610876</link>
-      <guid isPermaLink="false">accupass:2608270726571057610876</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-04 – 2026-09-25 · Venue: 鸚鵡螺餐酒館：09/04、09/11、09/18 / Cave Café 卡濰咖啡：09/25, 高雄市 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
