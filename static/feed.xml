@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:46:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 02:29:19 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -679,6 +679,14 @@
       <description>Date: 2026-09-11 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>馬戲埕《抵家》：台味高空馬戲創作計畫</title>
+      <link>https://www.opentix.life/event/2096808629070168064</link>
+      <guid isPermaLink="false">opentix:2096808629070168064</guid>
+      <pubDate>Thu, 10 Sep 2026 01:50:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-09 · Venue: 國立臺灣科學教育館 溫暖小池塘, 臺北市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>單口喜劇: 9月份飛客劇樂部 Open Mic《喜劇練功坊》禮拜四19:30～21:30｜主持：外場 Allen </title>
       <link>https://www.accupass.com/event/2609050737304051394610</link>
       <guid isPermaLink="false">accupass:2609050737304051394610</guid>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-04 – 2026-09-25 · Venue: 鸚鵡螺餐酒館：09/04、09/11、09/18 / Cave Café 卡濰咖啡：09/25, 高雄市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026藝術綠洲創作計畫-何日君再來劇團《未來．火車．歌廳秀》</title>
-      <link>https://www.opentix.life/event/2082753505317773312</link>
-      <guid isPermaLink="false">opentix:2082753505317773312</guid>
-      <pubDate>Thu, 03 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 桃園火車站, 桃園市 · On sale: 2026-09-03 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
