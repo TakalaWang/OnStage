@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:44:10 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -253,6 +253,14 @@
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 – 2026-10-04 · Venue: 高雄捷運鳳山站二號出口集合, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>「初次JAM面⚡️」即興音樂會 x OpenJam</title>
+      <link>https://www.accupass.com/event/2609080728486845567960</link>
+      <guid isPermaLink="false">accupass:2609080728486845567960</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-30 · Venue: 遊牧空間, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>打架俱樂部｜即興裡的反派練習（九月場）</title>
@@ -687,30 +695,6 @@
       <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
-      <link>https://www.accupass.com/event/2607201001013362617700</link>
-      <guid isPermaLink="false">accupass:2607201001013362617700</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-11 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>飛客喜劇夜： 中秋節賞月企劃  09/11（五）20:00|飛客俱樂部 |大可愛 / 小歐 / 賀瓏 / 姸慧 / 賴安</title>
-      <link>https://www.accupass.com/event/2608261714297559598630</link>
-      <guid isPermaLink="false">accupass:2608261714297559598630</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-11 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>聲韻跨海峽・同心詠家園——海南非物質文化遺產主題演出</title>
-      <link>https://www.opentix.life/event/2082748580382793729</link>
-      <guid isPermaLink="false">opentix:2082748580382793729</guid>
-      <pubDate>Thu, 10 Sep 2026 09:50:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Venue: 桃園市政府文化局演藝廳, 桃園市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>《地球人遇見小王子》</title>
       <link>https://www.opentix.life/event/2097251126499532800</link>
       <guid isPermaLink="false">opentix:2097251126499532800</guid>
@@ -805,6 +789,22 @@
       <pubDate>Sun, 06 Sep 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-11-21 – 2026-12-04 · Venue: Legacy Taichung 傳 音樂展演空間, 臺中市 · On sale: 2026-09-07 · Source: 寬宏售票</description>
+    </item>
+    <item>
+      <title>2026｜九月 漫才 Open Mic｜眾多漫才組合｜聯合出擊</title>
+      <link>https://www.accupass.com/event/2608240901131531079784</link>
+      <guid isPermaLink="false">accupass:2608240901131531079784</guid>
+      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-09-06 – 2026-09-20 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>臺灣布袋戲傳習中心旗艦巡演</title>
+      <link>https://www.accupass.com/event/2608060917163807075530</link>
+      <guid isPermaLink="false">accupass:2608060917163807075530</guid>
+      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
+      <category>偶戲</category>
+      <description>Date: 2026-09-06 – 2027-04-17 · Venue: 北港家湖廳, 雲林縣 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>

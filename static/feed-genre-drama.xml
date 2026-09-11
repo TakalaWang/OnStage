@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:44:10 GMT</lastBuildDate>
     <item>
       <title>2026璀璨星光、讓愛起飛～35週年慶音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR</link>
@@ -341,22 +341,6 @@
       <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-12 · Venue: 一樓微光廳, 桃園市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026年「要到泉劇場」開幕系列─《刑不刑茶會》</title>
-      <link>https://www.accupass.com/event/2607201001013362617700</link>
-      <guid isPermaLink="false">accupass:2607201001013362617700</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-11 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>聲韻跨海峽・同心詠家園——海南非物質文化遺產主題演出</title>
-      <link>https://www.opentix.life/event/2082748580382793729</link>
-      <guid isPermaLink="false">opentix:2082748580382793729</guid>
-      <pubDate>Thu, 10 Sep 2026 09:50:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Venue: 桃園市政府文化局演藝廳, 桃園市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《地球人遇見小王子》</title>
@@ -805,6 +789,22 @@
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>一心戲劇團 《閻王的假期》</title>
+      <link>https://www.opentix.life/event/2080109546140397568</link>
+      <guid isPermaLink="false">opentix:2080109546140397568</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-06 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>福狸男孩《劉向跟你》</title>
+      <link>https://www.opentix.life/event/2084637143569903617</link>
+      <guid isPermaLink="false">opentix:2084637143569903617</guid>
+      <pubDate>Mon, 10 Aug 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-02 – 2026-10-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
