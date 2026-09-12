@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 02:34:18 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -591,6 +591,14 @@
       <description>Date: 2026-12-06 · Venue: 台中教育大學寶成廳, 臺中市 · On sale: 2026-09-12 · Source: KKTIX</description>
     </item>
     <item>
+      <title>【牛山海灣之歌】</title>
+      <link>https://www.opentix.life/event/2082667316303683585</link>
+      <guid isPermaLink="false">opentix:2082667316303683585</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 – 2026-10-26 · Venue: 花蓮文化創意產業園區 第18棟包裝工廠, 花蓮縣 · On sale: 2026-09-12 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>9月高雄市電影館｜長短腳電影院－小腳丫遠征隊</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6TW5K</link>
       <guid isPermaLink="false">era:P1E6TW5K</guid>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-06 – 2026-09-20 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>臺灣布袋戲傳習中心旗艦巡演</title>
-      <link>https://www.accupass.com/event/2608060917163807075530</link>
-      <guid isPermaLink="false">accupass:2608060917163807075530</guid>
-      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
-      <category>偶戲</category>
-      <description>Date: 2026-09-06 – 2027-04-17 · Venue: 北港家湖廳, 雲林縣 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>

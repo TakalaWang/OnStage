@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 02:34:18 GMT</lastBuildDate>
     <item>
       <title>2026璀璨星光、讓愛起飛～35週年慶音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR</link>
@@ -269,6 +269,14 @@
       <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-13 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【牛山海灣之歌】</title>
+      <link>https://www.opentix.life/event/2082667316303683585</link>
+      <guid isPermaLink="false">opentix:2082667316303683585</guid>
+      <pubDate>Sat, 12 Sep 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 – 2026-10-26 · Venue: 花蓮文化創意產業園區 第18棟包裝工廠, 花蓮縣 · On sale: 2026-09-12 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>9月高雄市電影館｜長短腳電影院－小腳丫遠征隊</title>
@@ -583,20 +591,20 @@
       <description>Date: 2026-10-17 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
-      <link>https://www.opentix.life/event/2090741870444568576</link>
-      <guid isPermaLink="false">opentix:2090741870444568576</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【2026KIPF】泰國V.S.D.《羅摩追金鹿》</title>
       <link>https://www.opentix.life/event/2090745787325108225</link>
       <guid isPermaLink="false">opentix:2090745787325108225</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
+      <link>https://www.opentix.life/event/2090741870444568576</link>
+      <guid isPermaLink="false">opentix:2090741870444568576</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
@@ -759,20 +767,20 @@
       <description>Date: 2026-10-10 – 2026-10-11 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
-      <link>https://www.opentix.life/event/2076940244628860929</link>
-      <guid isPermaLink="false">opentix:2076940244628860929</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026莫比斯圓環創作公社《非常譯外：群盲》</title>
       <link>https://www.opentix.life/event/2082037328271515648</link>
       <guid isPermaLink="false">opentix:2082037328271515648</guid>
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-18 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>自由社《集體登入：//B1神廟》臺大劇場基地創作計畫</title>
+      <link>https://www.opentix.life/event/2076940244628860929</link>
+      <guid isPermaLink="false">opentix:2076940244628860929</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《鬼谷第貳部》</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 臺北市藝文推廣處城市舞台, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>福狸男孩《劉向跟你》</title>
-      <link>https://www.opentix.life/event/2084637143569903617</link>
-      <guid isPermaLink="false">opentix:2084637143569903617</guid>
-      <pubDate>Mon, 10 Aug 2026 02:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-02 – 2026-10-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
