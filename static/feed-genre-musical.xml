@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 12 Sep 2026 02:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:50:40 GMT</lastBuildDate>
     <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
@@ -29,6 +29,14 @@
       <pubDate>Thu, 17 Sep 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-09-18 · Venue: 王道銀行音樂廳, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026台積電藝文專場《你好，我是接體員》黑色幽默音樂劇</title>
+      <link>https://www.opentix.life/event/2017043516239814657</link>
+      <guid isPermaLink="false">opentix:2017043516239814657</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Venue: 新竹縣政府文化局演藝廳, 新竹縣 · On sale: 2026-09-12 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 SHOW MUSICAL《WILD WILD》</title>
@@ -140,15 +148,7 @@
       <guid isPermaLink="false">opentix:2067069773813166080</guid>
       <pubDate>Wed, 24 Jun 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-09-12 – 2026-09-13 · Venue: 空軍三重一村時藝劇場, 新北市 · On sale: 2026-06-24 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026臺東藝術節《勸世三姊妹》中文音樂劇｜暖心臺東版</title>
-      <link>https://www.opentix.life/event/2059917296160870401</link>
-      <guid isPermaLink="false">opentix:2059917296160870401</guid>
-      <pubDate>Mon, 22 Jun 2026 01:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-09-12 · Venue: 臺東縣政府文化處藝文中心演藝廳, 臺東縣 · On sale: 2026-06-22 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-13 · Venue: 空軍三重一村時藝劇場, 新北市 · On sale: 2026-06-24 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>搖滾Ｘ療癒音樂劇《蕾娜絲的修理小舖》</title>
@@ -212,7 +212,7 @@
       <guid isPermaLink="false">opentix:2054406826574860289</guid>
       <pubDate>Mon, 25 May 2026 05:30:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-09-12 – 2026-09-27 · Venue: 西門紅樓二樓劇場, 臺北市 · On sale: 2026-05-25 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-13 – 2026-09-27 · Venue: 西門紅樓二樓劇場, 臺北市 · On sale: 2026-05-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>獨角音樂劇《馬克斯威妖：我睡了我的面試官》南村小宇宙版</title>
@@ -220,7 +220,7 @@
       <guid isPermaLink="false">opentix:2051557579253776385</guid>
       <pubDate>Mon, 25 May 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-09-12 – 2026-09-20 · Venue: PLAYground 南村劇場．青鳥．有.設計, 臺北市 · On sale: 2026-05-25 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-13 – 2026-09-20 · Venue: PLAYground 南村劇場．青鳥．有.設計, 臺北市 · On sale: 2026-05-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>唱歌集《大家都怎麼做音樂劇？》</title>
@@ -260,7 +260,7 @@
       <guid isPermaLink="false">opentix:1881618375330443264</guid>
       <pubDate>Fri, 10 Apr 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-09-12 – 2027-01-10 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-04-10 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-13 – 2027-01-10 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-04-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《你好，我是接體員》黑色幽默音樂劇</title>
