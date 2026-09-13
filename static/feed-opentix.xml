@@ -5,15 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:30:54 GMT</lastBuildDate>
-    <item>
-      <title>2026台積電藝文專場《你好，我是接體員》黑色幽默音樂劇</title>
-      <link>https://www.opentix.life/event/2017043516239814657</link>
-      <guid isPermaLink="false">opentix:2017043516239814657</guid>
-      <pubDate>Sat, 12 Sep 2026 06:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Venue: 新竹縣政府文化局演藝廳, 新竹縣 · On sale: 2026-09-12 · Source: OPENTIX 兩廳院</description>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 15:30:12 GMT</lastBuildDate>
     <item>
       <title>【聲於1945】穿越時空的舊麻袋</title>
       <link>https://www.opentix.life/event/2097527093642059777</link>
@@ -245,14 +237,6 @@
       <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-03 – 2026-12-06 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>漫才練喙花《南有妹迪 IN 菩薩》</title>
-      <link>https://www.opentix.life/event/2090731211515404289</link>
-      <guid isPermaLink="false">opentix:2090731211515404289</guid>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-13 · Venue: 全美戲院 A廳, 臺南市 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《惡心鏡》</title>
@@ -687,14 +671,6 @@
       <description>Date: 2026-10-10 – 2026-10-11 · Venue: 臺灣戲曲中心大表演廳, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>《臺語鬧熱戲場：張古董租妻 × 怪咖紳士秦大條》</title>
-      <link>https://www.opentix.life/event/2079754835674947585</link>
-      <guid isPermaLink="false">opentix:2079754835674947585</guid>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-13 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-08-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>陳三五娘-再回眸</title>
       <link>https://www.opentix.life/event/2077998196478681089</link>
       <guid isPermaLink="false">opentix:2077998196478681089</guid>
@@ -805,6 +781,30 @@
       <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-18 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 NTT遇見巨人—羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》</title>
+      <link>https://www.opentix.life/event/2076923186045493249</link>
+      <guid isPermaLink="false">opentix:2076923186045493249</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-27 – 2026-11-29 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 NTT遇見巨人—明華園戲劇總團《烏龍天下》</title>
+      <link>https://www.opentix.life/event/2079821135483363329</link>
+      <guid isPermaLink="false">opentix:2079821135483363329</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-06 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 NTT遇見巨人—唐美雲歌仔戲團《南都幽靈夜譚》</title>
+      <link>https://www.opentix.life/event/2081542988953264129</link>
+      <guid isPermaLink="false">opentix:2081542988953264129</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2026-12-26 – 2026-12-27 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-07-28 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
