@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:17:35 GMT</lastBuildDate>
     <item>
       <title>2026璀璨星光、讓愛起飛～35週年慶音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR</link>
@@ -13,6 +13,14 @@
       <pubDate>Tue, 01 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-02 · Venue: 衛武營國家藝術文化中心音樂廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966</link>
+      <guid isPermaLink="false">era:P19I4966</guid>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
+      <category>兒童親子</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
@@ -101,14 +109,6 @@
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-03 – 2026-10-11 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966</link>
-      <guid isPermaLink="false">era:P19I4966</guid>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-09-20 – 2026-11-22 · Venue: 臺中市政府文化局中山堂, 臺中市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:17:35 GMT</lastBuildDate>
     <item>
       <title>Gaga和他的朋友們</title>
       <link>https://www.opentix.life/event/2097597536000466945</link>
@@ -532,7 +532,7 @@
       <guid isPermaLink="false">opentix:2084544321432363008</guid>
       <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-09-20 – 2026-10-09 · Venue: 臺中國家歌劇院大劇院, 臺中市 · On sale: 2026-08-24 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-09-26 – 2026-10-09 · Venue: 臺南文化中心演藝廳, 臺南市 · On sale: 2026-08-24 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>金枝演社：當代野台《飛賊夜來香》</title>
@@ -573,14 +573,6 @@
       <pubDate>Wed, 19 Aug 2026 03:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-10 · Venue: 臺北市中山堂光復廳, 臺北市 · On sale: 2026-08-19 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026年度新作《劉備招親》</title>
-      <link>https://www.opentix.life/event/2074397491068465152</link>
-      <guid isPermaLink="false">opentix:2074397491068465152</guid>
-      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-20 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-08-17 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>真・春雨漫才專場《藝術就是爆炸》</title>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-04 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026財團法人廖瓊枝歌仔戲文教基金會《火燒紅蓮寺》</title>
+      <link>https://www.opentix.life/event/2082370327705296896</link>
+      <guid isPermaLink="false">opentix:2082370327705296896</guid>
+      <pubDate>Mon, 03 Aug 2026 03:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2026-10-10 – 2026-10-11 · Venue: 臺灣戲曲中心大表演廳, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

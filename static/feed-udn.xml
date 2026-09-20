@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:17:35 GMT</lastBuildDate>
     <item>
       <title>王偉忠監製舞台劇《明星養老院》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0YXZMT5</link>
@@ -45,14 +45,6 @@
       <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-26 – 2026-12-27 · Venue: 臺中市中山堂, 臺中市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>韓國大學路喜劇猛男秀Hunky Show</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B9YMMZ</link>
-      <guid isPermaLink="false">udn:P1B9YMMZ</guid>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-20 · Venue: WESTAR, 臺北市 · Source: udn 售票網</description>
     </item>
   </channel>
 </rss>
