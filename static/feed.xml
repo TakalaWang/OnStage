@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:45:19 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -109,6 +109,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜南方跳實驗空間《身體之書—消失》</title>
+      <link>https://www.accupass.com/event/2608200313531919620344</link>
+      <guid isPermaLink="false">accupass:2608200313531919620344</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺東縣立圖書館, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>客語環境舞蹈劇場《膠有囍事》</title>
@@ -437,6 +445,14 @@
       <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-10-03 · Venue: Cave Café 卡濰咖啡早午餐＿明誠店 2F, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>喜劇開港 脫口秀OPEN MIC  (十月場)</title>
+      <link>https://www.accupass.com/event/2609211124527299299740</link>
+      <guid isPermaLink="false">accupass:2609211124527299299740</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-02 – 2026-10-30 · Venue: 鸚鵡螺餐酒館-五福店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>「初次JAM面⚡️」即興音樂會 x OpenJam</title>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-09-13 – 2026-10-04 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>《春雨の喜劇力開發研究部》9、10月號</title>
-      <link>https://www.accupass.com/event/2607130631161136450462</link>
-      <guid isPermaLink="false">accupass:2607130631161136450462</guid>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-09-13 – 2026-10-11 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>【聲於1945】穿越時空的舊麻袋</title>
-      <link>https://www.opentix.life/event/2097527093642059777</link>
-      <guid isPermaLink="false">opentix:2097527093642059777</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-12 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:45:19 GMT</lastBuildDate>
     <item>
       <title>藝集戲劇講堂｜羅仕龍:【神話的現代變奏】 — 從神諭、愛欲到戰爭：八齣西洋經典劇作中的命運寓言</title>
       <link>https://www.accupass.com/event/2604290747451406150512</link>
@@ -45,6 +45,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜南方跳實驗空間《身體之書—消失》</title>
+      <link>https://www.accupass.com/event/2608200313531919620344</link>
+      <guid isPermaLink="false">accupass:2608200313531919620344</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺東縣立圖書館, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>客語環境舞蹈劇場《膠有囍事》</title>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-09 – 2026-10-11 · Venue: Legacy TERA, 臺北市 · On sale: 2026-08-21 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《好了啦！達康！》第十季第三集－請問可以耽誤你120分鐘嗎？</title>
-      <link>https://www.opentix.life/event/2089638704332963840</link>
-      <guid isPermaLink="false">opentix:2089638704332963840</guid>
-      <pubDate>Wed, 19 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-09-25 – 2026-10-24 · Venue: 中影八德大樓演講廳, 臺北市 · On sale: 2026-08-19 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
