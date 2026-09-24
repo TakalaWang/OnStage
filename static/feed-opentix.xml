@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:36:04 GMT</lastBuildDate>
     <item>
       <title>打開笑門福自來</title>
       <link>https://www.opentix.life/event/2100773090573783041</link>
@@ -15,20 +15,20 @@
       <description>Date: 2026-10-24 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>無獨有偶工作室劇團《演奏吧 好土樂團》</title>
-      <link>https://www.opentix.life/event/2099682129172733952</link>
-      <guid isPermaLink="false">opentix:2099682129172733952</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>優尼克當代馬戲團《烏龍馬戲團》</title>
       <link>https://www.opentix.life/event/2100782126291587073</link>
       <guid isPermaLink="false">opentix:2100782126291587073</guid>
       <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>無獨有偶工作室劇團《演奏吧 好土樂團》</title>
+      <link>https://www.opentix.life/event/2099682129172733952</link>
+      <guid isPermaLink="false">opentix:2099682129172733952</guid>
+      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>動見体《美好如此》讀劇演出</title>
@@ -71,20 +71,20 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
-      <link>https://www.opentix.life/event/2098258340506152960</link>
-      <guid isPermaLink="false">opentix:2098258340506152960</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
       <link>https://www.opentix.life/event/2090378180198309889</link>
       <guid isPermaLink="false">opentix:2090378180198309889</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
@@ -535,14 +535,6 @@
       <description>Date: 2026-10-17 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
-      <link>https://www.opentix.life/event/2090741870444568576</link>
-      <guid isPermaLink="false">opentix:2090741870444568576</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【2026KIPF】泰國V.S.D.《羅摩追金鹿》</title>
       <link>https://www.opentix.life/event/2090745787325108225</link>
       <guid isPermaLink="false">opentix:2090745787325108225</guid>
@@ -559,12 +551,28 @@
       <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
+      <link>https://www.opentix.life/event/2090741870444568576</link>
+      <guid isPermaLink="false">opentix:2090741870444568576</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
       <link>https://www.opentix.life/event/2090751612802322433</link>
       <guid isPermaLink="false">opentix:2090751612802322433</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026KIPF】飛人集社《小飛飛的天空》</title>
+      <link>https://www.opentix.life/event/2090762636955799553</link>
+      <guid isPermaLink="false">opentix:2090762636955799553</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-24 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026KIPF】高雄皮影戲劇團《變身》</title>
@@ -583,14 +591,6 @@
       <description>Date: 2026-10-24 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026KIPF】飛人集社《小飛飛的天空》</title>
-      <link>https://www.opentix.life/event/2090762636955799553</link>
-      <guid isPermaLink="false">opentix:2090762636955799553</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-24 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【2026KIPF】東華皮影劇團《「俠影江湖」大俠不只是我?! 》</title>
       <link>https://www.opentix.life/event/2090769931152023552</link>
       <guid isPermaLink="false">opentix:2090769931152023552</guid>
@@ -599,20 +599,20 @@
       <description>Date: 2026-10-25 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026KIPF】錦飛鳳傀儡戲劇團 《靖姑傳奇》</title>
-      <link>https://www.opentix.life/event/2090771847201034240</link>
-      <guid isPermaLink="false">opentix:2090771847201034240</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-25 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>【2026KIPF】金鷹閣電視木偶劇團 《西遊記之鬧天宮》</title>
       <link>https://www.opentix.life/event/2090773654423490561</link>
       <guid isPermaLink="false">opentix:2090773654423490561</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026KIPF】錦飛鳳傀儡戲劇團 《靖姑傳奇》</title>
+      <link>https://www.opentix.life/event/2090771847201034240</link>
+      <guid isPermaLink="false">opentix:2090771847201034240</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>豬探長小劇場《松鼠大亨驚魂記》</title>
