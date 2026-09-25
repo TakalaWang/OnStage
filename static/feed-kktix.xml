@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 02:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:22:40 GMT</lastBuildDate>
     <item>
       <title>2026 台北喜劇節 | 【台中】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
       <link>https://comedyclub.kktix.cc/events/lucas202612061</link>
@@ -63,22 +63,6 @@
       <description>Date: 2026-11-29 · Venue: 西門紅樓 The Red House 二樓劇場, 臺北市 · On sale: 2026-09-01 · Source: KKTIX</description>
     </item>
     <item>
-      <title>【11/21 台東場】2026 佳諭單口喜劇專場《Get 婚》</title>
-      <link>https://comedyclub.kktix.cc/events/get20261121</link>
-      <guid isPermaLink="false">kktix:comedyclub/get20261121</guid>
-      <pubDate>Mon, 27 Jul 2026 11:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-21 · Venue: 就藝會(臺東表演藝術創生基地) Just arts House 小劇場, 臺東縣 · On sale: 2026-07-27 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【11/22 花蓮場】2026 佳諭單口喜劇專場《Get 婚》</title>
-      <link>https://comedyclub.kktix.cc/events/get20261122</link>
-      <guid isPermaLink="false">kktix:comedyclub/get20261122</guid>
-      <pubDate>Mon, 27 Jul 2026 11:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-22 · Venue: All Star Live House 奧斯卡美式餐廳, 花蓮縣 · On sale: 2026-07-27 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>【12/10】《百靈果News Live》</title>
       <link>https://comedyclub.kktix.cc/events/bailingguo1210</link>
       <guid isPermaLink="false">kktix:comedyclub/bailingguo1210</guid>
@@ -87,12 +71,28 @@
       <description>Date: 2026-12-10 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-07-09 · Source: KKTIX</description>
     </item>
     <item>
+      <title>《黃豪平單口喜劇專場：只是喜劇演員》</title>
+      <link>https://comedyclub.kktix.cc/events/smaljohncomedy2026</link>
+      <guid isPermaLink="false">kktix:comedyclub/smaljohncomedy2026</guid>
+      <pubDate>Wed, 01 Apr 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-27 – 2026-11-29 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-04-01 · Source: KKTIX</description>
+    </item>
+    <item>
       <title> 2026 台北喜劇節 | 相聲失控《原聲變態》</title>
       <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk202611</link>
       <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk202611</guid>
       <pubDate>Fri, 23 Jan 2026 11:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: 西門紅樓 The Red House 二樓劇場, 臺北市 · On sale: 2026-01-23 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【11/26】北部綜藝能工作室：週四即戰力</title>
+      <link>https://comedyclub.kktix.cc/events/tthursdayfight1126</link>
+      <guid isPermaLink="false">kktix:comedyclub/tthursdayfight1126</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-26 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/5】《菜冠雙Talk》2026年12月號</title>
