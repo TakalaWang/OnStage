@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:54:55 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -791,20 +791,20 @@
       <description>Date: 2026-10-23 – 2026-10-24 · Venue: 新竹東山排練場, 新竹市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>黃春明的兒童劇《小李子不是大騙子》</title>
-      <link>https://www.opentix.life/event/2092488473791787008</link>
-      <guid isPermaLink="false">opentix:2092488473791787008</guid>
-      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-10-29 – 2026-10-30 · Venue: 宜蘭演藝廳, 宜蘭縣 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>形動亞洲交會聯演在台北</title>
       <link>https://www.opentix.life/event/2093186512661815296</link>
       <guid isPermaLink="false">opentix:2093186512661815296</guid>
       <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-29 – 2026-11-01 · Venue: 臺灣戲曲中心臺灣音樂館B1視聽室, 臺北市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>黃春明的兒童劇《小李子不是大騙子》</title>
+      <link>https://www.opentix.life/event/2092488473791787008</link>
+      <guid isPermaLink="false">opentix:2092488473791787008</guid>
+      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
+      <category>兒童親子</category>
+      <description>Date: 2026-10-29 – 2026-10-30 · Venue: 宜蘭演藝廳, 宜蘭縣 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
