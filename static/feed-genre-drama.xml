@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 19:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:38:00 GMT</lastBuildDate>
     <item>
       <title>NERF情境式創意劇場《王子・公主・噴火龍》</title>
       <link>https://www.accupass.com/event/2609130601379416390410</link>
@@ -87,6 +87,14 @@
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026森林續曲第10回《11/1千年之戀》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGAJX6</link>
+      <guid isPermaLink="false">era:P1GGAJX6</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-01 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>會演是英雄2之《英雄所賤略同》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
       <guid isPermaLink="false">udn:P185ZP45</guid>
@@ -101,6 +109,14 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>2026森林續曲第10回《10/31微風往事》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGACLW</link>
+      <guid isPermaLink="false">era:P1GGACLW</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
     </item>
     <item>
       <title>紅瓦民族舞蹈團『秋意濃』</title>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演講廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026KIPF】土耳其Cengiz Özek Shadow Theatre《垃圾怪獸》</title>
-      <link>https://www.opentix.life/event/2090741870444568576</link>
-      <guid isPermaLink="false">opentix:2090741870444568576</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市皮影戲館3樓劇場, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026KIPF】偶偶偶劇團《皇帝與夜鶯》</title>
-      <link>https://www.opentix.life/event/2090751612802322433</link>
-      <guid isPermaLink="false">opentix:2090751612802322433</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 高雄市岡山文化中心演藝廳, 高雄市 · On sale: 2026-08-25 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
