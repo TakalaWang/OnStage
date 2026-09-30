@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:21:51 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -119,6 +119,14 @@
       <description>Date: 2026-11-14 · Venue: 嘉義縣表演藝術中心 戶外園區, 嘉義縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026出櫃藝術節｜吳盈萱・蘇黎世戲劇盛會瑞士巡演短講</title>
       <link>https://www.accupass.com/event/2609231155556164338340</link>
       <guid isPermaLink="false">accupass:2609231155556164338340</guid>
@@ -215,7 +223,7 @@
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
     </item>
     <item>
-      <title>《超人力霸王舞台劇與光同行60週年特別公演》</title>
+      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
       <guid isPermaLink="false">era:P1F33E6Z</guid>
       <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
@@ -559,7 +567,7 @@
       <description>Date: 2026-09-30 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>《請你看看我的信：荒謬、自由、幸福與三十七年的人生規劃》</title>
+      <title>後街人劇團2026年度製作《請你看看我的信：荒謬、自由、幸福與三十七年的人生規劃》</title>
       <link>https://www.opentix.life/event/2101837655424311296</link>
       <guid isPermaLink="false">opentix:2101837655424311296</guid>
       <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
@@ -615,7 +623,7 @@
       <description>Date: 2026-12-25 – 2027-01-02 · Venue: 西門紅樓二樓劇場, 臺北市 · On sale: 2026-09-25 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026辜公亮文教基金會 精演好老戲《巴山秀才》、《龍鳳呈祥》</title>
+      <title>2026辜公亮文教基金會 精演好老戲《巴山秀才》、南派《龍鳳呈祥》</title>
       <link>https://www.opentix.life/event/2101951888432340992</link>
       <guid isPermaLink="false">opentix:2101951888432340992</guid>
       <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-29 – 2026-11-01 · Venue: 臺灣戲曲中心臺灣音樂館B1視聽室, 臺北市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>黃春明的兒童劇《小李子不是大騙子》</title>
-      <link>https://www.opentix.life/event/2092488473791787008</link>
-      <guid isPermaLink="false">opentix:2092488473791787008</guid>
-      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-10-29 – 2026-10-30 · Venue: 宜蘭演藝廳, 宜蘭縣 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
