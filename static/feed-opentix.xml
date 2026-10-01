@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:31:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:29:08 GMT</lastBuildDate>
+    <item>
+      <title>遠雄人壽2026家庭照顧者喘息服務《有一天我們會》公益舞台劇</title>
+      <link>https://www.opentix.life/event/2099754153870073857</link>
+      <guid isPermaLink="false">opentix:2099754153870073857</guid>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-10-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-30 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>2026 星村有喜事</title>
       <link>https://www.opentix.life/event/2099722747071549441</link>
@@ -143,20 +151,20 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
-      <link>https://www.opentix.life/event/2098258340506152960</link>
-      <guid isPermaLink="false">opentix:2098258340506152960</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
       <link>https://www.opentix.life/event/2090378180198309889</link>
       <guid isPermaLink="false">opentix:2090378180198309889</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 11 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-11 – 2026-12-13 · Venue: 臺北市中山堂中正廳, 臺北市 · On sale: 2026-08-11 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>烏犬劇場《你生下我的時候我也生下了你》</title>
-      <link>https://www.opentix.life/event/2084120461598142465</link>
-      <guid isPermaLink="false">opentix:2084120461598142465</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-02 – 2026-10-04 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
