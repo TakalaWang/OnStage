@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:30:06 GMT</lastBuildDate>
     <item>
       <title>打架俱樂部｜即興裡的反派練習 &lt;12月場&gt;</title>
       <link>https://www.accupass.com/event/2609081442017812777630</link>
@@ -111,9 +111,17 @@
       <description>Date: 2026-10-10 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026台北喜劇節：主人，為您施加笑點魔法</title>
-      <link>https://comedyclub.kktix.cc/events/masterwecastthemagicoflaughter</link>
-      <guid isPermaLink="false">kktix:comedyclub/masterwecastthemagicoflaughter</guid>
+      <title>2026 台北喜劇節 | 11/29《黃豪平單口喜劇專場：只是喜劇演員》台北最終加演場</title>
+      <link>https://comedyclub.kktix.cc/events/smaljohncomedy20261129</link>
+      <guid isPermaLink="false">kktix:comedyclub/smaljohncomedy20261129</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-29 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
+      <link>https://comedyclub.kktix.cc/events/mit</link>
+      <guid isPermaLink="false">kktix:comedyclub/mit</guid>
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
@@ -167,12 +175,12 @@
       <description>Date: 2026-10-01 – 2026-10-30 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026台北喜劇節：歡顛藝術厶v</title>
-      <link>https://comedyclub.kktix.cc/events/fromlifetodeath</link>
-      <guid isPermaLink="false">kktix:comedyclub/fromlifetodeath</guid>
-      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <title>2026 台北喜劇節 | 漫漫笑出來-姨路有你</title>
+      <link>https://comedyclub.kktix.cc/events/manman1201</link>
+      <guid isPermaLink="false">kktix:comedyclub/manman1201</guid>
+      <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-12-04 – 2026-12-05 · Venue: 底加書店, 臺北市 · On sale: 2026-09-29 · Source: KKTIX</description>
+      <description>Date: 2026-12-01 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-28 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026Tapper&apos;s 醬一起｜TAP JAM SESSION｜踢踏即興派對</title>
@@ -223,6 +231,14 @@
       <description>Date: 2026-12-04 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
     </item>
     <item>
+      <title>2026 台北喜劇節 |【11/29 台北紅樓加演】2026 佳諭單口喜劇專場《Get 婚》</title>
+      <link>https://comedyclub.kktix.cc/events/get20261129</link>
+      <guid isPermaLink="false">kktix:comedyclub/get20261129</guid>
+      <pubDate>Tue, 01 Sep 2026 11:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-29 · Venue: 西門紅樓 The Red House 二樓劇場, 臺北市 · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>真・春雨漫才專場《藝術就是爆炸》</title>
       <link>https://www.opentix.life/event/2085199132312293377</link>
       <guid isPermaLink="false">opentix:2085199132312293377</guid>
@@ -263,28 +279,12 @@
       <description>Date: 2026-01-14 – 2026-12-09 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026台北喜劇節：皇后過招</title>
-      <link>https://comedyclub.kktix.cc/events/meanqueens</link>
-      <guid isPermaLink="false">kktix:comedyclub/meanqueens</guid>
+      <title>2026台北喜劇節：爆笑狗一籮筐2－人狗情未了</title>
+      <link>https://comedyclub.kktix.cc/events/sketchcomedyshow</link>
+      <guid isPermaLink="false">kktix:comedyclub/sketchcomedyshow</guid>
       <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-12-03 – 2026-12-04 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026台北喜劇節：來福洞洞么 NO.15 里民大會</title>
-      <link>https://comedyclub.kktix.cc/events/laifu001</link>
-      <guid isPermaLink="false">kktix:comedyclub/laifu001</guid>
-      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-05 – 2026-12-12 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
-      <link>https://comedyclub.kktix.cc/events/mit</link>
-      <guid isPermaLink="false">kktix:comedyclub/mit</guid>
-      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
+      <description>Date: 2026-12-01 – 2026-12-03 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026台北喜劇節：【12/5】《菜冠雙Talk》2026年12月號</title>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:30:06 GMT</lastBuildDate>
     <item>
       <title>NERF情境式創意劇場《王子・公主・噴火龍》</title>
       <link>https://www.accupass.com/event/2609130601379416390410</link>
@@ -109,6 +109,14 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>樑上有戲！傳匠修復夜行密令 —— 沈浸式戲劇 x 大木作修復解密</title>
+      <link>https://www.accupass.com/event/2610020134061527694750</link>
+      <guid isPermaLink="false">accupass:2610020134061527694750</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-28 – 2026-10-31 · Venue: 祀典大天后宮, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>LIYI x 許筠杰 | 高壓職場的戲劇表達課</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 – 2026-10-26 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>夜路不怕黑：攑燈照暗暝</title>
-      <link>https://www.opentix.life/event/2089637449305997313</link>
-      <guid isPermaLink="false">opentix:2089637449305997313</guid>
-      <pubDate>Wed, 26 Aug 2026 02:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 – 2026-10-04 · Venue: 澎湖縣白沙鄉小赤村（北海道租車行前方空地）, 澎湖縣 · On sale: 2026-08-26 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

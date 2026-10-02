@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:30:06 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -237,6 +237,14 @@
       <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-10-30 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>樑上有戲！傳匠修復夜行密令 —— 沈浸式戲劇 x 大木作修復解密</title>
+      <link>https://www.accupass.com/event/2610020134061527694750</link>
+      <guid isPermaLink="false">accupass:2610020134061527694750</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-28 – 2026-10-31 · Venue: 祀典大天后宮, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>打架俱樂部｜即興裡的反派練習 &lt;10月場&gt;</title>
@@ -511,9 +519,17 @@
       <description>Date: 2026-10-06 · Venue: 台鐵新左營車站/環球百貨4F, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026台北喜劇節：主人，為您施加笑點魔法</title>
-      <link>https://comedyclub.kktix.cc/events/masterwecastthemagicoflaughter</link>
-      <guid isPermaLink="false">kktix:comedyclub/masterwecastthemagicoflaughter</guid>
+      <title>2026 台北喜劇節 | 11/29《黃豪平單口喜劇專場：只是喜劇演員》台北最終加演場</title>
+      <link>https://comedyclub.kktix.cc/events/smaljohncomedy20261129</link>
+      <guid isPermaLink="false">kktix:comedyclub/smaljohncomedy20261129</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-29 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
+      <link>https://comedyclub.kktix.cc/events/mit</link>
+      <guid isPermaLink="false">kktix:comedyclub/mit</guid>
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
@@ -671,20 +687,20 @@
       <description>Date: 2026-11-13 – 2026-11-14 · Venue: 得勝新村遺構公園, 屏東縣 · On sale: 2026-09-30 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026台北喜劇節：歡顛藝術厶v</title>
-      <link>https://comedyclub.kktix.cc/events/fromlifetodeath</link>
-      <guid isPermaLink="false">kktix:comedyclub/fromlifetodeath</guid>
-      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 – 2026-12-05 · Venue: 底加書店, 臺北市 · On sale: 2026-09-29 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>後街人劇團2026年度製作《請你看看我的信：荒謬、自由、幸福與三十七年的人生規劃》</title>
       <link>https://www.opentix.life/event/2101837655424311296</link>
       <guid isPermaLink="false">opentix:2101837655424311296</guid>
       <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-20 – 2026-11-22 · Venue: 邊譜書店3樓, 臺中市 · On sale: 2026-09-29 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026 台北喜劇節 | 漫漫笑出來-姨路有你</title>
+      <link>https://comedyclub.kktix.cc/events/manman1201</link>
+      <guid isPermaLink="false">kktix:comedyclub/manman1201</guid>
+      <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-01 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-09-28 · Source: KKTIX</description>
     </item>
     <item>
       <title>《吾師吳師》吳兆南百歲紀念演出</title>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-13 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>栢優座《家祭》經典好戲再演</title>
-      <link>https://www.opentix.life/event/2100808996688179201</link>
-      <guid isPermaLink="false">opentix:2100808996688179201</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>國立臺灣大學戲劇學系2026學期製作《BIG LOVE》</title>
-      <link>https://www.opentix.life/event/2095689964381159424</link>
-      <guid isPermaLink="false">opentix:2095689964381159424</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
