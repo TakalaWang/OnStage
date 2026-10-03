@@ -5,15 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 03:15:31 GMT</lastBuildDate>
-    <item>
-      <title>2026 台北喜劇節 | 閨蜜該該叫《性愛巴士》最色脫口秀(18禁)</title>
-      <link>https://comedyclub.kktix.cc/events/sexbus</link>
-      <guid isPermaLink="false">kktix:comedyclub/sexbus</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 15:37:58 GMT</lastBuildDate>
     <item>
       <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
       <link>https://comedyclub.kktix.cc/events/mit</link>
@@ -21,6 +13,14 @@
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：好竹弋專場 《直球》好評加演</title>
+      <link>https://comedyclub.kktix.cc/events/goodidea</link>
+      <guid isPermaLink="false">kktix:comedyclub/goodidea</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-06 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/12 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴</title>
@@ -37,6 +37,14 @@
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-13 · Venue: 高雄場 洛克音樂藝文展演空間, 高雄市 · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/19】四季寄席—鬧冬</title>
+      <link>https://comedyclub.kktix.cc/events/winter1219</link>
+      <guid isPermaLink="false">kktix:comedyclub/winter1219</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 · Venue: 樂君亭, 桃園市 · On sale: 2026-10-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會</title>
@@ -85,14 +93,6 @@
       <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-10 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-07-09 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026台北喜劇節：日京小歌廳：怪奇聲響收藏家PRO</title>
-      <link>https://comedyclub.kktix.cc/events/djsolonelyshowtheweirdsoundcollectorpro</link>
-      <guid isPermaLink="false">kktix:comedyclub/djsolonelyshowtheweirdsoundcollectorpro</guid>
-      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-02 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026台北喜劇節：【12/5】《菜冠雙Talk》2026年12月號</title>

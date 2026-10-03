@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 03:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:37:58 GMT</lastBuildDate>
     <item>
       <title>NERF情境式創意劇場《王子・公主・噴火龍》</title>
       <link>https://www.accupass.com/event/2609130601379416390410</link>
@@ -109,6 +109,14 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>【島嶼開門：揭開劇場神秘學】秋季學苑</title>
+      <link>https://www.accupass.com/event/2609300051551428849075</link>
+      <guid isPermaLink="false">accupass:2609300051551428849075</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 基隆表演藝術中心島嶼實驗劇場, 基隆市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【西方秘境列車】大阿卡納的旅程(啟程篇)：沉浸式劇場 × 雙名師塔羅親解</title>
@@ -279,28 +287,36 @@
       <description>Date: 2026-10-06 · Venue: 台鐵新左營車站/環球百貨4F, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【12/19】四季寄席—鬧冬</title>
+      <link>https://comedyclub.kktix.cc/events/winter1219</link>
+      <guid isPermaLink="false">kktix:comedyclub/winter1219</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 · Venue: 樂君亭, 桃園市 · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>日本TAMAKKO-ZA和太鼓劇團[龍馬太鼓]</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJKBJM</link>
+      <guid isPermaLink="false">era:P1DJKBJM</guid>
+      <pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-04 – 2026-10-11 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>臺北城市科技大學演藝事業系2026冬季展演《微光之翼》</title>
+      <link>https://www.opentix.life/event/2105658989991849984</link>
+      <guid isPermaLink="false">opentix:2105658989991849984</guid>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 國立臺灣藝術教育館南海劇場, 臺北市 · On sale: 2026-10-03 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>2026大觀國際表演藝術節 -【潮渡人之歌】</title>
       <link>https://www.opentix.life/event/2099390015667625985</link>
       <guid isPermaLink="false">opentix:2099390015667625985</guid>
       <pubDate>Sat, 03 Oct 2026 02:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-19 – 2026-12-20 · Venue: 臺藝表演廳, 新北市 · On sale: 2026-10-03 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>英雄傳 武聖關公</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXD96B</link>
-      <guid isPermaLink="false">era:P1CXD96B</guid>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>日本TAMAKKO-ZA和太鼓劇團[龍馬太鼓]</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJKBJM</link>
-      <guid isPermaLink="false">era:P1DJKBJM</guid>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 – 2026-10-11 · Venue: 臺北市政大樓親子劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>幼兒園免費活動 | Garden Adventure 花園冒險 沉浸式體驗戲劇</title>
@@ -692,7 +708,7 @@
       <guid isPermaLink="false">opentix:2094701120285835264</guid>
       <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-03 – 2026-10-23 · Venue: 澎湖縣演藝廳, 澎湖縣 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-10-22 – 2026-10-23 · Venue: 國立臺灣藝術教育館南海劇場, 臺北市 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>盤花仙境大冒險</title>
@@ -783,28 +799,12 @@
       <description>Date: 2026-10-30 – 2026-11-01 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>PILIGILI奇幻冒險記</title>
-      <link>https://www.opentix.life/event/2090340198001360896</link>
-      <guid isPermaLink="false">opentix:2090340198001360896</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-03 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>在戰場與神殿之間</title>
       <link>https://www.opentix.life/event/2079761930235998209</link>
       <guid isPermaLink="false">opentix:2079761930235998209</guid>
       <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-23 – 2026-10-25 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026廳院選 當代傳奇劇場《慾望城國》王者再臨</title>
-      <link>https://www.opentix.life/event/2084175420436328449</link>
-      <guid isPermaLink="false">opentix:2084175420436328449</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-03 – 2026-12-06 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
