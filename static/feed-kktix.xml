@@ -5,15 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:44:01 GMT</lastBuildDate>
-    <item>
-      <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
-      <link>https://comedyclub.kktix.cc/events/mit</link>
-      <guid isPermaLink="false">kktix:comedyclub/mit</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 16:21:49 GMT</lastBuildDate>
     <item>
       <title>2026台北喜劇節：好竹弋專場 《直球》好評加演</title>
       <link>https://comedyclub.kktix.cc/events/goodidea</link>
@@ -63,28 +55,28 @@
       <description>Date: 2026-12-27 · Venue: 群島藝術園區 Islands Art Park, 臺中市 · On sale: 2026-10-04 · Source: KKTIX</description>
     </item>
     <item>
+      <title>【12/12 台中場】來福洞洞么 NO.15 里民大會</title>
+      <link>https://comedyclub.kktix.cc/events/laifu0011212</link>
+      <guid isPermaLink="false">kktix:comedyclub/laifu0011212</guid>
+      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 · Venue: 群島藝術園區  小劇院, 臺中市 · On sale: 2026-09-30 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：尬聊</title>
+      <link>https://comedyclub.kktix.cc/events/smalltalk1205</link>
+      <guid isPermaLink="false">kktix:comedyclub/smalltalk1205</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-05 · Venue:  二三喜劇 TWO THREE COMEDY · On sale: 2026-09-29 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>2026 台北喜劇節 | 【台中】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
       <link>https://comedyclub.kktix.cc/events/lucas202612061</link>
       <guid isPermaLink="false">kktix:comedyclub/lucas202612061</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-06 · Venue: 台中群島藝術園區大劇院, 臺中市 · On sale: 2026-09-22 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026 台北喜劇節 | 盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
-      <link>https://comedyclub.kktix.cc/events/lucas2026</link>
-      <guid isPermaLink="false">kktix:comedyclub/lucas2026</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026 台北喜劇節 |【台北】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
-      <link>https://comedyclub.kktix.cc/events/lucas20261204</link>
-      <guid isPermaLink="false">kktix:comedyclub/lucas20261204</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/10】《百靈果News Live》</title>
@@ -95,12 +87,20 @@
       <description>Date: 2026-12-10 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-07-09 · Source: KKTIX</description>
     </item>
     <item>
-      <title>2026台北喜劇節：【12/5】《菜冠雙Talk》2026年12月號</title>
-      <link>https://comedyclub.kktix.cc/events/tsaiguan20261205</link>
-      <guid isPermaLink="false">kktix:comedyclub/tsaiguan20261205</guid>
-      <pubDate>Tue, 19 Aug 2025 04:30:00 GMT</pubDate>
+      <title>2026台北喜劇節：【12/5 台北場】來福洞洞么 NO.15 里民大會</title>
+      <link>https://comedyclub.kktix.cc/events/laifu0011205</link>
+      <guid isPermaLink="false">kktix:comedyclub/laifu0011205</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2025-08-19 · Source: KKTIX</description>
+      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：《笑料黑白切》愛的味道</title>
+      <link>https://comedyclub.kktix.cc/events/loveflavor</link>
+      <guid isPermaLink="false">kktix:comedyclub/loveflavor</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-06 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>

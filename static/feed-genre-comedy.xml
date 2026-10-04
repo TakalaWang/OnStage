@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:21:49 GMT</lastBuildDate>
     <item>
       <title>打架俱樂部｜即興裡的反派練習 &lt;12月場&gt;</title>
       <link>https://www.accupass.com/event/2609081442017812777630</link>
@@ -143,6 +143,14 @@
       <description>Date: 2026-10-15 – 2026-11-26 · Venue: 可能存在的遊樂園 CollaPlay, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>即興喜劇:「立即興奮」|夏大寶 / 麥摳 / 微笑丹尼 / 城寶｜10/14  (三) 20:00|飛客劇樂部</title>
+      <link>https://www.accupass.com/event/2610021416541059086172</link>
+      <guid isPermaLink="false">accupass:2610021416541059086172</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-14 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>聲紋喜劇夜 – 喜劇拼盤秀</title>
       <link>https://www.accupass.com/event/2609221038223678429080</link>
       <guid isPermaLink="false">accupass:2609221038223678429080</guid>
@@ -165,14 +173,6 @@
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-10-06 – 2026-10-27 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026台北喜劇節：妹迪 IN TAIWAN《你共我擋咧！》</title>
-      <link>https://comedyclub.kktix.cc/events/mit</link>
-      <guid isPermaLink="false">kktix:comedyclub/mit</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026台北喜劇節：好竹弋專場 《直球》好評加演</title>
@@ -223,6 +223,14 @@
       <description>Date: 2026-10-01 – 2026-10-30 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026台北喜劇節：尬聊</title>
+      <link>https://comedyclub.kktix.cc/events/smalltalk1205</link>
+      <guid isPermaLink="false">kktix:comedyclub/smalltalk1205</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-05 · Venue:  二三喜劇 TWO THREE COMEDY · On sale: 2026-09-29 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>2026Tapper&apos;s 醬一起｜TAP JAM SESSION｜踢踏即興派對</title>
       <link>https://www.accupass.com/event/2609020955331808886110</link>
       <guid isPermaLink="false">accupass:2609020955331808886110</guid>
@@ -255,36 +263,12 @@
       <description>Date: 2026-09-13 – 2026-10-11 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026 台北喜劇節 | 盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
-      <link>https://comedyclub.kktix.cc/events/lucas2026</link>
-      <guid isPermaLink="false">kktix:comedyclub/lucas2026</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026 台北喜劇節 |【台北】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
-      <link>https://comedyclub.kktix.cc/events/lucas20261204</link>
-      <guid isPermaLink="false">kktix:comedyclub/lucas20261204</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-04 · Venue: 中影八德大樓 演講廳 , 臺北市 · On sale: 2026-09-12 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>真・春雨漫才專場《藝術就是爆炸》</title>
       <link>https://www.opentix.life/event/2085199132312293377</link>
       <guid isPermaLink="false">opentix:2085199132312293377</guid>
       <pubDate>Sat, 15 Aug 2026 03:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-10-30 – 2026-10-31 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>春雨x好竹弋《超即興期天~Super》</title>
-      <link>https://www.opentix.life/event/2080199452213727233</link>
-      <guid isPermaLink="false">opentix:2080199452213727233</guid>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-04 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-08-03 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>黃梅調喜劇《三笑點秋香》創團20年慶公演</title>
@@ -311,12 +295,20 @@
       <description>Date: 2026-01-14 – 2026-12-09 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026台北喜劇節：【12/5】《菜冠雙Talk》2026年12月號</title>
-      <link>https://comedyclub.kktix.cc/events/tsaiguan20261205</link>
-      <guid isPermaLink="false">kktix:comedyclub/tsaiguan20261205</guid>
-      <pubDate>Tue, 19 Aug 2025 04:30:00 GMT</pubDate>
+      <title>2026台北喜劇節：【12/5 台北場】來福洞洞么 NO.15 里民大會</title>
+      <link>https://comedyclub.kktix.cc/events/laifu0011205</link>
+      <guid isPermaLink="false">kktix:comedyclub/laifu0011205</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2025-08-19 · Source: KKTIX</description>
+      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026台北喜劇節：《笑料黑白切》愛的味道</title>
+      <link>https://comedyclub.kktix.cc/events/loveflavor</link>
+      <guid isPermaLink="false">kktix:comedyclub/loveflavor</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-06 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>
