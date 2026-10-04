@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:44:01 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -63,12 +63,28 @@
       <description>Date: 2026-12-10 – 2027-03-25 · Venue: 嘟嘟房停車場旁邊, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>台北喜劇節「腹語術：翻雲腹語之夜」｜12/03 (四) 20:00｜多位腹語師帶你走一趟腹語的神奇世界！</title>
+      <link>https://www.accupass.com/event/2610031306132100376983</link>
+      <guid isPermaLink="false">accupass:2610031306132100376983</guid>
+      <pubDate>Wed, 02 Dec 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-03 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026璀璨星光、讓愛起飛～35週年慶音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR</link>
       <guid isPermaLink="false">era:P1FDODMR</guid>
       <pubDate>Tue, 01 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-02 · Venue: 衛武營國家藝術文化中心音樂廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>台北喜劇節【相聲： 語言的幽默】12/02（三）20:00｜飛客劇樂部｜ 黃笑 / 芳芳 / 芠睿 / 紫莛 / 婷然 / 韋捷 / 庭瑞 / 柏陞 / 小南  / 陳慶昇</title>
+      <link>https://www.accupass.com/event/2610031304504942971610</link>
+      <guid isPermaLink="false">accupass:2610031304504942971610</guid>
+      <pubDate>Tue, 01 Dec 2026 16:00:00 GMT</pubDate>
+      <category>相聲</category>
+      <description>Date: 2026-12-02 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北喜劇節：大喜利 Open Mic | 12/01  (二) 19：30｜飛客俱樂部|主持：LILI講</title>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 26 Sep 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-09-27 – 2026-11-14 · Venue: 舞工廠舞團, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>《Plaza Suite》好事多磨大飯店</title>
-      <link>https://www.opentix.life/event/2100541819672694784</link>
-      <guid isPermaLink="false">opentix:2100541819672694784</guid>
-      <pubDate>Sat, 26 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-27 · Venue: PLAYground 南村劇場．青鳥．有.設計, 臺北市 · On sale: 2026-09-26 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026辜公亮文教基金會 精演好老戲《孫悟空智鬥白骨精》</title>
-      <link>https://www.opentix.life/event/2102685369686896641</link>
-      <guid isPermaLink="false">opentix:2102685369686896641</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-09-25 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
