@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 03:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:12:54 GMT</lastBuildDate>
     <item>
       <title>2026生藝人計畫—機械城</title>
       <link>https://www.accupass.com/event/2608271009591935078922</link>
@@ -303,12 +303,36 @@
       <description>Date: 2026-10-07 – 2026-10-11 · Venue: 臺中市政府文化局中山堂, 臺中市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>Re:密室遊戲</title>
+      <link>https://www.opentix.life/event/2101959359186153473</link>
+      <guid isPermaLink="false">opentix:2101959359186153473</guid>
+      <pubDate>Tue, 06 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-08 – 2027-01-17 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-10-06 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>10/6 隊友，哩嘛幫幫忙～【點亮計畫｜Social Day 品牌小聚】</title>
       <link>https://www.accupass.com/event/2609221416232797982530</link>
       <guid isPermaLink="false">accupass:2609221416232797982530</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-06 · Venue: 台鐵新左營車站/環球百貨4F, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2100419027401220097</link>
+      <guid isPermaLink="false">opentix:2100419027401220097</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-14 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>新藝芳歌劇團《心獄．馬陵道》</title>
+      <link>https://www.opentix.life/event/2105553866380718081</link>
+      <guid isPermaLink="false">opentix:2105553866380718081</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【12/19】四季寄席—鬧冬</title>
@@ -781,30 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>裸（R.O.D）劇團習作（二）《Not Today》</title>
-      <link>https://www.opentix.life/event/2091726066492534785</link>
-      <guid isPermaLink="false">opentix:2091726066492534785</guid>
-      <pubDate>Tue, 01 Sep 2026 03:50:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026關渡藝術節戲劇學院秋季公演《那該死美好的日子》</title>
-      <link>https://www.opentix.life/event/2092882777473224704</link>
-      <guid isPermaLink="false">opentix:2092882777473224704</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-23 – 2026-11-01 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026亞洲相遇計畫《喑 Silent Voice》</title>
-      <link>https://www.opentix.life/event/2092162433328816128</link>
-      <guid isPermaLink="false">opentix:2092162433328816128</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-30 – 2026-11-01 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
