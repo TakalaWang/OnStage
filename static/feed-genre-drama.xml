@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:48:21 GMT</lastBuildDate>
     <item>
       <title>2026生藝人計畫—機械城</title>
       <link>https://www.accupass.com/event/2608271009591935078922</link>
@@ -125,6 +125,14 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 基隆表演藝術中心島嶼實驗劇場, 基隆市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026 臺北白晝之夜：峸劇場 X 貪食德工作室《黑貓與那卡西之夜1972》</title>
+      <link>https://www.accupass.com/event/2609290239245162832290</link>
+      <guid isPermaLink="false">accupass:2609290239245162832290</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 台北中山雅樂軒酒店 (Aloft Taipei Zhongshan) 17樓 W XYZ Bar, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【西方秘境列車】大阿卡納的旅程(啟程篇)：沉浸式劇場 × 雙名師塔羅親解</title>
@@ -311,14 +319,6 @@
       <description>Date: 2027-01-08 – 2027-01-17 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-10-06 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>10/6 隊友，哩嘛幫幫忙～【點亮計畫｜Social Day 品牌小聚】</title>
-      <link>https://www.accupass.com/event/2609221416232797982530</link>
-      <guid isPermaLink="false">accupass:2609221416232797982530</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-06 · Venue: 台鐵新左營車站/環球百貨4F, 高雄市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2100419027401220097</link>
       <guid isPermaLink="false">opentix:2100419027401220097</guid>
@@ -333,6 +333,14 @@
       <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>四把椅子劇團《世界是舞台，那 Center Center 在哪裡？》——演員請上台</title>
+      <link>https://www.opentix.life/event/2102703088441663489</link>
+      <guid isPermaLink="false">opentix:2102703088441663489</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 國家兩廳院實驗劇場, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【12/19】四季寄席—鬧冬</title>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》</title>
-      <link>https://www.opentix.life/event/2091723887007420417</link>
-      <guid isPermaLink="false">opentix:2091723887007420417</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
