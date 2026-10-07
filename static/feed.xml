@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:40:28 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -191,12 +191,28 @@
       <description>Date: 2026-11-15 · Venue: Ｄ區樹屋, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《北投女屋》動漫音樂 · 說唱小劇場</title>
+      <link>https://www.accupass.com/event/2609180217571827385246</link>
+      <guid isPermaLink="false">accupass:2609180217571827385246</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 山峸二手書店, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026出櫃藝術節《舞魂不打烊》戶外派對</title>
       <link>https://www.accupass.com/event/2609231252028441597690</link>
       <guid isPermaLink="false">accupass:2609231252028441597690</guid>
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: 嘉義縣表演藝術中心 戶外園區, 嘉義縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026出櫃藝術節｜吳盈萱・蘇黎世戲劇盛會瑞士巡演短講</title>
@@ -340,7 +356,7 @@
       <guid isPermaLink="false">accupass:2609300306353759366700</guid>
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>偶戲</category>
-      <description>Date: 2026-10-31 · Venue: 台北偶戲館四樓黑箱劇場, 臺北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-31 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
@@ -468,7 +484,7 @@
       <guid isPermaLink="false">accupass:2608161009211123836604</guid>
       <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲曲</category>
-      <description>Date: 2026-10-24 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-24 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>響座劇場《親愛的魔神仔》台語讀劇演出｜at 李科永紀念圖書館</title>
@@ -751,6 +767,14 @@
       <description>Date: 2026-12-25 – 2026-12-27 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>2026台北喜劇節：主人，為您施加笑點魔法</title>
+      <link>https://comedyclub.kktix.cc/events/masterwecastthemagicoflaughter</link>
+      <guid isPermaLink="false">kktix:comedyclub/masterwecastthemagicoflaughter</guid>
+      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-10-04 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>2026台北喜劇節：好竹弋專場 《直球》好評加演</title>
       <link>https://comedyclub.kktix.cc/events/goodidea</link>
       <guid isPermaLink="false">kktix:comedyclub/goodidea</guid>
@@ -781,30 +805,6 @@
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-19 · Venue: 樂君亭, 桃園市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會</title>
-      <link>https://comedyclub.kktix.cc/events/gk20261226</link>
-      <guid isPermaLink="false">kktix:comedyclub/gk20261226</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-12-26 · Venue: Loi了咖啡 音樂展演空間, 高雄市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【12/27 台中場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會</title>
-      <link>https://comedyclub.kktix.cc/events/gk20261227</link>
-      <guid isPermaLink="false">kktix:comedyclub/gk20261227</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-12-27 · Venue: 群島藝術園區 Islands Art Park, 臺中市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026｜十月 漫才 Open Mic｜眾多漫才組合｜聯合出擊</title>
-      <link>https://www.accupass.com/event/2609211315522118492055</link>
-      <guid isPermaLink="false">accupass:2609211315522118492055</guid>
-      <pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-04 – 2026-10-18 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>

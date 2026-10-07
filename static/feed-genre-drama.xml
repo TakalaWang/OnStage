@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:40:28 GMT</lastBuildDate>
     <item>
       <title>2026生藝人計畫—機械城</title>
       <link>https://www.accupass.com/event/2608271009591935078922</link>
@@ -47,12 +47,28 @@
       <description>Date: 2026-11-21 · Venue: 虹韻文創中心綜合演藝廳, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《北投女屋》動漫音樂 · 說唱小劇場</title>
+      <link>https://www.accupass.com/event/2609180217571827385246</link>
+      <guid isPermaLink="false">accupass:2609180217571827385246</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 山峸二手書店, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026出櫃藝術節《舞魂不打烊》戶外派對</title>
       <link>https://www.accupass.com/event/2609231252028441597690</link>
       <guid isPermaLink="false">accupass:2609231252028441597690</guid>
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: 嘉義縣表演藝術中心 戶外園區, 嘉義縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026出櫃藝術節｜吳盈萱・蘇黎世戲劇盛會瑞士巡演短講</title>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-13 – 2026-11-14 · Venue: 臺灣戲曲中心多功能廳, 臺北市 · On sale: 2026-09-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>戲釀青春──2026駐團演訓計畫 育成聯合展演</title>
-      <link>https://www.opentix.life/event/2090269380048343041</link>
-      <guid isPermaLink="false">opentix:2090269380048343041</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-06 – 2026-11-22 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>不可能在一個晚上演完莎士比亞全集吧?</title>
-      <link>https://www.opentix.life/event/2090640441233874944</link>
-      <guid isPermaLink="false">opentix:2090640441233874944</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
