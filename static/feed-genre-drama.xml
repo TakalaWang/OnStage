@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:54:36 GMT</lastBuildDate>
     <item>
       <title>2026生藝人計畫—機械城</title>
       <link>https://www.accupass.com/event/2608271009591935078922</link>
@@ -175,6 +175,14 @@
       <description>Date: 2026-10-28 – 2026-12-02 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>多情城市之約會鬼故事（限男觀眾）</title>
+      <link>https://www.accupass.com/event/2610071454261826831701</link>
+      <guid isPermaLink="false">accupass:2610071454261826831701</guid>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-27 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
       <guid isPermaLink="false">era:P1CG4CEE</guid>
@@ -284,7 +292,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>日本TAMAKKO-ZA和太鼓劇團[龍馬太鼓]</title>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-16 – 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>BABY 的宇宙怒氣「大」冒險</title>
-      <link>https://www.opentix.life/event/2092913971741368320</link>
-      <guid isPermaLink="false">opentix:2092913971741368320</guid>
-      <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺灣戲曲中心小表演廳, 臺北市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
