@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 03:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:22:31 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -167,12 +167,28 @@
       <description>Date: 2026-11-26 · Venue: 遊牧計劃, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>11月高雄市電影館｜長短腳電影院－O!PLA 波蘭兒童短片集</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3L</link>
+      <guid isPermaLink="false">era:P1GX6I3L</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-22 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966</link>
       <guid isPermaLink="false">era:P19I4966</guid>
       <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>11月高雄市電影館｜長短腳電影院－好奇寶貝方城市－法國新影像學院兒童動畫短片精選</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3T</link>
+      <guid isPermaLink="false">era:P1GX6I3T</guid>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>2026 ArtSpot看戲劇學英語：亞馬遜守護任務｜ 11/21台南午場</title>
@@ -221,6 +237,14 @@
       <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-13 · Venue: 秀泰前新生廣場, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜鍾宜泰《看海的人》</title>
+      <link>https://www.accupass.com/event/2609180156391699683085</link>
+      <guid isPermaLink="false">accupass:2609180156391699683085</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-13 – 2026-11-15 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>有笑流量：酷炫老師的短影音選修課｜酷炫 × 品喬 × 傑克 × 曹小歐 × 大可愛 現場喜劇拼盤</title>
@@ -735,6 +759,22 @@
       <description>Date: 2026-10-09 – 2026-10-24 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>第六種官能表演藝術深耕計畫</title>
+      <link>https://www.opentix.life/event/2104772120773599233</link>
+      <guid isPermaLink="false">opentix:2104772120773599233</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-10-08 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>他在星期一死去</title>
+      <link>https://www.opentix.life/event/2100147656938684416</link>
+      <guid isPermaLink="false">opentix:2100147656938684416</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 – 2027-01-10 · Venue: 牯嶺街小劇場二樓藝文空間, 臺北市 · On sale: 2026-10-08 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>TCC 沙龍音樂會系列-閱讀音樂2《心動莎翁》</title>
       <link>https://www.opentix.life/event/2105121072633548800</link>
       <guid isPermaLink="false">opentix:2105121072633548800</guid>
@@ -765,46 +805,6 @@
       <pubDate>Tue, 06 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-08 – 2027-01-17 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-10-06 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>現場喜劇: 10月份/飛客劇樂部《週二歐噴麥》open mic｜主持：LiLi講 / 傑森  / 俊彥</title>
-      <link>https://www.accupass.com/event/2610021418289397444810</link>
-      <guid isPermaLink="false">accupass:2610021418289397444810</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-06 – 2026-10-27 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2100419027401220097</link>
-      <guid isPermaLink="false">opentix:2100419027401220097</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-14 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>新藝芳歌劇團《心獄．馬陵道》</title>
-      <link>https://www.opentix.life/event/2105553866380718081</link>
-      <guid isPermaLink="false">opentix:2105553866380718081</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺中市港區藝術中心演藝廳, 臺中市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>四把椅子劇團《世界是舞台，那 Center Center 在哪裡？》——演員請上台</title>
-      <link>https://www.opentix.life/event/2102703088441663489</link>
-      <guid isPermaLink="false">opentix:2102703088441663489</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 國家兩廳院實驗劇場, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>臺師大表藝系X碩士班畢業製作《舞告青春》原創音樂劇</title>
-      <link>https://www.opentix.life/event/2101876354656706560</link>
-      <guid isPermaLink="false">opentix:2101876354656706560</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-25 – 2026-12-27 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-10-05 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
