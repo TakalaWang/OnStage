@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:36 GMT</lastBuildDate>
     <item>
       <title>2026台北喜劇節：好竹弋專場 《直球》好評加演</title>
       <link>https://comedyclub.kktix.cc/events/goodidea</link>
@@ -63,6 +63,14 @@
       <description>Date: 2026-12-12 · Venue: 群島藝術園區  小劇院, 臺中市 · On sale: 2026-09-30 · Source: KKTIX</description>
     </item>
     <item>
+      <title>2026台北喜劇節：尬聊</title>
+      <link>https://comedyclub.kktix.cc/events/smalltalk1205</link>
+      <guid isPermaLink="false">kktix:comedyclub/smalltalk1205</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-05 · Venue:  二三喜劇 TWO THREE COMEDY · On sale: 2026-09-29 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>2026 台北喜劇節 | 【台中】盧卡斯站立喜劇《好好做人 Be a Good Man》</title>
       <link>https://comedyclub.kktix.cc/events/lucas202612061</link>
       <guid isPermaLink="false">kktix:comedyclub/lucas202612061</guid>
@@ -85,14 +93,6 @@
       <pubDate>Mon, 18 May 2026 04:30:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-11 – 2026-12-12 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-05-18 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>2026台北喜劇節：【12/5 台北場】來福洞洞么 NO.15 里民大會</title>
-      <link>https://comedyclub.kktix.cc/events/laifu0011205</link>
-      <guid isPermaLink="false">kktix:comedyclub/laifu0011205</guid>
-      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-12-05 · Venue: Comedy Plus 卡米地＋ · On sale: 2026-01-04 · Source: KKTIX</description>
     </item>
     <item>
       <title>2026台北喜劇節：《笑料黑白切》愛的味道</title>
