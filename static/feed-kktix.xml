@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:14:39 GMT</lastBuildDate>
     <item>
       <title>【12/17台北】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
       <link>https://comedyclub.kktix.cc/events/sstrong731217</link>
@@ -21,6 +21,14 @@
       <pubDate>Sun, 11 Oct 2026 04:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-18 · Venue: Comedy Plus 大廳, 臺北市 · On sale: 2026-10-11 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/20晚台北】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong731220-2</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong731220-2</guid>
+      <pubDate>Sun, 11 Oct 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-20 · Venue: Comedy Plus 大廳, 臺北市 · On sale: 2026-10-11 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/20午台北】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
@@ -93,14 +101,6 @@
       <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-12-27 · Venue: 群島藝術園區 Islands Art Park, 臺中市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【12/12 台中場】來福洞洞么 NO.15 里民大會</title>
-      <link>https://comedyclub.kktix.cc/events/laifu0011212</link>
-      <guid isPermaLink="false">kktix:comedyclub/laifu0011212</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-12 · Venue: 群島藝術園區  小劇院, 臺中市 · On sale: 2026-09-30 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>
