@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:53:50 GMT</lastBuildDate>
     <item>
       <title>2026生藝人計畫—機械城</title>
       <link>https://www.accupass.com/event/2608271009591935078922</link>
@@ -69,6 +69,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 山峸二手書店, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【沈浸式戲劇社交】｜台北場2026/11/14 (六)</title>
+      <link>https://www.accupass.com/event/2610111520201171649768</link>
+      <guid isPermaLink="false">accupass:2610111520201171649768</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 · Venue: 台北車站Z4出口走路5分鐘, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026出櫃藝術節《舞魂不打烊》戶外派對</title>
@@ -229,6 +237,14 @@
       <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 · Venue: 蘆洲功學社音樂廳, 新北市 · Source: 年代售票</description>
+    </item>
+    <item>
+      <title>【沈浸式戲劇：在婚禮以前】|2026/10/25 (日)</title>
+      <link>https://www.accupass.com/event/2610111510081275437393</link>
+      <guid isPermaLink="false">accupass:2610111510081275437393</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 · Venue: 台北車站Z4出口走路5分鐘, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026華文朗讀節 一粒米．好土台灣【聲音劇場】土地之歌——有聲有色的錄音史</title>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-10 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
-      <link>https://www.opentix.life/event/2099337927309197313</link>
-      <guid isPermaLink="false">opentix:2099337927309197313</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-12-13 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>盜火劇團 權力首部曲《椅仔》</title>
-      <link>https://www.opentix.life/event/2099314057961340929</link>
-      <guid isPermaLink="false">opentix:2099314057961340929</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

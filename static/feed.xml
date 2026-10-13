@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:53:50 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -221,6 +221,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 山峸二手書店, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【沈浸式戲劇社交】｜台北場2026/11/14 (六)</title>
+      <link>https://www.accupass.com/event/2610111520201171649768</link>
+      <guid isPermaLink="false">accupass:2610111520201171649768</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 · Venue: 台北車站Z4出口走路5分鐘, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026出櫃藝術節《舞魂不打烊》戶外派對</title>
@@ -495,6 +503,14 @@
       <description>Date: 2026-10-25 · Venue: 新竹縣政府文化局演奏廳, 新竹縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【沈浸式戲劇：在婚禮以前】|2026/10/25 (日)</title>
+      <link>https://www.accupass.com/event/2610111510081275437393</link>
+      <guid isPermaLink="false">accupass:2610111510081275437393</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 · Venue: 台北車站Z4出口走路5分鐘, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026華文朗讀節 一粒米．好土台灣【聲音劇場】土地之歌——有聲有色的錄音史</title>
       <link>https://www.accupass.com/event/2609110150013706508900</link>
       <guid isPermaLink="false">accupass:2609110150013706508900</guid>
@@ -556,7 +572,7 @@
       <guid isPermaLink="false">accupass:2608161009211123836604</guid>
       <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲曲</category>
-      <description>Date: 2026-10-24 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-24 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>響座劇場《親愛的魔神仔》台語讀劇演出｜at 李科永紀念圖書館</title>
@@ -789,22 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-12-24 – 2026-12-26 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>我看了什麼</title>
-      <link>https://www.opentix.life/event/2104823478196736001</link>
-      <guid isPermaLink="false">opentix:2104823478196736001</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-22 – 2027-01-24 · Venue: 臺中市中山堂, 臺中市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>娛人時代《放鳥未來人》EnKram手機殼冠名製作</title>
-      <link>https://www.opentix.life/event/2105134764212035585</link>
-      <guid isPermaLink="false">opentix:2105134764212035585</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-03-05 – 2027-03-20 · Venue: 國立臺中教育大學寶成演藝廳, 臺中市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
