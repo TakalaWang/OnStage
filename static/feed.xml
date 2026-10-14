@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 03:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:24:33 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -13,6 +13,14 @@
       <pubDate>Fri, 26 Feb 2027 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-27 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>SOUNDS GREAT VOL.3</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H6Z2B3</link>
+      <guid isPermaLink="false">era:P1H6Z2B3</guid>
+      <pubDate>Fri, 25 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-26 · Venue: 大東文化藝術中心演藝廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜12/26（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
@@ -237,14 +245,6 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: 嘉義縣表演藝術中心 戶外園區, 嘉義縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
-      <link>https://www.accupass.com/event/2609150713052157540800</link>
-      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>歡樂週末夜｜喜劇開港高雄拼盤秀 11/14</title>
@@ -724,7 +724,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北偶戲館常設展公眾活動｜土耳其皮影《魔法樹》演出與演前展場導聆</title>
@@ -733,6 +733,14 @@
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>身體盲盒開箱計畫</title>
+      <link>https://www.accupass.com/event/2610071858311786134430</link>
+      <guid isPermaLink="false">accupass:2610071858311786134430</guid>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 看守所藝術空間, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>飛客喜劇夜： 萬聖節搞怪企劃  10/16（五）20:00|飛客俱樂部 |巨陽尼/ Lili講 / 傑森 / 郭茜 / 外場Allen</title>
@@ -749,14 +757,6 @@
       <pubDate>Wed, 14 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-10-15 – 2026-11-26 · Venue: 可能存在的遊樂園 CollaPlay, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>即興喜劇:「立即興奮」|夏大寶 / 麥摳 / 微笑丹尼 / 城寶｜10/14  (三) 20:00|飛客劇樂部</title>
-      <link>https://www.accupass.com/event/2610021416541059086172</link>
-      <guid isPermaLink="false">accupass:2610021416541059086172</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-14 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【讀劇匯】音樂劇《天選之子PRODUCE 8+9》讀劇音樂會</title>
