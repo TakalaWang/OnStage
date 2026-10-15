@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 02:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:11:30 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -13,6 +13,22 @@
       <pubDate>Fri, 26 Feb 2027 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-27 · Venue: basis coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
+      <link>https://www.accupass.com/event/2610101427073055769580</link>
+      <guid isPermaLink="false">accupass:2610101427073055769580</guid>
+      <pubDate>Fri, 26 Feb 2027 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-02-27 – 2027-02-28 · Venue: 大稻埕千歲宮, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>尋找聖誕星-兒童舞劇</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
+      <guid isPermaLink="false">era:P1H8TE9Y</guid>
+      <pubDate>Fri, 25 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-26 · Venue: 樹林藝文中心演藝廳, 新北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>SOUNDS GREAT VOL.3</title>
@@ -213,6 +229,14 @@
       <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-11-20 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>【淡水生活節】漫遊劇場｜彼一工，清水祖師Lopia</title>
+      <link>https://www.accupass.com/event/2610131022006121526320</link>
+      <guid isPermaLink="false">accupass:2610131022006121526320</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-20 – 2026-11-21 · Venue: 淡水華南銀行騎樓, 新北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《樹靈之域》走進樹的世界－親子自然沈浸式劇場</title>
@@ -724,7 +748,7 @@
       <guid isPermaLink="false">accupass:2604161917471542799416</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 1F-微光廳, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北偶戲館常設展公眾活動｜土耳其皮影《魔法樹》演出與演前展場導聆</title>
@@ -751,6 +775,22 @@
       <description>Date: 2026-10-16 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>國立臺灣藝術大學71週年校慶【同中求異-跨界藝象7.0】</title>
+      <link>https://www.opentix.life/event/2095483600062062593</link>
+      <guid isPermaLink="false">opentix:2095483600062062593</guid>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-31 · Venue: 臺藝表演廳, 新北市 · On sale: 2026-10-15 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>再一次，聽覺劇場高歌進擊!《抒情詩》</title>
+      <link>https://www.opentix.life/event/2107309051821379585</link>
+      <guid isPermaLink="false">opentix:2107309051821379585</guid>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 五維聚所MotiFive, 臺北市 · On sale: 2026-10-15 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>第10場 ＆第11場  🎡【即興 x 遊樂園】不準備，也能很好玩：鬆開束縛，找回彈性</title>
       <link>https://www.accupass.com/event/2609201547091673865429</link>
       <guid isPermaLink="false">accupass:2609201547091673865429</guid>
@@ -765,46 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-12-01 – 2026-12-02 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【讀劇匯】原創音樂劇《On Air》</title>
-      <link>https://www.opentix.life/event/2107010598838661121</link>
-      <guid isPermaLink="false">opentix:2107010598838661121</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-06 – 2026-12-07 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【讀劇匯】四喜坊劇集 音樂劇《暗戀對象加入了邪教該怎麼辦》</title>
-      <link>https://www.opentix.life/event/2102694867868659713</link>
-      <guid isPermaLink="false">opentix:2102694867868659713</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-10 – 2026-12-12 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>明華園戲劇總團《貓˙阿修羅》</title>
-      <link>https://www.opentix.life/event/2105147747516293121</link>
-      <guid isPermaLink="false">opentix:2105147747516293121</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 臺南文化中心演藝廳, 臺南市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【讀劇匯】音樂劇《刻在你心底的名字》讀劇演出</title>
-      <link>https://www.opentix.life/event/2105556026520125441</link>
-      <guid isPermaLink="false">opentix:2105556026520125441</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-16 – 2026-12-20 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【讀劇匯】音樂劇《找死俱樂部》讀劇演出</title>
-      <link>https://www.opentix.life/event/2105853083317858305</link>
-      <guid isPermaLink="false">opentix:2105853083317858305</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-19 – 2026-12-21 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
