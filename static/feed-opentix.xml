@@ -5,7 +5,23 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 02:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:58:49 GMT</lastBuildDate>
+    <item>
+      <title>2027屏東縣原創原住民音樂劇-婚，了頭的那一天</title>
+      <link>https://www.opentix.life/event/2108153136375832577</link>
+      <guid isPermaLink="false">opentix:2108153136375832577</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2027-01-30 – 2027-01-31 · Venue: 屏東藝術館, 屏東縣 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026明華園總團旗艦製作《烏龍天下》</title>
+      <link>https://www.opentix.life/event/2105624453117001729</link>
+      <guid isPermaLink="false">opentix:2105624453117001729</guid>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 – 2026-12-20 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>0000特殊行動：盜走巴別塔</title>
       <link>https://www.opentix.life/event/2107364566848765953</link>
@@ -301,14 +317,6 @@
       <pubDate>Thu, 01 Oct 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2027-01-22 – 2027-01-31 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-10-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>遠雄人壽2026家庭照顧者喘息服務《有一天我們會》公益舞台劇</title>
-      <link>https://www.opentix.life/event/2099754153870073857</link>
-      <guid isPermaLink="false">opentix:2099754153870073857</guid>
-      <pubDate>Wed, 30 Sep 2026 07:30:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-10-16 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-30 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026 星村有喜事</title>
@@ -668,7 +676,7 @@
       <guid isPermaLink="false">opentix:2095065236091641857</guid>
       <pubDate>Wed, 09 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 新竹縣政府文化局演奏廳, 新竹縣 · On sale: 2026-09-09 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-10-17 · Venue: 新竹縣政府文化局演奏廳, 新竹縣 · On sale: 2026-09-09 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>試試製作所《不在場練習》</title>
@@ -708,7 +716,7 @@
       <guid isPermaLink="false">opentix:2094279822423867392</guid>
       <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-10-17 – 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>BABY 的宇宙怒氣「大」冒險</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-30 – 2026-11-01 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>音樂劇《天堂邊緣》中山大學劇場藝術系年度製作</title>
-      <link>https://www.opentix.life/event/2090333861981999105</link>
-      <guid isPermaLink="false">opentix:2090333861981999105</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-23 – 2026-11-24 · Venue: 國立中山大學逸仙館, 高雄市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
