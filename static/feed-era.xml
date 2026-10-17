@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:28:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:52:28 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -133,14 +133,6 @@
       <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-10-24 · Venue: 國立雲林科技大學雲泰表演廳 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>英雄傳 武聖關公</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXDGLJ</link>
-      <guid isPermaLink="false">era:P1CXDGLJ</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 新莊文化藝術中心演藝廳, 新北市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:28:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:52:28 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -399,28 +399,12 @@
       <description>Date: 2026-10-18 – 2026-10-25 · Venue: NOKE 忠泰樂生活 3F 大階梯, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>英雄傳 武聖關公</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXDGLJ</link>
-      <guid isPermaLink="false">era:P1CXDGLJ</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 新莊文化藝術中心演藝廳, 新北市 · Source: 年代售票</description>
-    </item>
-    <item>
       <title>慾望劇團 2026 社區劇場《七堵小鎮》</title>
       <link>https://www.accupass.com/event/2608240721341192265991</link>
       <guid isPermaLink="false">accupass:2608240721341192265991</guid>
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-17 – 2026-10-18 · Venue: 基隆表演藝術中心島嶼實驗劇場, 基隆市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026童演童語-霹靂電影日《奇人密碼—古羅布之謎》 </title>
-      <link>https://www.accupass.com/event/2604161917471542799416</link>
-      <guid isPermaLink="false">accupass:2604161917471542799416</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-17 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026明華園總團旗艦製作《烏龍天下》</title>
@@ -437,14 +421,6 @@
       <pubDate>Fri, 16 Oct 2026 01:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-25 – 2026-12-27 · Venue: 臺北市客家音樂戲劇中心二樓劇場, 臺北市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>身體盲盒開箱計畫</title>
-      <link>https://www.accupass.com/event/2610071858311786134430</link>
-      <guid isPermaLink="false">accupass:2610071858311786134430</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-16 – 2026-10-17 · Venue: 看守所藝術空間, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>國立臺灣藝術大學71週年校慶【同中求異-跨界藝象7.0】</title>
@@ -805,6 +781,30 @@
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
+      <link>https://www.opentix.life/event/2090378180198309889</link>
+      <guid isPermaLink="false">opentix:2090378180198309889</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
+      <link>https://www.opentix.life/event/2099691316232441857</link>
+      <guid isPermaLink="false">opentix:2099691316232441857</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-06 · Venue: EX Studio黑盒子劇場, 苗栗縣 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

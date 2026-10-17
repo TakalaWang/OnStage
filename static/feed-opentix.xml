@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:28:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:52:28 GMT</lastBuildDate>
     <item>
       <title>2027屏東縣原創原住民音樂劇-婚，了頭的那一天</title>
       <link>https://www.opentix.life/event/2108153136375832577</link>
@@ -671,14 +671,6 @@
       <description>Date: 2026-10-23 · Venue: 國立臺北藝術大學音樂廳, 臺北市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>盜火劇團《熊出沒的森林》讀劇演出</title>
-      <link>https://www.opentix.life/event/2095065236091641857</link>
-      <guid isPermaLink="false">opentix:2095065236091641857</guid>
-      <pubDate>Wed, 09 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-17 · Venue: 新竹縣政府文化局演奏廳, 新竹縣 · On sale: 2026-09-09 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>試試製作所《不在場練習》</title>
       <link>https://www.opentix.life/event/2095392859876958209</link>
       <guid isPermaLink="false">opentix:2095392859876958209</guid>
@@ -716,7 +708,7 @@
       <guid isPermaLink="false">opentix:2094279822423867392</guid>
       <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-17 – 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>BABY 的宇宙怒氣「大」冒險</title>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-30 – 2026-11-01 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>音樂劇《天堂邊緣》中山大學劇場藝術系年度製作</title>
+      <link>https://www.opentix.life/event/2090333861981999105</link>
+      <guid isPermaLink="false">opentix:2090333861981999105</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-23 – 2026-11-24 · Venue: 國立中山大學逸仙館, 高雄市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
