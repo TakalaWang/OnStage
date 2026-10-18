@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 18 Oct 2026 02:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:16:07 GMT</lastBuildDate>
     <item>
       <title>2027屏東縣原創原住民音樂劇-婚，了頭的那一天</title>
       <link>https://www.opentix.life/event/2108153136375832577</link>
@@ -703,14 +703,6 @@
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · On sale: 2026-09-07 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>犀牛劇團《非常新生活》</title>
-      <link>https://www.opentix.life/event/2094279822423867392</link>
-      <guid isPermaLink="false">opentix:2094279822423867392</guid>
-      <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-18 · Venue: 犀有空間, 桃園市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>BABY 的宇宙怒氣「大」冒險</title>
       <link>https://www.opentix.life/event/2092913971741368320</link>
       <guid isPermaLink="false">opentix:2092913971741368320</guid>
@@ -805,6 +797,14 @@
       <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-11-23 – 2026-11-24 · Venue: 國立中山大學逸仙館, 高雄市 · On sale: 2026-08-31 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>在戰場與神殿之間</title>
+      <link>https://www.opentix.life/event/2079761930235998209</link>
+      <guid isPermaLink="false">opentix:2079761930235998209</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-23 – 2026-10-25 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-08-28 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
