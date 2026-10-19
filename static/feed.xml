@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 02:43:13 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -303,6 +303,14 @@
       <description>Date: 2026-11-14 · Venue: Cave Café 卡濰咖啡＿明誠店 2F, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《洋基之子》臺文劇場讀劇呈現計劃｜熱血讀劇場</title>
+      <link>https://www.accupass.com/event/2609301410422085073374</link>
+      <guid isPermaLink="false">accupass:2609301410422085073374</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-13 · Venue: 開元排練場, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>2026臺東藝穗節｜鍾宜泰《看海的人》</title>
       <link>https://www.accupass.com/event/2609180156391699683085</link>
       <guid isPermaLink="false">accupass:2609180156391699683085</guid>
@@ -415,20 +423,20 @@
       <description>Date: 2026-11-01 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
     </item>
     <item>
-      <title>2026｜十一月 漫才 Open Mic｜眾多漫才組合｜聯合出擊</title>
-      <link>https://www.accupass.com/event/2610180049354871102550</link>
-      <guid isPermaLink="false">accupass:2610180049354871102550</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-01 – 2026-11-15 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>10分鐘喜劇短影音剪輯就上手｜ 11/01（日）14：00-17：00 | 飛客劇樂部｜講師：Peggy</title>
       <link>https://www.accupass.com/event/2610051408058143806290</link>
       <guid isPermaLink="false">accupass:2610051408058143806290</guid>
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-01 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026｜十一月 漫才 Open Mic｜眾多漫才組合｜聯合出擊</title>
+      <link>https://www.accupass.com/event/2610180049354871102550</link>
+      <guid isPermaLink="false">accupass:2610180049354871102550</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-01 – 2026-11-15 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>會演是英雄2之《英雄所賤略同》</title>
@@ -719,6 +727,30 @@
       <description>Date: 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-10-19 · Source: KKTIX</description>
     </item>
     <item>
+      <title>【12/20晚台北】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong731220-2</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong731220-2</guid>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-20 · Venue: Comedy Plus 大廳, 臺北市 · On sale: 2026-10-18 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/25 台東】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong731225</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong731225</guid>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-25 · Venue: 就藝會(臺東表演藝術創生基地) Just arts House 小劇場, 臺東縣 · On sale: 2026-10-18 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/26 台東】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong731226</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong731226</guid>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-26 · Venue: 就藝會(臺東表演藝術創生基地) Just arts House 小劇場, 臺東縣 · On sale: 2026-10-18 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>【01/22 新竹】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
       <link>https://comedyclub.kktix.cc/events/sstrong740122</link>
       <guid isPermaLink="false">kktix:comedyclub/sstrong740122</guid>
@@ -773,38 +805,6 @@
       <pubDate>Fri, 16 Oct 2026 01:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-25 – 2026-12-27 · Venue: 臺北市客家音樂戲劇中心二樓劇場, 臺北市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>國立臺灣藝術大學71週年校慶【同中求異-跨界藝象7.0】</title>
-      <link>https://www.opentix.life/event/2095483600062062593</link>
-      <guid isPermaLink="false">opentix:2095483600062062593</guid>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 臺藝表演廳, 新北市 · On sale: 2026-10-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>再一次，聽覺劇場高歌進擊!《抒情詩》</title>
-      <link>https://www.opentix.life/event/2107309051821379585</link>
-      <guid isPermaLink="false">opentix:2107309051821379585</guid>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 五維聚所MotiFive, 臺北市 · On sale: 2026-10-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>第10場 ＆第11場  🎡【即興 x 遊樂園】不準備，也能很好玩：鬆開束縛，找回彈性</title>
-      <link>https://www.accupass.com/event/2609201547091673865429</link>
-      <guid isPermaLink="false">accupass:2609201547091673865429</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-15 – 2026-11-26 · Venue: 可能存在的遊樂園 CollaPlay, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>【讀劇匯】音樂劇《天選之子PRODUCE 8+9》讀劇音樂會</title>
-      <link>https://www.opentix.life/event/2104768412676886528</link>
-      <guid isPermaLink="false">opentix:2104768412676886528</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-01 – 2026-12-02 · Venue: PLAY HUB 玩・劇 創意基地, 臺北市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
