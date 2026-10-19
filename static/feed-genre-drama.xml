@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:10:36 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -133,14 +133,6 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 · Venue: 嘉義縣表演藝術中心 戶外園區, 嘉義縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
-      <link>https://www.accupass.com/event/2609150713052157540800</link>
-      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《洋基之子》臺文劇場讀劇呈現計劃｜熱血讀劇場</title>
@@ -375,6 +367,14 @@
       <description>Date: 2026-10-22 · Venue: 西門紅樓2樓劇場, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2100426933445824513</link>
+      <guid isPermaLink="false">opentix:2100426933445824513</guid>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-28 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-10-19 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【01/02 19:00場】《負能6週記Live Podcast》 六週年實體活動</title>
       <link>https://comedyclub.kktix.cc/events/ethan0102-2</link>
       <guid isPermaLink="false">kktix:comedyclub/ethan0102-2</guid>
@@ -423,7 +423,7 @@
       <description>Date: 2026-12-19 – 2026-12-20 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>0000特殊行動：盜走巴別塔</title>
+      <title>00：00特殊行動：盜走巴別塔</title>
       <link>https://www.opentix.life/event/2107364566848765953</link>
       <guid isPermaLink="false">opentix:2107364566848765953</guid>
       <pubDate>Fri, 16 Oct 2026 01:00:00 GMT</pubDate>
@@ -527,17 +527,17 @@
       <description>Date: 2026-11-28 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026 序場讀劇節《割功送德——台灣三百年史》</title>
-      <link>https://www.opentix.life/event/2101970136957792256</link>
-      <guid isPermaLink="false">opentix:2101970136957792256</guid>
+      <title>2026 序場讀劇節《瑪莉瑪蓮》</title>
+      <link>https://www.opentix.life/event/2101969163677118465</link>
+      <guid isPermaLink="false">opentix:2101969163677118465</guid>
       <pubDate>Sun, 11 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-29 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026 序場讀劇節《瑪莉瑪蓮》</title>
-      <link>https://www.opentix.life/event/2101969163677118465</link>
-      <guid isPermaLink="false">opentix:2101969163677118465</guid>
+      <title>2026 序場讀劇節《割功送德——台灣三百年史》</title>
+      <link>https://www.opentix.life/event/2101970136957792256</link>
+      <guid isPermaLink="false">opentix:2101970136957792256</guid>
       <pubDate>Sun, 11 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-29 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
