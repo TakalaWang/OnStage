@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 02:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:13:19 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -76,7 +76,7 @@
       <guid isPermaLink="false">accupass:2609180907411314951659</guid>
       <pubDate>Fri, 11 Dec 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Source: Accupass 活動通</description>
+      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 角落沙龍, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>藝集戲劇講堂｜羅仕龍:【神話的現代變奏】 — 從神諭、愛欲到戰爭：八齣西洋經典劇作中的命運寓言</title>
@@ -93,6 +93,14 @@
       <pubDate>Sat, 05 Dec 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-06 · Venue: 可能存在的遊樂園 CollaPlay, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【沈浸式戲劇社交】｜台北場 2026/12/05 (六)</title>
+      <link>https://www.accupass.com/event/2610111535271918239110</link>
+      <guid isPermaLink="false">accupass:2610111535271918239110</guid>
+      <pubDate>Fri, 04 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 · Venue: 台北車站Z4出口走路5分鐘, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北喜劇節「腹語術：翻雲腹語之夜」｜12/03 (四) 20:00｜多位腹語師帶你走一趟腹語的神奇世界！</title>
@@ -383,20 +391,20 @@
       <description>Date: 2026-10-28 – 2026-10-31 · Venue: 祀典大天后宮, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>打架俱樂部｜即興裡的反派練習 &lt;10月場&gt;</title>
-      <link>https://www.accupass.com/event/2609081432101670894500</link>
-      <guid isPermaLink="false">accupass:2609081432101670894500</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-28 · Venue: 遊牧計劃, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>LIYI x 許筠杰 | 高壓職場的戲劇表達課</title>
       <link>https://www.accupass.com/event/2609230528051085092430</link>
       <guid isPermaLink="false">accupass:2609230528051085092430</guid>
       <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-28 – 2026-12-02 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>打架俱樂部｜即興裡的反派練習 &lt;10月場&gt;</title>
+      <link>https://www.accupass.com/event/2609081432101670894500</link>
+      <guid isPermaLink="false">accupass:2609081432101670894500</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-28 · Venue: 遊牧計劃, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>多情城市之約會鬼故事（限男觀眾）</title>
@@ -484,7 +492,7 @@
       <guid isPermaLink="false">accupass:2608161009211123836604</guid>
       <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲曲</category>
-      <description>Date: 2026-10-24 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
+      <description>Date: 2026-10-24 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>響座劇場《親愛的魔神仔》台語讀劇演出｜at 李科永紀念圖書館</title>
@@ -660,7 +668,7 @@
       <guid isPermaLink="false">accupass:2210201514359591824600</guid>
       <pubDate>Fri, 21 Oct 2022 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2022-10-22 – 2032-12-31 · Venue: 大湳森林公園內, 桃園市 · Source: Accupass 活動通</description>
+      <description>Date: 2022-10-22 – 2032-12-31 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
