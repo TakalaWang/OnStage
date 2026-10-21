@@ -5,7 +5,31 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 02:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:31:26 GMT</lastBuildDate>
+    <item>
+      <title>原創馬戲音樂劇《腳不落地的孩子》</title>
+      <link>https://www.opentix.life/event/2108877040990183425</link>
+      <guid isPermaLink="false">opentix:2108877040990183425</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-12-24 – 2026-12-27 · Venue: 臺北表演藝術中心 藍盒子, 臺北市 · On sale: 2026-10-21 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026盜火劇團華文LAB編劇實驗室讀劇演出—有病啊你~~</title>
+      <link>https://www.opentix.life/event/2107767976924282881</link>
+      <guid isPermaLink="false">opentix:2107767976924282881</guid>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-20 – 2026-11-22 · Venue: 牯嶺街小劇場二樓藝文空間, 臺北市 · On sale: 2026-10-21 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026金鷹閣電視木偶劇團《叱吒風雲－新哪吒》臺中巡演</title>
+      <link>https://www.opentix.life/event/2112035354878472193</link>
+      <guid isPermaLink="false">opentix:2112035354878472193</guid>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · On sale: 2026-10-21 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>「戲來就演！」－布袋戲演師們的大挑戰</title>
       <link>https://www.opentix.life/event/2109890724705943553</link>
@@ -572,7 +596,7 @@
       <guid isPermaLink="false">opentix:2097267213329641473</guid>
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>兒童親子</category>
-      <description>Date: 2026-11-22 – 2026-12-06 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-22 – 2027-05-30 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
@@ -781,30 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>戲釀青春──2026駐團演訓計畫 育成聯合展演</title>
-      <link>https://www.opentix.life/event/2090269380048343041</link>
-      <guid isPermaLink="false">opentix:2090269380048343041</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-06 – 2026-11-22 · Venue: 臺灣戲曲中心小舞台, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>不可能在一個晚上演完莎士比亞全集吧?</title>
-      <link>https://www.opentix.life/event/2090640441233874944</link>
-      <guid isPermaLink="false">opentix:2090640441233874944</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-20 · Venue: 水源劇場, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》</title>
-      <link>https://www.opentix.life/event/2091723887007420417</link>
-      <guid isPermaLink="false">opentix:2091723887007420417</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-11 · Venue: 野地方 Wild Lab, 臺北市 · On sale: 2026-09-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
