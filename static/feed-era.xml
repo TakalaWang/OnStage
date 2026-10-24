@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 02:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:15:08 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -111,28 +111,20 @@
       <description>Date: 2026-10-30 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>2026火神祭搖滾區席位 - 星火計畫</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E9S2B6</link>
+      <guid isPermaLink="false">era:P1E9S2B6</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-10-25 – 2026-10-26 · Venue: 台南市安平區漁光島, 臺南市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>台北陶笛樂團20週年紀念音樂會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
       <guid isPermaLink="false">era:P1CG4CEE</guid>
       <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-25 · Venue: 蘆洲功學社音樂廳, 新北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026火神祭搖滾區席位 - 星火計畫</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E9S2B6</link>
-      <guid isPermaLink="false">era:P1E9S2B6</guid>
-      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-24 – 2026-10-26 · Venue: 台南市安平區漁光島, 臺南市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026年夏季巧虎大型舞臺劇「銀河怪盜的祕密」</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CHPEPY</link>
-      <guid isPermaLink="false">era:P1CHPEPY</guid>
-      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-10-24 · Venue: 國立雲林科技大學雲泰表演廳 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>

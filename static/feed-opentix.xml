@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 02:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:15:08 GMT</lastBuildDate>
     <item>
       <title>《吟遊詩人的新唸歌——桃園米倉》</title>
       <link>https://www.opentix.life/event/2110369335028596737</link>
@@ -551,20 +551,20 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
-      <link>https://www.opentix.life/event/2098258340506152960</link>
-      <guid isPermaLink="false">opentix:2098258340506152960</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
       <link>https://www.opentix.life/event/2090378180198309889</link>
       <guid isPermaLink="false">opentix:2090378180198309889</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
@@ -589,14 +589,6 @@
       <pubDate>Sun, 20 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-20 · Venue: 大東文化藝術中心, 高雄市 · On sale: 2026-09-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>Gaga和他的朋友們</title>
-      <link>https://www.opentix.life/event/2097597536000466945</link>
-      <guid isPermaLink="false">opentix:2097597536000466945</guid>
-      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-24 · Venue: 新竹東山排練場, 新竹市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>形動亞洲交會聯演在台北</title>
@@ -805,6 +797,14 @@
       <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺灣戲曲中心小表演廳, 臺北市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026藝術綠洲創作計畫-何日君再來劇團《未來．火車．歌廳秀》</title>
+      <link>https://www.opentix.life/event/2082753505317773312</link>
+      <guid isPermaLink="false">opentix:2082753505317773312</guid>
+      <pubDate>Thu, 03 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 桃園火車站, 桃園市 · On sale: 2026-09-03 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
