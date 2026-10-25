@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 25 Oct 2026 02:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:27:59 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -114,17 +114,9 @@
       <title>2026火神祭搖滾區席位 - 星火計畫</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E9S2B6</link>
       <guid isPermaLink="false">era:P1E9S2B6</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-25 – 2026-10-26 · Venue: 台南市安平區漁光島, 臺南市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>台北陶笛樂團20週年紀念音樂會</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE</link>
-      <guid isPermaLink="false">era:P1CG4CEE</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-25 · Venue: 蘆洲功學社音樂廳, 新北市 · Source: 年代售票</description>
+      <description>Date: 2026-10-26 · Venue: 台南市安平區漁光島, 臺南市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
