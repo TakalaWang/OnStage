@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 02:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:07:09 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -109,14 +109,6 @@
       <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-10-30 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026火神祭搖滾區席位 - 星火計畫</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E9S2B6</link>
-      <guid isPermaLink="false">era:P1E9S2B6</guid>
-      <pubDate>Sun, 25 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-26 · Venue: 台南市安平區漁光島, 臺南市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
