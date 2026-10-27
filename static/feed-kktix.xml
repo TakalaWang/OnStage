@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:13:33 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -79,14 +79,6 @@
       <description>Date: 2027-01-23 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-10-18 · Source: KKTIX</description>
     </item>
     <item>
-      <title>【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會</title>
-      <link>https://comedyclub.kktix.cc/events/gk20261226</link>
-      <guid isPermaLink="false">kktix:comedyclub/gk20261226</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-12-26 · Venue: Loi了咖啡 音樂展演空間, 高雄市 · On sale: 2026-10-04 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>【12/27 台中場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會</title>
       <link>https://comedyclub.kktix.cc/events/gk20261227</link>
       <guid isPermaLink="false">kktix:comedyclub/gk20261227</guid>
@@ -101,6 +93,14 @@
       <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-02 – 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-09-01 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/29】百靈果《給約嗎》全亞洲最真實的矇眼約會 </title>
+      <link>https://comedyclub.kktix.cc/events/tuesdaythemorerizz1229</link>
+      <guid isPermaLink="false">kktix:comedyclub/tuesdaythemorerizz1229</guid>
+      <pubDate>Wed, 28 Jan 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-29 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-01-28 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>
