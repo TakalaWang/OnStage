@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:51:06 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -381,14 +381,6 @@
       <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-15 – 2027-03-14 · Venue: 桃園展演中心展演廳, 桃園市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2100426933445824513</link>
-      <guid isPermaLink="false">opentix:2100426933445824513</guid>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-28 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-10-19 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【01/02 19:00場】《負能6週記Live Podcast》 六週年實體活動</title>
@@ -791,6 +783,14 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
       <link>https://www.opentix.life/event/2090378180198309889</link>
       <guid isPermaLink="false">opentix:2090378180198309889</guid>
@@ -799,12 +799,12 @@
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
-      <link>https://www.opentix.life/event/2098258340506152960</link>
-      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
+      <link>https://www.opentix.life/event/2099691316232441857</link>
+      <guid isPermaLink="false">opentix:2099691316232441857</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-12-05 – 2026-12-06 · Venue: EX Studio黑盒子劇場, 苗栗縣 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
