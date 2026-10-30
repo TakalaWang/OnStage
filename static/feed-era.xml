@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:38:17 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -71,12 +71,12 @@
       <description>Date: 2026-11-07 – 2026-11-08 · Venue: 台中中友百貨C棟13F國際大廳 · Source: 年代售票</description>
     </item>
     <item>
-      <title>2026森林續曲第10回《11/1千年之戀》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGAJX6</link>
-      <guid isPermaLink="false">era:P1GGAJX6</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-01 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
+      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
+      <guid isPermaLink="false">era:P1F33E6Z</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-10-31 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>蝴蝶大變!(是變身的變)</title>
@@ -87,28 +87,12 @@
       <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
     </item>
     <item>
-      <title>2026森林續曲第10回《10/31微風往事》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGACLW</link>
-      <guid isPermaLink="false">era:P1GGACLW</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
-    </item>
-    <item>
       <title>紅瓦民族舞蹈團『秋意濃』</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FKLQFW</link>
       <guid isPermaLink="false">era:P1FKLQFW</guid>
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
-      <guid isPermaLink="false">era:P1F33E6Z</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-10-30 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>

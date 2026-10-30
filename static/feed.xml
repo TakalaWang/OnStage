@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:38:17 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -37,6 +37,14 @@
       <pubDate>Thu, 21 Jan 2027 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-22 · Venue: COMEDY PLUS 卡米地+, 臺北市 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>藝集戲劇講堂｜羅仕龍:【神話的現代變奏】 — 從神諭、愛欲到戰爭：八齣西洋經典劇作中的命運寓言</title>
+      <link>https://www.accupass.com/event/2604290747451406150512</link>
+      <guid isPermaLink="false">accupass:2604290747451406150512</guid>
+      <pubDate>Fri, 08 Jan 2027 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 – 2027-03-27 · Venue: 嘟嘟房停車場旁邊, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【城市故事行旅】新莊小旅行｜三百年老街 × 百年古廟 × 戲曲巷弄 × 老店滋味</title>
@@ -125,14 +133,6 @@
       <pubDate>Fri, 11 Dec 2026 16:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 角落沙龍, 臺中市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>藝集戲劇講堂｜羅仕龍:【神話的現代變奏】 — 從神諭、愛欲到戰爭：八齣西洋經典劇作中的命運寓言</title>
-      <link>https://www.accupass.com/event/2604290747451406150512</link>
-      <guid isPermaLink="false">accupass:2604290747451406150512</guid>
-      <pubDate>Wed, 09 Dec 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-10 – 2027-03-25 · Venue: 嘟嘟房停車場旁邊, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>在感受與表達之間｜即興表演 × 溝通實驗：探索關係裡的另一種可能</title>
@@ -359,14 +359,6 @@
       <description>Date: 2026-11-14 – 2026-11-29 · Venue: 臺南府城隍廟前廣場、司法博物館, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
-      <link>https://www.accupass.com/event/2609150713052157540800</link>
-      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>歡樂週末夜｜喜劇開港高雄拼盤秀 11/14</title>
       <link>https://www.accupass.com/event/2610071259281378142540</link>
       <guid isPermaLink="false">accupass:2610071259281378142540</guid>
@@ -519,14 +511,6 @@
       <description>Date: 2026-11-05 – 2026-11-26 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>2026森林續曲第10回《11/1千年之戀》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGAJX6</link>
-      <guid isPermaLink="false">era:P1GGAJX6</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-01 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
-    </item>
-    <item>
       <title>東京－大阪－京都－日本小劇場節點觀察返國分享會</title>
       <link>https://www.accupass.com/event/2610230929291517514024</link>
       <guid isPermaLink="false">accupass:2610230929291517514024</guid>
@@ -567,20 +551,20 @@
       <description>Date: 2026-10-31 – 2026-12-27 · Venue: 衛武營國家藝術文化中心 戲劇院, 高雄市 · Source: udn 售票網</description>
     </item>
     <item>
+      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
+      <guid isPermaLink="false">era:P1F33E6Z</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-10-31 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>蝴蝶大變!(是變身的變)</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5VMT1</link>
       <guid isPermaLink="false">era:P1F5VMT1</guid>
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026森林續曲第10回《10/31微風往事》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GGACLW</link>
-      <guid isPermaLink="false">era:P1GGACLW</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 森形埔里農莊-共好園區 · Source: 年代售票</description>
     </item>
     <item>
       <title>紅瓦民族舞蹈團『秋意濃』</title>
@@ -621,14 +605,6 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-10-31 · Venue: 台北偶戲館四樓黑箱劇場, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
-      <guid isPermaLink="false">era:P1F33E6Z</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-10-30 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>樑上有戲！傳匠修復夜行密令 —— 沈浸式戲劇 x 大木作修復解密</title>
@@ -805,6 +781,30 @@
       <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-23 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-10-18 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【別人家的小孩】醫師致葦 ✕ 台積工程師佳偉 — 雙人喜劇專場</title>
+      <link>https://www.accupass.com/event/2607121028531840493938</link>
+      <guid isPermaLink="false">accupass:2607121028531840493938</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-10-17 – 2026-10-31 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2027屏東縣原創原住民音樂劇-《婚，了頭的那一天》</title>
+      <link>https://www.opentix.life/event/2108153136375832577</link>
+      <guid isPermaLink="false">opentix:2108153136375832577</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2027-01-30 – 2027-01-31 · Venue: 屏東藝術館, 屏東縣 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026明華園總團旗艦製作《烏龍天下》</title>
+      <link>https://www.opentix.life/event/2105624453117001729</link>
+      <guid isPermaLink="false">opentix:2105624453117001729</guid>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 – 2026-12-20 · Venue: 衛武營國家藝術文化中心歌劇院, 高雄市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
