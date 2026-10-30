@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:52:32 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -157,6 +157,22 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-29 · Venue: 臺南府城隍廟前廣場、司法博物館, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>來福OPEN MIC 11月</title>
+      <link>https://www.accupass.com/event/2610290334191095535110</link>
+      <guid isPermaLink="false">accupass:2610290334191095535110</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-13 – 2026-11-20 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《洋基之子》臺文劇場讀劇呈現計劃｜熱血讀劇場</title>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
-      <link>https://www.opentix.life/event/2099691316232441857</link>
-      <guid isPermaLink="false">opentix:2099691316232441857</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-06 · Venue: EX Studio黑盒子劇場, 苗栗縣 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>迎向臺大100漫遊劇場《迷走1945：帝大腳踏車之謎》</title>
-      <link>https://www.opentix.life/event/2095719415928209409</link>
-      <guid isPermaLink="false">opentix:2095719415928209409</guid>
-      <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-11 – 2026-11-21 · Venue: 國立臺灣大學校總區, 臺北市 · On sale: 2026-09-21 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

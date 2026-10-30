@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:52:32 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -359,12 +359,28 @@
       <description>Date: 2026-11-14 – 2026-11-29 · Venue: 臺南府城隍廟前廣場、司法博物館, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>歡樂週末夜｜喜劇開港高雄拼盤秀 11/14</title>
       <link>https://www.accupass.com/event/2610071259281378142540</link>
       <guid isPermaLink="false">accupass:2610071259281378142540</guid>
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-14 · Venue: Cave Café 卡濰咖啡＿明誠店 2F, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>來福OPEN MIC 11月</title>
+      <link>https://www.accupass.com/event/2610290334191095535110</link>
+      <guid isPermaLink="false">accupass:2610290334191095535110</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-13 – 2026-11-20 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《洋基之子》臺文劇場讀劇呈現計劃｜熱血讀劇場</title>
@@ -789,22 +805,6 @@
       <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-23 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-10-18 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【別人家的小孩】醫師致葦 ✕ 台積工程師佳偉 — 雙人喜劇專場</title>
-      <link>https://www.accupass.com/event/2607121028531840493938</link>
-      <guid isPermaLink="false">accupass:2607121028531840493938</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-10-17 – 2026-10-31 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>2027屏東縣原創原住民音樂劇-《婚，了頭的那一天》</title>
-      <link>https://www.opentix.life/event/2108153136375832577</link>
-      <guid isPermaLink="false">opentix:2108153136375832577</guid>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2027-01-30 – 2027-01-31 · Venue: 屏東藝術館, 屏東縣 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
