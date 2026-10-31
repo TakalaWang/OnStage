@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 03:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:43:07 GMT</lastBuildDate>
     <item>
       <title>尋找聖誕星-兒童舞劇</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1H8TE9Y</link>
@@ -55,6 +55,14 @@
       <description>Date: 2026-11-21 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>蝴蝶大變!(是變身的變)</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5VMT1</link>
+      <guid isPermaLink="false">era:P1F5VMT1</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 – 2026-11-22 · Venue: 嘉義縣表演藝術中心-實驗劇場, 嘉義縣 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
       <guid isPermaLink="false">era:P1ET7M40</guid>
@@ -74,25 +82,9 @@
       <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
       <guid isPermaLink="false">era:P1F33E6Z</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
-      <description>Date: 2026-10-31 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>蝴蝶大變!(是變身的變)</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5VMT1</link>
-      <guid isPermaLink="false">era:P1F5VMT1</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>紅瓦民族舞蹈團『秋意濃』</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FKLQFW</link>
-      <guid isPermaLink="false">era:P1FKLQFW</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
+      <description>Date: 2026-11-01 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 03:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:43:07 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -159,6 +159,14 @@
       <description>Date: 2026-11-14 – 2026-11-29 · Venue: 臺南府城隍廟前廣場、司法博物館, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>2026臺東藝穗節｜胡耀榕 feat. 吳融霖《桃妹》</title>
+      <link>https://www.accupass.com/event/2609150713052157540800</link>
+      <guid isPermaLink="false">accupass:2609150713052157540800</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>來福OPEN MIC 11月</title>
       <link>https://www.accupass.com/event/2610290334191095535110</link>
       <guid isPermaLink="false">accupass:2610290334191095535110</guid>
@@ -215,6 +223,14 @@
       <description>Date: 2026-11-08 · Venue: 臺北市客家文化中心3樓, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>蝴蝶大變!(是變身的變)</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5VMT1</link>
+      <guid isPermaLink="false">era:P1F5VMT1</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-07 – 2026-11-22 · Venue: 嘉義縣表演藝術中心-實驗劇場, 嘉義縣 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>劇場在地・共創新連結-白色恐怖田調分享會(含呈現演出)</title>
       <link>https://www.accupass.com/event/2603310621312093918182</link>
       <guid isPermaLink="false">accupass:2603310621312093918182</guid>
@@ -223,36 +239,20 @@
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>會演是英雄2之《英雄所賤略同》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
+      <guid isPermaLink="false">udn:P185ZP45</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-01 – 2026-12-27 · Venue: 衛武營國家藝術文化中心 戲劇院, 高雄市 · Source: udn 售票網</description>
+    </item>
+    <item>
       <title>東京－大阪－京都－日本小劇場節點觀察返國分享會</title>
       <link>https://www.accupass.com/event/2610230929291517514024</link>
       <guid isPermaLink="false">accupass:2610230929291517514024</guid>
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-01 – 2026-11-07 · Venue: 臺北市身心障礙服務中心, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>會演是英雄2之《英雄所賤略同》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
-      <guid isPermaLink="false">udn:P185ZP45</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-12-27 · Venue: 衛武營國家藝術文化中心 戲劇院, 高雄市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>蝴蝶大變!(是變身的變)</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5VMT1</link>
-      <guid isPermaLink="false">era:P1F5VMT1</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-11-22 · Venue: 臺中市屯區藝文中心實驗劇場, 臺中市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>紅瓦民族舞蹈團『秋意濃』</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FKLQFW</link>
-      <guid isPermaLink="false">era:P1FKLQFW</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 新北市藝文中心演藝廳, 新北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>【島嶼開門：揭開劇場神秘學】秋季學苑</title>
@@ -269,14 +269,6 @@
       <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-10-31 – 2026-11-01 · Venue: 台北中山雅樂軒酒店 (Aloft Taipei Zhongshan) 17樓 W XYZ Bar, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>樑上有戲！傳匠修復夜行密令 —— 沈浸式戲劇 x 大木作修復解密</title>
-      <link>https://www.accupass.com/event/2610020134061527694750</link>
-      <guid isPermaLink="false">accupass:2610020134061527694750</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-28 – 2026-10-31 · Venue: 祀典大天后宮, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>LIYI x 許筠杰 | 高壓職場的戲劇表達課</title>
@@ -415,14 +407,6 @@
       <description>Date: 2026-12-25 – 2026-12-27 · Venue: 臺北市客家音樂戲劇中心二樓劇場, 臺北市 · On sale: 2026-10-16 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>國立臺灣藝術大學71週年校慶【同中求異-跨界藝象7.0】</title>
-      <link>https://www.opentix.life/event/2095483600062062593</link>
-      <guid isPermaLink="false">opentix:2095483600062062593</guid>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 臺藝表演廳, 新北市 · On sale: 2026-10-15 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>再一次，聽覺劇場高歌進擊!《抒情詩》</title>
       <link>https://www.opentix.life/event/2107309051821379585</link>
       <guid isPermaLink="false">opentix:2107309051821379585</guid>
@@ -511,17 +495,17 @@
       <description>Date: 2026-11-28 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026 序場讀劇節《割功送德——台灣三百年史》</title>
-      <link>https://www.opentix.life/event/2101970136957792256</link>
-      <guid isPermaLink="false">opentix:2101970136957792256</guid>
+      <title>2026 序場讀劇節《瑪莉瑪蓮》</title>
+      <link>https://www.opentix.life/event/2101969163677118465</link>
+      <guid isPermaLink="false">opentix:2101969163677118465</guid>
       <pubDate>Sun, 11 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-29 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026 序場讀劇節《瑪莉瑪蓮》</title>
-      <link>https://www.opentix.life/event/2101969163677118465</link>
-      <guid isPermaLink="false">opentix:2101969163677118465</guid>
+      <title>2026 序場讀劇節《割功送德——台灣三百年史》</title>
+      <link>https://www.opentix.life/event/2101970136957792256</link>
+      <guid isPermaLink="false">opentix:2101970136957792256</guid>
       <pubDate>Sun, 11 Oct 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-29 · Venue: 華山1914文創園區東3B館 烏梅劇院, 臺北市 · On sale: 2026-10-11 · Source: OPENTIX 兩廳院</description>
@@ -631,14 +615,6 @@
       <description>Date: 2026-11-07 – 2026-11-08 · Venue: 花蓮文化創意產業園區 第4棟小米酒劇場, 花蓮縣 · On sale: 2026-10-01 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>2026嘉義縣表演藝術中心《遊園戲夢》環境劇場導覽演出</title>
-      <link>https://www.opentix.life/event/2102310370504650753</link>
-      <guid isPermaLink="false">opentix:2102310370504650753</guid>
-      <pubDate>Thu, 01 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Venue: 嘉義縣表演藝術中心全園區, 嘉義縣 · On sale: 2026-10-01 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026 星村有喜事</title>
       <link>https://www.opentix.life/event/2099722747071549441</link>
       <guid isPermaLink="false">opentix:2099722747071549441</guid>
@@ -703,22 +679,6 @@
       <description>Date: 2026-11-06 · Venue: 新嘉義座, 嘉義市 · On sale: 2026-09-24 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>優尼克當代馬戲團《烏龍馬戲團》</title>
-      <link>https://www.opentix.life/event/2100782126291587073</link>
-      <guid isPermaLink="false">opentix:2100782126291587073</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>無獨有偶工作室劇團《演奏吧! 好土樂團》</title>
-      <link>https://www.opentix.life/event/2099682129172733952</link>
-      <guid isPermaLink="false">opentix:2099682129172733952</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-10-31 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>動見体《美好如此》讀劇劇場</title>
       <link>https://www.opentix.life/event/2100802203576029184</link>
       <guid isPermaLink="false">opentix:2100802203576029184</guid>
@@ -759,20 +719,20 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
-      <link>https://www.opentix.life/event/2098258340506152960</link>
-      <guid isPermaLink="false">opentix:2098258340506152960</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
       <link>https://www.opentix.life/event/2090378180198309889</link>
       <guid isPermaLink="false">opentix:2090378180198309889</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
+      <link>https://www.opentix.life/event/2098258340506152960</link>
+      <guid isPermaLink="false">opentix:2098258340506152960</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
@@ -804,7 +764,47 @@
       <guid isPermaLink="false">opentix:2093186512661815296</guid>
       <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-10-31 – 2026-11-01 · Venue: 臺灣戲曲中心臺灣音樂館B1視聽室, 臺北市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-01 · Venue: 臺灣戲曲中心臺灣音樂館B1視聽室, 臺北市 · On sale: 2026-09-18 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>曉劇場二十週年紀念演出：穢土天堂二部曲《地下女子》</title>
+      <link>https://www.opentix.life/event/2091794538773053440</link>
+      <guid isPermaLink="false">opentix:2091794538773053440</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-10 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
+      <link>https://www.opentix.life/event/2099337927309197313</link>
+      <guid isPermaLink="false">opentix:2099337927309197313</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-28 – 2026-12-13 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>盜火劇團 權力首部曲《椅仔》</title>
+      <link>https://www.opentix.life/event/2099314057961340929</link>
+      <guid isPermaLink="false">opentix:2099314057961340929</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>複象公場《洋基之子》臺文混血劇場</title>
+      <link>https://www.opentix.life/event/2089874937535913985</link>
+      <guid isPermaLink="false">opentix:2089874937535913985</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 國家兩廳院實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026暴羅WALK《凡事求一個願》</title>
+      <link>https://www.opentix.life/event/2095686143034003457</link>
+      <guid isPermaLink="false">opentix:2095686143034003457</guid>
+      <pubDate>Wed, 16 Sep 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-22 – 2026-12-06 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
