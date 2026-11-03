@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 04:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:58:48 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -285,6 +285,14 @@
       <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-22 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title> 府城喜劇十一月 OPEN MIC</title>
+      <link>https://www.accupass.com/event/2611020817541420562598</link>
+      <guid isPermaLink="false">accupass:2611020817541420562598</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-22 · Venue: 不要點上方地址直接導引會跑錯地方，請用其他地圖APP搜尋SASADRA CAFE, 臺南市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
@@ -591,17 +599,17 @@
       <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
-      <link>https://www.opentix.life/event/2112453118184157184</link>
-      <guid isPermaLink="false">opentix:2112453118184157184</guid>
+      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
+      <link>https://www.opentix.life/event/2112451443664109568</link>
+      <guid isPermaLink="false">opentix:2112451443664109568</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
-      <link>https://www.opentix.life/event/2112451443664109568</link>
-      <guid isPermaLink="false">opentix:2112451443664109568</guid>
+      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
+      <link>https://www.opentix.life/event/2112453118184157184</link>
+      <guid isPermaLink="false">opentix:2112453118184157184</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-08 – 2027-01-10 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>職男人生12-愛拼才會贏</title>
-      <link>https://www.opentix.life/event/2107041309473828865</link>
-      <guid isPermaLink="false">opentix:2107041309473828865</guid>
-      <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-15 – 2027-03-14 · Venue: 桃園展演中心展演廳, 桃園市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
