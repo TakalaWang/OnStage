@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:58:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:15:06 GMT</lastBuildDate>
+    <item>
+      <title>福狸男孩《劉向跟你》高雄場</title>
+      <link>https://www.opentix.life/event/2116075068406972417</link>
+      <guid isPermaLink="false">opentix:2116075068406972417</guid>
+      <pubDate>Wed, 04 Nov 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-16 · Venue: Loi了咖啡, 高雄市 · On sale: 2026-11-04 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
       <link>https://www.opentix.life/event/2114964102637150209</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺灣戲曲中心小表演廳, 臺北市 · On sale: 2026-09-05 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026藝術綠洲創作計畫-何日君再來劇團《未來．火車．歌廳秀》</title>
-      <link>https://www.opentix.life/event/2082753505317773312</link>
-      <guid isPermaLink="false">opentix:2082753505317773312</guid>
-      <pubDate>Thu, 03 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-20 · Venue: 桃園火車站, 桃園市 · On sale: 2026-09-03 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:58:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:15:06 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -583,6 +583,14 @@
       <description>Date: 2026-11-05 – 2026-11-26 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>福狸男孩《劉向跟你》高雄場</title>
+      <link>https://www.opentix.life/event/2116075068406972417</link>
+      <guid isPermaLink="false">opentix:2116075068406972417</guid>
+      <pubDate>Wed, 04 Nov 2026 02:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-16 · Venue: Loi了咖啡, 高雄市 · On sale: 2026-11-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>現場喜劇: 11月份/飛客劇樂部《週二歐噴麥》open mic｜主持：LiLi講 / 賴安 / 郭茜 / 江源</title>
       <link>https://www.accupass.com/event/2610311723561352128710</link>
       <guid isPermaLink="false">accupass:2610311723561352128710</guid>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-11 – 2026-12-13 · Venue: 台北偶戲館黑箱劇場, 臺北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>塵埃雨劇場Ｘ童偉格《地下神》讀劇演出</title>
-      <link>https://www.opentix.life/event/2110192309609922560</link>
-      <guid isPermaLink="false">opentix:2110192309609922560</guid>
-      <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-08 – 2027-01-10 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
