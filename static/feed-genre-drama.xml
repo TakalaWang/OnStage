@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:15:43 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -69,6 +69,14 @@
       <pubDate>Fri, 18 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-19 – 2026-12-27 · Venue: 亞東藝文中心一九一劇場, 桃園市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>一人一故事劇場演出《你是在吠三小！？》</title>
+      <link>https://www.accupass.com/event/2611041346281147328837</link>
+      <guid isPermaLink="false">accupass:2611041346281147328837</guid>
+      <pubDate>Wed, 16 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-17 · Venue: 博愛社區大學3樓地板教室, 嘉義市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>【沈浸式戲劇社交】｜台北場 2026/12/05 (六)</title>
@@ -255,20 +263,20 @@
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2117558548420304897</link>
+      <guid isPermaLink="false">opentix:2117558548420304897</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-11 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-04 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>福狸男孩《劉向跟你》高雄場</title>
       <link>https://www.opentix.life/event/2116075068406972417</link>
       <guid isPermaLink="false">opentix:2116075068406972417</guid>
       <pubDate>Wed, 04 Nov 2026 02:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-16 · Venue: Loi了咖啡, 高雄市 · On sale: 2026-11-04 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
-      <link>https://www.opentix.life/event/2114964102637150209</link>
-      <guid isPermaLink="false">opentix:2114964102637150209</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
@@ -285,6 +293,14 @@
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
+      <link>https://www.opentix.life/event/2114964102637150209</link>
+      <guid isPermaLink="false">opentix:2114964102637150209</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>東京－大阪－京都－日本小劇場節點觀察返國分享會</title>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-10 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
-      <link>https://www.opentix.life/event/2099337927309197313</link>
-      <guid isPermaLink="false">opentix:2099337927309197313</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-12-13 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>盜火劇團 權力首部曲《椅仔》</title>
-      <link>https://www.opentix.life/event/2099314057961340929</link>
-      <guid isPermaLink="false">opentix:2099314057961340929</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
