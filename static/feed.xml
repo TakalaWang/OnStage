@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 04:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:23:54 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -167,7 +167,7 @@
       <description>Date: 2026-12-06 · Venue: 可能存在的遊樂園 CollaPlay, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【沈浸式戲劇社交】｜台北場 2026/12/05 (六)</title>
+      <title>【沈浸式戲劇：愛之語】｜台北場 2026/12/05 (六)</title>
       <link>https://www.accupass.com/event/2610111535271918239110</link>
       <guid isPermaLink="false">accupass:2610111535271918239110</guid>
       <pubDate>Fri, 04 Dec 2026 16:00:00 GMT</pubDate>
@@ -375,7 +375,7 @@
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 山峸二手書店, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【沈浸式戲劇社交】｜台北場2026/11/14 (六)</title>
+      <title>【沈浸式戲劇：愛之語】｜台北場2026/11/14 (六)</title>
       <link>https://www.accupass.com/event/2610111520201171649768</link>
       <guid isPermaLink="false">accupass:2610111520201171649768</guid>
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
@@ -647,20 +647,20 @@
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
-      <link>https://www.opentix.life/event/2112453118184157184</link>
-      <guid isPermaLink="false">opentix:2112453118184157184</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
       <link>https://www.opentix.life/event/2114964102637150209</link>
       <guid isPermaLink="false">opentix:2114964102637150209</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
+      <link>https://www.opentix.life/event/2112453118184157184</link>
+      <guid isPermaLink="false">opentix:2112453118184157184</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026偶樂迴響布袋戲音樂劇音樂會</title>
@@ -703,20 +703,20 @@
       <description>Date: 2026-11-01 – 2026-11-15 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【台中 2/13 午】相聲失控《原聲變態》加演場</title>
-      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270213</link>
-      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270213</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>相聲</category>
-      <description>Date: 2027-02-13 – 2027-02-20 · Venue: 台中群島藝術園 大劇院, 臺中市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>2027年 相聲失控《原聲變態》加演場</title>
       <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk2027</link>
       <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk2027</guid>
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-13 – 2027-02-20 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【台中 2/13 午】相聲失控《原聲變態》加演場</title>
+      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270213</link>
+      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270213</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>相聲</category>
+      <description>Date: 2027-02-13 – 2027-02-20 · Venue: 台中群島藝術園 大劇院, 臺中市 · On sale: 2026-10-31 · Source: KKTIX</description>
     </item>
     <item>
       <title>【台北 2/19 晚】相聲失控《原聲變態》加演場</title>
