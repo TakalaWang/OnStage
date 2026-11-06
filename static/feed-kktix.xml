@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 04:33:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:48:49 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -21,6 +21,22 @@
       <pubDate>Thu, 21 Jan 2027 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-22 · Venue: COMEDY PLUS 卡米地+, 臺北市 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【01/24 午 新竹】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong740124</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong740124</guid>
+      <pubDate>Sun, 08 Nov 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2027-01-24 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-11-08 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>2026 聖誕願望兌換所 The Wishing Room</title>
+      <link>https://iwillshare.kktix.cc/events/thewishingroom</link>
+      <guid isPermaLink="false">kktix:iwillshare/thewishingroom</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 · Venue: 獨一文創（101大樓四樓）, 臺北市 · On sale: 2026-11-05 · Source: KKTIX</description>
     </item>
     <item>
       <title>2027年 相聲失控《原聲變態》加演場</title>
@@ -93,14 +109,6 @@
       <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-23 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-10-18 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>《負能6週記Live Podcast》 六週年實體活動</title>
-      <link>https://comedyclub.kktix.cc/events/ethan</link>
-      <guid isPermaLink="false">kktix:comedyclub/ethan</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-02 – 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-09-01 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>

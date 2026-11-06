@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 04:33:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:48:49 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -103,20 +103,20 @@
       <description>Date: 2026-11-26 · Venue: 卡濰咖啡 明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>【即興主題日】那間老鼠開的動畫公司</title>
-      <link>https://www.accupass.com/event/2610141744548907675560</link>
-      <guid isPermaLink="false">accupass:2610141744548907675560</guid>
-      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-22 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title> 府城喜劇十一月 OPEN MIC</title>
       <link>https://www.accupass.com/event/2611020817541420562598</link>
       <guid isPermaLink="false">accupass:2611020817541420562598</guid>
       <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-22 · Venue: 不要點上方地址直接導引會跑錯地方，請用其他地圖APP搜尋SASADRA CAFE, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【即興主題日】那間老鼠開的動畫公司</title>
+      <link>https://www.accupass.com/event/2610141744548907675560</link>
+      <guid isPermaLink="false">accupass:2610141744548907675560</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-22 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>屏東11月喜劇之夜 | 喜劇開港 · 肆我開笑</title>
@@ -159,12 +159,20 @@
       <description>Date: 2026-11-09 · Venue: 關東橋郵局旁地下室, 新竹市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【01/24 午 新竹】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
+      <link>https://comedyclub.kktix.cc/events/sstrong740124</link>
+      <guid isPermaLink="false">kktix:comedyclub/sstrong740124</guid>
+      <pubDate>Sun, 08 Nov 2026 04:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2027-01-24 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-11-08 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>【文化系列】張育瑞「跨界音樂與即興鋼琴」</title>
       <link>https://www.accupass.com/event/2610240709411745814767</link>
       <guid isPermaLink="false">accupass:2610240709411745814767</guid>
       <pubDate>Sat, 07 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
-      <description>Date: 2026-11-08 · Venue: 竹北市公所三樓, 新竹縣 · Source: Accupass 活動通</description>
+      <description>Date: 2026-11-08 · Venue: 星際圖書館, 新竹縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>《春雨の喜劇力開發研究部》11、12月號</title>
