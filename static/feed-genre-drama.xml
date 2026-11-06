@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:33:45 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -261,6 +261,14 @@
       <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《我是馬小克：世界暫停五分鐘》</title>
+      <link>https://www.opentix.life/event/2115664349903020033</link>
+      <guid isPermaLink="false">opentix:2115664349903020033</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 – 2026-12-20 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-11-06 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>面白放送</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-10 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
-      <link>https://www.opentix.life/event/2099337927309197313</link>
-      <guid isPermaLink="false">opentix:2099337927309197313</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-12-13 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

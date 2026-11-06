@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:33:45 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -559,6 +559,14 @@
       <description>Date: 2026-11-07 · Venue: 屏東藝術館, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《我是馬小克：世界暫停五分鐘》</title>
+      <link>https://www.opentix.life/event/2115664349903020033</link>
+      <guid isPermaLink="false">opentix:2115664349903020033</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 – 2026-12-20 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-11-06 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>影集式音樂劇《不親愛家人》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
       <guid isPermaLink="false">udn:P1EBDFKH</guid>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-06 · Venue: 臺南文創園區 漂丿白鷺live house, 臺南市 · On sale: 2026-10-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026影響‧新劇場《海喲海喲來冒險》兒童劇場</title>
-      <link>https://www.opentix.life/event/2110552275221823489</link>
-      <guid isPermaLink="false">opentix:2110552275221823489</guid>
-      <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺南市立圖書館新總館6F哇劇場, 臺南市 · On sale: 2026-10-22 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

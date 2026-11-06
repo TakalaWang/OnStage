@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:33:45 GMT</lastBuildDate>
+    <item>
+      <title>《我是馬小克：世界暫停五分鐘》</title>
+      <link>https://www.opentix.life/event/2115664349903020033</link>
+      <guid isPermaLink="false">opentix:2115664349903020033</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-19 – 2026-12-20 · Venue: D.D.Box 劇場（Date Day Box）, 臺北市 · On sale: 2026-11-06 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2117558548420304897</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-13 – 2026-11-15 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-08 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>職男人生3-達成激笑</title>
-      <link>https://www.opentix.life/event/2089184609844899841</link>
-      <guid isPermaLink="false">opentix:2089184609844899841</guid>
-      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-19 · Venue: 新竹縣政府文化局演藝廳, 新竹縣 · On sale: 2026-09-08 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
