@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 07 Nov 2026 04:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:19:34 GMT</lastBuildDate>
     <item>
       <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966</link>
@@ -26,9 +26,9 @@
       <title>2026中友兒童劇場《超人力霸王 狄奧&amp;奧米加》Kid&apos;s Show</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GLIBTY</link>
       <guid isPermaLink="false">era:P1GLIBTY</guid>
-      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
-      <description>Date: 2026-11-07 – 2026-11-08 · Venue: 台中中友百貨C棟13F國際大廳 · Source: 年代售票</description>
+      <description>Date: 2026-11-08 · Venue: 台中中友百貨C棟13F國際大廳 · Source: 年代售票</description>
     </item>
     <item>
       <title>2026影響‧新劇場《海喲海喲來冒險》兒童劇場</title>
@@ -45,14 +45,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-11-22 – 2027-05-30 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>風神寶寶兒童劇團《王船精靈大冒險》</title>
-      <link>https://www.opentix.life/event/2095800553720586241</link>
-      <guid isPermaLink="false">opentix:2095800553720586241</guid>
-      <pubDate>Tue, 15 Sep 2026 04:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-11-07 · Venue: 雲林表演廳, 雲林縣 · On sale: 2026-09-15 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
