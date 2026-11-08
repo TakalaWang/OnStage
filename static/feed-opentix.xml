@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:45:54 GMT</lastBuildDate>
     <item>
       <title>2026屏東野馬戲 - FOCASA馬戲團《魔幻森林》</title>
       <link>https://www.opentix.life/event/2112852375396478976</link>
@@ -47,6 +47,14 @@
       <description>Date: 2027-01-16 · Venue: Loi了咖啡, 高雄市 · On sale: 2026-11-04 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
+      <link>https://www.opentix.life/event/2114964102637150209</link>
+      <guid isPermaLink="false">opentix:2114964102637150209</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
       <link>https://www.opentix.life/event/2112451443664109568</link>
       <guid isPermaLink="false">opentix:2112451443664109568</guid>
@@ -61,14 +69,6 @@
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026關渡藝術節戲劇學院冬季公演《城堡裡的公主》《梁祝的繼承者們》</title>
-      <link>https://www.opentix.life/event/2114964102637150209</link>
-      <guid isPermaLink="false">opentix:2114964102637150209</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026偶樂迴響布袋戲音樂劇音樂會</title>
@@ -615,20 +615,20 @@
       <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺博小客廳, 臺北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
-      <link>https://www.opentix.life/event/2090378180198309889</link>
-      <guid isPermaLink="false">opentix:2090378180198309889</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>說唱四季吟〜大漢玉集創團40年慶公演</title>
       <link>https://www.opentix.life/event/2098258340506152960</link>
       <guid isPermaLink="false">opentix:2098258340506152960</guid>
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 新北市藝文中心演奏廳, 新北市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>両両製造 X 陳盈達《遮有真濟小王子》</title>
+      <link>https://www.opentix.life/event/2090378180198309889</link>
+      <guid isPermaLink="false">opentix:2090378180198309889</guid>
+      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-21 – 2026-11-22 · Venue: 米倉劇場, 桃園市 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
