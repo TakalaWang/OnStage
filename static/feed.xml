@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:13:00 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -125,6 +125,14 @@
       <pubDate>Thu, 24 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-25 – 2026-12-27 · Venue: 牯嶺街小劇場1F 實驗劇場, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《莊子兵法》VR劇場</title>
+      <link>https://www.accupass.com/event/2610080728101319504478</link>
+      <guid isPermaLink="false">accupass:2610080728101319504478</guid>
+      <pubDate>Wed, 23 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-24 – 2027-02-21 · Venue: 松山文創園區 藝境空間, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>打架俱樂部｜即興裡的反派練習 &lt;12月場&gt;</title>
@@ -335,20 +343,28 @@
       <description>Date: 2026-11-22 · Venue: 內惟藝術中心 Reel two 2廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
-      <title>【即興主題日】那間老鼠開的動畫公司</title>
-      <link>https://www.accupass.com/event/2610141744548907675560</link>
-      <guid isPermaLink="false">accupass:2610141744548907675560</guid>
-      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-22 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title> 府城喜劇十一月 OPEN MIC</title>
       <link>https://www.accupass.com/event/2611020817541420562598</link>
       <guid isPermaLink="false">accupass:2611020817541420562598</guid>
       <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-22 · Venue: 不要點上方地址直接導引會跑錯地方，請用其他地圖APP搜尋SASADRA CAFE, 臺南市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【2026文山藝術季：另類重力星球—演出】故事劇場《擁抱》×《布可思議的創意》互動遊戲</title>
+      <link>https://www.accupass.com/event/2611090642511041172906</link>
+      <guid isPermaLink="false">accupass:2611090642511041172906</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-22 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>【即興主題日】那間老鼠開的動畫公司</title>
+      <link>https://www.accupass.com/event/2610141744548907675560</link>
+      <guid isPermaLink="false">accupass:2610141744548907675560</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-11-22 · Venue: 卡濰咖啡-明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026 十一月｜音樂喜劇 Open Mic｜主持：怡岑</title>
@@ -551,6 +567,14 @@
       <description>Date: 2026-11-13 – 2026-11-14 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>影集式音樂劇《不親愛家人》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
+      <guid isPermaLink="false">udn:P1EBDFKH</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-11 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
       <title>重生 布袋戲音樂劇</title>
       <link>https://www.opentix.life/event/2117448495120871425</link>
       <guid isPermaLink="false">opentix:2117448495120871425</guid>
@@ -565,14 +589,6 @@
       <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-02-19 – 2027-03-07 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>影集式音樂劇《不親愛家人》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
-      <guid isPermaLink="false">udn:P1EBDFKH</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-10 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
       <title>(YT會員限定)面白放送</title>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-19 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【台北 2/20 晚】相聲失控《原聲變態》加演場</title>
-      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270220</link>
-      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270220</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>相聲</category>
-      <description>Date: 2027-02-20 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【表演工作坊】《躲在角落說相聲》</title>
-      <link>https://www.opentix.life/event/2115259153358184449</link>
-      <guid isPermaLink="false">opentix:2115259153358184449</guid>
-      <pubDate>Sat, 31 Oct 2026 04:00:00 GMT</pubDate>
-      <category>相聲</category>
-      <description>Date: 2027-02-26 – 2027-03-13 · Venue: CORNER MAX大角落多功能展演館, 臺北市 · On sale: 2026-10-31 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
