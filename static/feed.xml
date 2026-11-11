@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:02:20 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -567,6 +567,14 @@
       <description>Date: 2026-11-13 – 2026-11-14 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>邱舒《正來尞》2026 巡迴終場－高雄站</title>
+      <link>https://kafka.kktix.cc/events/chiushukafka</link>
+      <guid isPermaLink="false">kktix:kafka/chiushukafka</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 · Venue: 海邊的卡夫卡-高流店, 高雄市 · On sale: 2026-11-11 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>影集式音樂劇《不親愛家人》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
       <guid isPermaLink="false">udn:P1EBDFKH</guid>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-13 – 2027-02-20 · Venue: 台中群島藝術園 大劇院, 臺中市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【台北 2/19 晚】相聲失控《原聲變態》加演場</title>
-      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270219</link>
-      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270219</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>相聲</category>
-      <description>Date: 2027-02-19 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
     </item>
   </channel>
 </rss>
