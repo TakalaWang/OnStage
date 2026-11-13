@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:05:22 GMT</lastBuildDate>
     <item>
       <title>《顏世昌反奸》</title>
       <link>https://www.opentix.life/event/2117895473478856705</link>
@@ -111,17 +111,17 @@
       <description>Date: 2026-12-05 – 2026-12-13 · Venue: 國立臺北藝術大學戲劇廳, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
-      <link>https://www.opentix.life/event/2112451443664109568</link>
-      <guid isPermaLink="false">opentix:2112451443664109568</guid>
+      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
+      <link>https://www.opentix.life/event/2112453118184157184</link>
+      <guid isPermaLink="false">opentix:2112453118184157184</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
-      <link>https://www.opentix.life/event/2112453118184157184</link>
-      <guid isPermaLink="false">opentix:2112453118184157184</guid>
+      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜不　跟　你　玩　了</title>
+      <link>https://www.opentix.life/event/2112451443664109568</link>
+      <guid isPermaLink="false">opentix:2112451443664109568</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
@@ -239,20 +239,20 @@
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 臺中市葫蘆墩文化中心演奏廳, 臺中市 · On sale: 2026-10-21 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>1997劇團《暗殺少女的告白習作》讀劇演出</title>
-      <link>https://www.opentix.life/event/2110249783535681537</link>
-      <guid isPermaLink="false">opentix:2110249783535681537</guid>
-      <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 台北偶戲館黑箱劇場, 臺北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
       <title>「戲來就演！」－布袋戲演師們的大挑戰</title>
       <link>https://www.opentix.life/event/2109890724705943553</link>
       <guid isPermaLink="false">opentix:2109890724705943553</guid>
       <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2026-12-11 – 2026-12-12 · Venue: 輔仁大學外語學院華觀劇場, 新北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>1997劇團《暗殺少女的告白習作》讀劇演出</title>
+      <link>https://www.opentix.life/event/2110249783535681537</link>
+      <guid isPermaLink="false">opentix:2110249783535681537</guid>
+      <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-11 – 2026-12-13 · Venue: 台北偶戲館黑箱劇場, 臺北市 · On sale: 2026-10-20 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>塵埃雨劇場Ｘ童偉格《地下神》讀劇演出</title>
@@ -556,7 +556,7 @@
       <guid isPermaLink="false">opentix:2099722747071549441</guid>
       <pubDate>Wed, 30 Sep 2026 06:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-14 · Venue: 得勝新村遺構公園, 屏東縣 · On sale: 2026-09-30 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-14 · Venue: 得勝新村遺構公園, 屏東縣 · On sale: 2026-09-30 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>後街人劇團2026年度製作《請你看看我的信：荒謬、自由、幸福與三十七年的人生規劃》</title>
@@ -613,14 +613,6 @@
       <pubDate>Thu, 24 Sep 2026 04:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 駁二正港小劇場, 高雄市 · On sale: 2026-09-24 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>動見体《美好如此》讀劇劇場</title>
-      <link>https://www.opentix.life/event/2100802203576029184</link>
-      <guid isPermaLink="false">opentix:2100802203576029184</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-13 · Venue: 馬祖梅石藝文中心, 連江縣 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>打開笑門福自來</title>
@@ -684,7 +676,7 @@
       <guid isPermaLink="false">opentix:2095719415928209409</guid>
       <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-21 · Venue: 國立臺灣大學校總區, 臺北市 · On sale: 2026-09-21 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-14 – 2026-11-21 · Venue: 國立臺灣大學校總區, 臺北市 · On sale: 2026-09-21 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>【醫聲．白袍金嗓】施宗賢醫師 廣音域 跨界演唱會</title>
@@ -708,7 +700,7 @@
       <guid isPermaLink="false">opentix:2091794538773053440</guid>
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 萬座曉劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>《生氣王子》親子繪本音樂會</title>
@@ -780,7 +772,7 @@
       <guid isPermaLink="false">opentix:2093301714069286912</guid>
       <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-22 · Venue: 臺北表演藝術中心 球劇場, 臺北市 · On sale: 2026-09-14 · Source: OPENTIX 兩廳院</description>
+      <description>Date: 2026-11-14 – 2026-11-22 · Venue: 臺北表演藝術中心 球劇場, 臺北市 · On sale: 2026-09-14 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026武俠新篇章《俠虎征途》</title>
@@ -805,6 +797,14 @@
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2027-01-10 · Venue: 大事件劇場, 高雄市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>試試製作所《不在場練習》</title>
+      <link>https://www.opentix.life/event/2095392859876958209</link>
+      <guid isPermaLink="false">opentix:2095392859876958209</guid>
+      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-08 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
