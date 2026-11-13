@@ -5,7 +5,23 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:27:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:27:32 GMT</lastBuildDate>
+    <item>
+      <title>《顏世昌反奸》</title>
+      <link>https://www.opentix.life/event/2117895473478856705</link>
+      <guid isPermaLink="false">opentix:2117895473478856705</guid>
+      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 · Venue: 南北管音樂戲曲館表演廳, 彰化縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《鋒劍．吞六國》</title>
+      <link>https://www.opentix.life/event/2118632825987301377</link>
+      <guid isPermaLink="false">opentix:2118632825987301377</guid>
+      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-02 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>第五屆搞笑對抗賽-投打對決</title>
       <link>https://www.opentix.life/event/2117574341575020545</link>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2027-01-10 · Venue: 大事件劇場, 高雄市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>試試製作所《不在場練習》</title>
-      <link>https://www.opentix.life/event/2095392859876958209</link>
-      <guid isPermaLink="false">opentix:2095392859876958209</guid>
-      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-13 – 2026-11-15 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-08 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>職男人生3-達成激笑</title>
-      <link>https://www.opentix.life/event/2089184609844899841</link>
-      <guid isPermaLink="false">opentix:2089184609844899841</guid>
-      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-19 · Venue: 新竹縣政府文化局演藝廳, 新竹縣 · On sale: 2026-09-08 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

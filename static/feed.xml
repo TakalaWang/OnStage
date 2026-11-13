@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:27:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:27:32 GMT</lastBuildDate>
     <item>
       <title>【相聲愛NG】實驗相聲開放麥｜02/27（六）20:00｜飛客劇樂部｜李沐陽 /陳韋捷 /李柏陞 /胡庭瑞 /李芳芳 / 小南 </title>
       <link>https://www.accupass.com/event/2607191149131156127616</link>
@@ -479,6 +479,14 @@
       <description>Date: 2026-11-15 · Venue: 勝利星村得勝區遺構公園, 屏東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>《莊子兵法》VR劇場</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I1M7GN</link>
+      <guid isPermaLink="false">udn:P1I1M7GN</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2027-01-10 · Source: udn 售票網</description>
+    </item>
+    <item>
       <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
       <guid isPermaLink="false">era:P1ET7M40</guid>
@@ -541,6 +549,22 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-14 · Venue: Cave Café 卡濰咖啡＿明誠店 2F, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>《顏世昌反奸》</title>
+      <link>https://www.opentix.life/event/2117895473478856705</link>
+      <guid isPermaLink="false">opentix:2117895473478856705</guid>
+      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 · Venue: 南北管音樂戲曲館表演廳, 彰化縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《鋒劍．吞六國》</title>
+      <link>https://www.opentix.life/event/2118632825987301377</link>
+      <guid isPermaLink="false">opentix:2118632825987301377</guid>
+      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-02 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>影集式音樂劇《不親愛家人》</title>
@@ -781,30 +805,6 @@
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2026駐館藝術家開放工作室】當我們走進一道裂縫｜現形以前</title>
-      <link>https://www.opentix.life/event/2112453118184157184</link>
-      <guid isPermaLink="false">opentix:2112453118184157184</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-06 · Venue: 國家音樂廳排練室二, 臺北市 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026偶樂迴響布袋戲音樂劇音樂會</title>
-      <link>https://www.opentix.life/event/2110252942473105409</link>
-      <guid isPermaLink="false">opentix:2110252942473105409</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <category>偶戲</category>
-      <description>Date: 2026-12-13 · Venue: 嘉義縣表演藝術中心實驗劇場, 嘉義縣 · On sale: 2026-11-02 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>親子公益音樂劇《部落英雄 大冒險2.0》</title>
-      <link>https://www.opentix.life/event/2099712528911405057</link>
-      <guid isPermaLink="false">opentix:2099712528911405057</guid>
-      <pubDate>Sun, 01 Nov 2026 04:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2027-01-02 – 2027-01-03 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-11-01 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
