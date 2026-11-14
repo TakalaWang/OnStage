@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 19:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:23:56 GMT</lastBuildDate>
     <item>
       <title>✦ 好好吃頓飯 ✦ 沉浸式辦桌劇場《好好姨的春天款待》</title>
       <link>https://www.accupass.com/event/2610101427073055769580</link>
@@ -301,6 +301,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2026-11-15 · Venue: 北町日式建築宿舍群, 臺東縣 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>2026臺東藝穗節｜南方跳實驗空間《身體之書—消失》</title>
+      <link>https://www.accupass.com/event/2608200313531919620344</link>
+      <guid isPermaLink="false">accupass:2608200313531919620344</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-14 – 2026-11-15 · Venue: 臺東縣立圖書館, 臺東縣 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026第一屆臺南藝術雙年展｜歷史迴圈｜「遊街－噍吧哖事件城市劇場」遊街演出及播映會</title>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-09-25 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《西門町一番地》2026年末歡樂場</title>
-      <link>https://www.opentix.life/event/2100923426582679553</link>
-      <guid isPermaLink="false">opentix:2100923426582679553</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-25 – 2027-01-02 · Venue: 西門紅樓二樓劇場, 臺北市 · On sale: 2026-09-25 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
