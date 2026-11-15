@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 15 Nov 2026 04:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:23:02 GMT</lastBuildDate>
     <item>
       <title>假面騎士 X 卡邦無限THE LIVE IN TAIWAN 2027</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HK7J4R</link>
@@ -71,6 +71,14 @@
       <description>Date: 2026-11-21 – 2026-11-22 · Venue: 台江文化中心台江劇場, 臺南市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
+      <guid isPermaLink="false">era:P1ET7M40</guid>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-21 – 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026《再一次！唱歌旅行去》十週年親子演唱會</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966</link>
       <guid isPermaLink="false">era:P19I4966</guid>
@@ -85,14 +93,6 @@
       <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-21 · Venue: 內惟藝術中心 Reel one 1廳, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
-      <guid isPermaLink="false">era:P1ET7M40</guid>
-      <pubDate>Sat, 14 Nov 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-11-15 – 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
