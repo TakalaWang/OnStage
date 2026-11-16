@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:07:28 GMT</lastBuildDate>
     <item>
       <title>會演是英雄2之《英雄所賤略同》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45</link>
@@ -31,14 +31,6 @@
       <description>Date: 2026-11-27 – 2026-12-20 · Venue: 空軍三重一村時藝廣場, 新北市 · Source: udn 售票網</description>
     </item>
     <item>
-      <title>倫敦全本音樂劇《史瑞克》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
-      <guid isPermaLink="false">udn:P1AEBJG5</guid>
-      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-20 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
       <title>影集式音樂劇《不親愛家人》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
       <guid isPermaLink="false">udn:P1EBDFKH</guid>
@@ -53,6 +45,14 @@
       <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-14 – 2027-01-10 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>倫敦全本音樂劇《史瑞克》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
+      <guid isPermaLink="false">udn:P1AEBJG5</guid>
+      <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-05-27 – 2026-11-29 · Source: udn 售票網</description>
     </item>
   </channel>
 </rss>
