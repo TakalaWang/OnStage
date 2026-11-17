@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:03:46 GMT</lastBuildDate>
+    <item>
+      <title>三王京彩會名伶 安捷盛會-京、豫、歌仔戲之公益匯演</title>
+      <link>https://www.opentix.life/event/2118224839110914049</link>
+      <guid isPermaLink="false">opentix:2118224839110914049</guid>
+      <pubDate>Tue, 17 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2027-01-09 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2117569156841312257</link>
@@ -87,20 +95,20 @@
       <description>Date: 2026-12-26 · Venue: Legacy TERA, 臺北市 · On sale: 2026-11-12 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
+      <title>職男人生3-達成激笑</title>
+      <link>https://www.opentix.life/event/2115367404998193153</link>
+      <guid isPermaLink="false">opentix:2115367404998193153</guid>
+      <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-08 – 2027-03-07 · Venue: 嘉義縣表演藝術中心演藝廳, 嘉義縣 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>重生 布袋戲音樂劇</title>
       <link>https://www.opentix.life/event/2117448495120871425</link>
       <guid isPermaLink="false">opentix:2117448495120871425</guid>
       <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2027-01-10 · Venue: 嘉義縣表演藝術中心實驗劇場, 嘉義縣 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>職男人生3-達成激笑</title>
-      <link>https://www.opentix.life/event/2115367404998193153</link>
-      <guid isPermaLink="false">opentix:2115367404998193153</guid>
-      <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-02-19 – 2027-03-07 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>(YT會員限定)面白放送</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
       <category>音樂劇</category>
       <description>Date: 2026-11-20 – 2026-11-22 · Venue: 禾禾文化空間, 臺北市 · On sale: 2026-09-14 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《地球人遇見小王子》</title>
-      <link>https://www.opentix.life/event/2097251126499532800</link>
-      <guid isPermaLink="false">opentix:2097251126499532800</guid>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2027-01-10 · Venue: 大事件劇場, 高雄市 · On sale: 2026-09-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
