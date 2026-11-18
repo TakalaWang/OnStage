@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:52:54 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -47,6 +47,14 @@
       <description>Date: 2026-12-12 · Venue: 獨一文創（101大樓四樓）, 臺北市 · On sale: 2026-11-05 · Source: KKTIX</description>
     </item>
     <item>
+      <title>【新竹 1/10 午】相聲失控《原聲變態》加演場</title>
+      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270110</link>
+      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270110</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>相聲</category>
+      <description>Date: 2027-01-10 · Venue: 新竹SOGO巨城店4F演藝廳B廳, 新竹市 · On sale: 2026-10-31 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>2027年 相聲失控《原聲變態》加演場</title>
       <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk2027</link>
       <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk2027</guid>
@@ -82,14 +90,6 @@
       <title>【01/03 19:00場】《負能6週記Live Podcast》 六週年實體活動</title>
       <link>https://comedyclub.kktix.cc/events/ethan0103-2</link>
       <guid isPermaLink="false">kktix:comedyclub/ethan0103-2</guid>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-10-19 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【01/03 15:30場】《負能6週記Live Podcast》 六週年實體活動</title>
-      <link>https://comedyclub.kktix.cc/events/ethan0103-1</link>
-      <guid isPermaLink="false">kktix:comedyclub/ethan0103-1</guid>
       <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-10-19 · Source: KKTIX</description>
