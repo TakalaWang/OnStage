@@ -5,7 +5,31 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:23:03 GMT</lastBuildDate>
+    <item>
+      <title>乾淨的這群人</title>
+      <link>https://www.opentix.life/event/2119975121441427456</link>
+      <guid isPermaLink="false">opentix:2119975121441427456</guid>
+      <pubDate>Thu, 19 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 – 2027-01-10 · Venue: 濕地Venue-5F, 臺北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>【掌中戲】臺北木偶劇團《天寶圖》</title>
+      <link>https://www.opentix.life/event/2122158147577700353</link>
+      <guid isPermaLink="false">opentix:2122158147577700353</guid>
+      <pubDate>Thu, 19 Nov 2026 04:00:00 GMT</pubDate>
+      <category>偶戲</category>
+      <description>Date: 2027-01-16 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>國立臺灣藝術大學日間部戲劇學系百拾参級班級展演《城堡裡的公主》</title>
+      <link>https://www.opentix.life/event/2115633300596482049</link>
+      <guid isPermaLink="false">opentix:2115633300596482049</guid>
+      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-25 – 2026-12-27 · Venue: 國立臺灣藝術大學實驗劇場（八角廳）, 新北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>Manzai In Taiwan 2026 - 漫才特別寄席</title>
       <link>https://www.opentix.life/event/2122611743645437953</link>
@@ -781,30 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-11-22 – 2027-05-30 · Venue: 臺北市政大樓親子劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>烏貓戲出《燈殼樓的委託-小戲蟲拜先生》</title>
-      <link>https://www.opentix.life/event/2099337927309197313</link>
-      <guid isPermaLink="false">opentix:2099337927309197313</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-28 – 2026-12-13 · Venue: 大稻埕戲苑曲藝場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>此情難訴・崑劇折子戲</title>
-      <link>https://www.opentix.life/event/2092597882649186305</link>
-      <guid isPermaLink="false">opentix:2092597882649186305</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2026-11-29 · Venue: 國立臺灣藝術教育館南海劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>盜火劇團 權力首部曲《椅仔》</title>
-      <link>https://www.opentix.life/event/2099314057961340929</link>
-      <guid isPermaLink="false">opentix:2099314057961340929</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

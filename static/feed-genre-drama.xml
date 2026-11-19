@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:23:03 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -293,6 +293,22 @@
       <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-20 – 2026-11-21 · Venue: 淡水華南銀行騎樓, 新北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>乾淨的這群人</title>
+      <link>https://www.opentix.life/event/2119975121441427456</link>
+      <guid isPermaLink="false">opentix:2119975121441427456</guid>
+      <pubDate>Thu, 19 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 – 2027-01-10 · Venue: 濕地Venue-5F, 臺北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>國立臺灣藝術大學日間部戲劇學系百拾参級班級展演《城堡裡的公主》</title>
+      <link>https://www.opentix.life/event/2115633300596482049</link>
+      <guid isPermaLink="false">opentix:2115633300596482049</guid>
+      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-25 – 2026-12-27 · Venue: 國立臺灣藝術大學實驗劇場（八角廳）, 新北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>第二屆傳講堂暨公益戲劇列車</title>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-11-20 – 2026-11-22 · Venue: 邊譜書店3樓, 臺中市 · On sale: 2026-09-29 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《吾師吳師》吳兆南百歲紀念演出</title>
-      <link>https://www.opentix.life/event/2101846786922614785</link>
-      <guid isPermaLink="false">opentix:2101846786922614785</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-11 · Venue: 新北市藝文中心演藝廳, 新北市 · On sale: 2026-09-28 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《Plaza Suite》好事多磨大飯店</title>
-      <link>https://www.opentix.life/event/2100541819672694784</link>
-      <guid isPermaLink="false">opentix:2100541819672694784</guid>
-      <pubDate>Sat, 26 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-18 – 2026-12-27 · Venue: PLAYground 南村劇場．青鳥．有.設計, 臺北市 · On sale: 2026-09-26 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
