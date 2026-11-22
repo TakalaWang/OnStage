@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 22 Nov 2026 04:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:58:17 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -21,6 +21,14 @@
       <pubDate>Thu, 21 Jan 2027 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-22 · Venue: COMEDY PLUS 卡米地+, 臺北市 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【1/9 (六) 午】 狄哥＆婉妹 來抬槓</title>
+      <link>https://comedyclub.kktix.cc/events/talk0109</link>
+      <guid isPermaLink="false">kktix:comedyclub/talk0109</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-11-23 · Source: KKTIX</description>
     </item>
     <item>
       <title>邱舒《正來尞》2026 巡迴終場－高雄站</title>
@@ -85,14 +93,6 @@
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-20 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>【01/03 19:00場】《負能6週記Live Podcast》 六週年實體活動</title>
-      <link>https://comedyclub.kktix.cc/events/ethan0103-2</link>
-      <guid isPermaLink="false">kktix:comedyclub/ethan0103-2</guid>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-03 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-10-19 · Source: KKTIX</description>
     </item>
     <item>
       <title>【01/22 新竹】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
