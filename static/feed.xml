@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:13:25 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -77,6 +77,14 @@
       <pubDate>Fri, 08 Jan 2027 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-09 – 2027-03-27 · Venue: 嘟嘟房停車場旁邊, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>笑友會成果發表</title>
+      <link>https://www.accupass.com/event/2611231033241084606080</link>
+      <guid isPermaLink="false">accupass:2611231033241084606080</guid>
+      <pubDate>Fri, 08 Jan 2027 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-09 · Venue: 新竹市綠水市民活動中心, 新竹市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>假面騎士 X 卡邦無限THE LIVE IN TAIWAN 2027</title>
@@ -279,7 +287,7 @@
       <description>Date: 2026-12-13 · Venue: 右半側, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
-      <title>✦中壢OPEN小力玩✦【ㄅㄧㄤˋ演出 】電子花車音樂派對．Loop 中壢、布袋戲《中壢小英雄》</title>
+      <title>✦中壢OPEN小力玩✦【ㄅㄧㄤˋ演出】電子花車音樂派對．Loop 中壢、布袋戲《中壢小英雄》</title>
       <link>https://www.accupass.com/event/2611170949491142408265</link>
       <guid isPermaLink="false">accupass:2611170949491142408265</guid>
       <pubDate>Sat, 12 Dec 2026 16:00:00 GMT</pubDate>
@@ -527,6 +535,102 @@
       <description>Date: 2026-11-26 · Venue: 卡濰咖啡 明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【12/20 21:00】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/j9kiwyre</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/j9kiwyre</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-20 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/20 18:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/i7kikijn</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/i7kikijn</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-20 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/21 19:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/k30db483</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/k30db483</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-21 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/22 19:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/lbe68ae9</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/lbe68ae9</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-22 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/23 19:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/m1dfe9eb</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/m1dfe9eb</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-23 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/24 19:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/n661a4a1</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/n661a4a1</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-24 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/25 21:00】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/p97eb7c6</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/p97eb7c6</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-25 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/25 18:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/o253174c</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/o253174c</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-25 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/26 19:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/sdabe1d6</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/sdabe1d6</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-26 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/26 15:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/r6f8c2f5</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/r6f8c2f5</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-26 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/26 13:00】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/q3291098</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/q3291098</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-26 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【12/27 14:30】2026 阮劇團封箱感謝祭「花開的理由」</title>
+      <link>https://ourtheatrenet.kktix.cc/events/t78d986b</link>
+      <guid isPermaLink="false">kktix:ourtheatrenet/t78d986b</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-27 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
       <guid isPermaLink="false">udn:P1AEBJG5</guid>
@@ -701,110 +805,6 @@
       <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-08 – 2027-01-10 · Venue: 國立臺灣藝術大學實驗劇場（八角廳）, 新北市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027戲曲新秀專場舞臺】後場作戲《出塵入凡—陳芸楚小旦專場》</title>
-      <link>https://www.opentix.life/event/2109887213972832257</link>
-      <guid isPermaLink="false">opentix:2109887213972832257</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-03-06 – 2027-03-07 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027戲曲新秀專場舞臺】燕玲戲劇團《韓信設窖安軍心》</title>
-      <link>https://www.opentix.life/event/2112491789982539777</link>
-      <guid isPermaLink="false">opentix:2112491789982539777</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-03-20 – 2027-03-21 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027戲曲新秀專場舞臺】當代傳奇劇場《姚期》</title>
-      <link>https://www.opentix.life/event/2113554081661919233</link>
-      <guid isPermaLink="false">opentix:2113554081661919233</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-04-10 – 2027-04-11 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027戲曲新秀專場舞臺】烏貓戲出《白賊七》</title>
-      <link>https://www.opentix.life/event/2113561906438021120</link>
-      <guid isPermaLink="false">opentix:2113561906438021120</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-04-17 – 2027-04-18 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027戲曲新秀專場舞臺】薪傳歌仔戲劇團《封神榜．文王食子》</title>
-      <link>https://www.opentix.life/event/2113566343072129025</link>
-      <guid isPermaLink="false">opentix:2113566343072129025</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-04-24 – 2027-04-25 · Venue: 高雄中山堂劇場, 高雄市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《莊子兵法》VR劇場</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I1M7GN</link>
-      <guid isPermaLink="false">udn:P1I1M7GN</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2027-01-10 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>2026第一屆臺南藝術雙年展｜歷史迴圈｜「遊街－噍吧哖事件城市劇場」遊街演出及播映會</title>
-      <link>https://www.accupass.com/event/2610210830313456060850</link>
-      <guid isPermaLink="false">accupass:2610210830313456060850</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-14 – 2026-11-29 · Venue: 臺南府城隍廟前廣場、司法博物館, 臺南市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>《顏世昌反奸》</title>
-      <link>https://www.opentix.life/event/2117895473478856705</link>
-      <guid isPermaLink="false">opentix:2117895473478856705</guid>
-      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-12 · Venue: 南北管音樂戲曲館表演廳, 彰化縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《鋒劍．吞六國》</title>
-      <link>https://www.opentix.life/event/2118632825987301377</link>
-      <guid isPermaLink="false">opentix:2118632825987301377</guid>
-      <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-02 · Venue: 屏東演藝廳實驗劇場, 屏東縣 · On sale: 2026-11-13 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>第五屆搞笑對抗賽-投打對決</title>
-      <link>https://www.opentix.life/event/2117574341575020545</link>
-      <guid isPermaLink="false">opentix:2117574341575020545</guid>
-      <pubDate>Thu, 12 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-26 · Venue: Legacy TERA, 臺北市 · On sale: 2026-11-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>邱舒《正來尞》2026 巡迴終場－高雄站</title>
-      <link>https://kafka.kktix.cc/events/chiushukafka</link>
-      <guid isPermaLink="false">kktix:kafka/chiushukafka</guid>
-      <pubDate>Wed, 11 Nov 2026 10:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 · Venue: 海邊的卡夫卡-高流店, 高雄市 · On sale: 2026-11-11 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>職男人生3-達成激笑</title>
-      <link>https://www.opentix.life/event/2115367404998193153</link>
-      <guid isPermaLink="false">opentix:2115367404998193153</guid>
-      <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-08 – 2027-03-07 · Venue: 嘉義縣表演藝術中心演藝廳, 嘉義縣 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>重生 布袋戲音樂劇</title>
-      <link>https://www.opentix.life/event/2117448495120871425</link>
-      <guid isPermaLink="false">opentix:2117448495120871425</guid>
-      <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
-      <category>偶戲</category>
-      <description>Date: 2027-01-10 · Venue: 嘉義縣表演藝術中心實驗劇場, 嘉義縣 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
