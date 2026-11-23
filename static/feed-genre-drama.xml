@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:02:28 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -21,6 +21,14 @@
       <pubDate>Fri, 26 Feb 2027 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-02-27 – 2027-02-28 · Venue: 大稻埕千歲宮, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>全新巧虎電影《魔法康乃馨》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IPPZK8</link>
+      <guid isPermaLink="false">era:P1IPPZK8</guid>
+      <pubDate>Thu, 28 Jan 2027 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-29 · Venue: 威秀影城獨家上映(上映場次請查詢各戲院公告) · Source: 年代售票</description>
     </item>
     <item>
       <title>木目聲劇團十週年雙戲聯演 in 台南</title>
@@ -263,6 +271,14 @@
       <description>Date: 2026-11-24 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2118638424182243329</link>
+      <guid isPermaLink="false">opentix:2118638424182243329</guid>
+      <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-02 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-23 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【1/9 (六) 午】 狄哥＆婉妹 來抬槓</title>
       <link>https://comedyclub.kktix.cc/events/talk0109</link>
       <guid isPermaLink="false">kktix:comedyclub/talk0109</guid>
@@ -421,14 +437,6 @@
       <pubDate>Mon, 09 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-03-19 – 2027-03-28 · Venue: 臺北表演藝術中心 藍盒子, 臺北市 · On sale: 2026-11-09 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2027亞洲國際文化藝術音樂盛典</title>
-      <link>https://www.opentix.life/event/2118581126929088513</link>
-      <guid isPermaLink="false">opentix:2118581126929088513</guid>
-      <pubDate>Mon, 09 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-04-30 · Venue: 大直典華會館, 臺北市 · On sale: 2026-11-09 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
       <title>2026屏東野馬戲 - FOCASA馬戲團《魔幻森林》</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-11 – 2026-12-13 · Venue: 臺灣大學藝文中心遊心劇場, 臺北市 · On sale: 2026-09-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2026貓裏表演藝術節《錯位的圓舞曲》</title>
-      <link>https://www.opentix.life/event/2099691316232441857</link>
-      <guid isPermaLink="false">opentix:2099691316232441857</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-05 – 2026-12-06 · Venue: EX Studio黑盒子劇場, 苗栗縣 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

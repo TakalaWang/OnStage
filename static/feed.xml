@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:02:28 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -29,6 +29,14 @@
       <pubDate>Fri, 26 Feb 2027 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-02-27 – 2027-02-28 · Venue: 大稻埕千歲宮, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>全新巧虎電影《魔法康乃馨》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IPPZK8</link>
+      <guid isPermaLink="false">era:P1IPPZK8</guid>
+      <pubDate>Thu, 28 Jan 2027 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-29 · Venue: 威秀影城獨家上映(上映場次請查詢各戲院公告) · Source: 年代售票</description>
     </item>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
@@ -93,6 +101,14 @@
       <pubDate>Fri, 01 Jan 2027 16:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2027-01-02 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>MUSICAL OPEN MIC 音樂劇 Open Mic 第一季</title>
+      <link>https://www.accupass.com/event/2611160929448672133220</link>
+      <guid isPermaLink="false">accupass:2611160929448672133220</guid>
+      <pubDate>Sat, 26 Dec 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-12-27 – 2027-01-24 · Venue: PLAY HUB 玩・劇 創意基地（白盒子）, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>會演是英雄2之《英雄所賤略同》</title>
@@ -261,6 +277,14 @@
       <pubDate>Sat, 12 Dec 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-12-13 · Venue: 右半側, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>✦中壢OPEN小力玩✦【ㄅㄧㄤˋ演出 】電子花車音樂派對．Loop 中壢、布袋戲《中壢小英雄》</title>
+      <link>https://www.accupass.com/event/2611170949491142408265</link>
+      <guid isPermaLink="false">accupass:2611170949491142408265</guid>
+      <pubDate>Sat, 12 Dec 2026 16:00:00 GMT</pubDate>
+      <category>偶戲</category>
+      <description>Date: 2026-12-13 – 2026-12-20 · Venue: 美豐福德祠, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>2026｜十二月 漫才 Open Mic｜眾多漫才組合｜聯合出擊</title>
@@ -535,6 +559,14 @@
       <description>Date: 2026-11-24 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>面白放送</title>
+      <link>https://www.opentix.life/event/2118638424182243329</link>
+      <guid isPermaLink="false">opentix:2118638424182243329</guid>
+      <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-02 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-23 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>【1/9 (六) 午】 狄哥＆婉妹 來抬槓</title>
       <link>https://comedyclub.kktix.cc/events/talk0109</link>
       <guid isPermaLink="false">kktix:comedyclub/talk0109</guid>
@@ -773,38 +805,6 @@
       <pubDate>Tue, 10 Nov 2026 04:00:00 GMT</pubDate>
       <category>偶戲</category>
       <description>Date: 2027-01-10 · Venue: 嘉義縣表演藝術中心實驗劇場, 嘉義縣 · On sale: 2026-11-10 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2027同黨劇團《灰男孩》</title>
-      <link>https://www.opentix.life/event/2117512111295655936</link>
-      <guid isPermaLink="false">opentix:2117512111295655936</guid>
-      <pubDate>Mon, 09 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-03-19 – 2027-03-28 · Venue: 臺北表演藝術中心 藍盒子, 臺北市 · On sale: 2026-11-09 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>2027亞洲國際文化藝術音樂盛典</title>
-      <link>https://www.opentix.life/event/2118581126929088513</link>
-      <guid isPermaLink="false">opentix:2118581126929088513</guid>
-      <pubDate>Mon, 09 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-04-30 · Venue: 大直典華會館, 臺北市 · On sale: 2026-11-09 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>加演【01/24 午 新竹】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場</title>
-      <link>https://comedyclub.kktix.cc/events/sstrong740124</link>
-      <guid isPermaLink="false">kktix:comedyclub/sstrong740124</guid>
-      <pubDate>Sun, 08 Nov 2026 04:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2027-01-24 · Venue: 新竹影像博物館  放映大廳, 新竹市 · On sale: 2026-11-08 · Source: KKTIX</description>
-    </item>
-    <item>
-      <title>《春雨の喜劇力開發研究部》11、12月號</title>
-      <link>https://www.accupass.com/event/2609171337331414810900</link>
-      <guid isPermaLink="false">accupass:2609171337331414810900</guid>
-      <pubDate>Sat, 07 Nov 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-08 – 2026-12-06 · Source: Accupass 活動通</description>
     </item>
   </channel>
 </rss>
