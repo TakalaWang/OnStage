@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:51:07 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -237,6 +237,14 @@
       <pubDate>Thu, 17 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-18 · Venue: 捷運忠孝新生站 5 號出口步行約 5 分鐘；19:10 開放入場, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>第一超棒桃園脫口秀!!!</title>
+      <link>https://www.accupass.com/event/2611201032171148436020</link>
+      <guid isPermaLink="false">accupass:2611201032171148436020</guid>
+      <pubDate>Thu, 17 Dec 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-18 · Venue: 樂君亭喜劇基地, 桃園市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>一人一故事劇場演出《你是在吠三小！？》</title>
@@ -631,6 +639,38 @@
       <description>Date: 2026-12-27 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
     </item>
     <item>
+      <title>2027 NTT Arts NOVA 愛爾蘭跨界藝術家路克．墨菲《焦土之下》</title>
+      <link>https://www.opentix.life/event/2119987265943801857</link>
+      <guid isPermaLink="false">opentix:2119987265943801857</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-04-16 – 2027-04-18 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-11-24 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2027 NTT Arts NOVA 亞維儂藝術節╳提亞戈．羅提吉斯《心際效應》</title>
+      <link>https://www.opentix.life/event/2120801974132592640</link>
+      <guid isPermaLink="false">opentix:2120801974132592640</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-05-14 – 2027-05-16 · Venue: 臺中國家歌劇院中劇院, 臺中市 · On sale: 2026-11-24 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>2027 NTT Arts NOVA 新藝計畫 晃晃跨幅町《皺褶的虛數》</title>
+      <link>https://www.opentix.life/event/2118596951134978049</link>
+      <guid isPermaLink="false">opentix:2118596951134978049</guid>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-05-28 – 2027-05-30 · Venue: 臺中國家歌劇院小劇場, 臺中市 · On sale: 2026-11-24 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>奇巧劇團Reload：十年迴聲《鞍馬天狗》特別演出</title>
+      <link>https://www.opentix.life/event/2123221098614030337</link>
+      <guid isPermaLink="false">opentix:2123221098614030337</guid>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-03-13 – 2027-03-14 · Venue: 衛武營國家藝術文化中心音樂廳, 高雄市 · On sale: 2026-11-24 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
       <guid isPermaLink="false">udn:P1AEBJG5</guid>
@@ -765,46 +805,6 @@
       <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-05-28 – 2027-05-30 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>創作社劇團《孃孃狂言》</title>
-      <link>https://www.opentix.life/event/2120024606565634049</link>
-      <guid isPermaLink="false">opentix:2120024606565634049</guid>
-      <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-06-05 – 2027-06-06 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【2027衛武營小時光】林陸傑《年少時光》</title>
-      <link>https://www.opentix.life/event/2117523772374880257</link>
-      <guid isPermaLink="false">opentix:2117523772374880257</guid>
-      <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-06-16 · Venue: 衛武營國家藝術文化中心表演廳, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>三王京彩會名伶 安捷盛會-京、豫、歌仔戲之公益匯演</title>
-      <link>https://www.opentix.life/event/2118224839110914049</link>
-      <guid isPermaLink="false">opentix:2118224839110914049</guid>
-      <pubDate>Tue, 17 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲曲</category>
-      <description>Date: 2027-01-09 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>面白放送</title>
-      <link>https://www.opentix.life/event/2117569156841312257</link>
-      <guid isPermaLink="false">opentix:2117569156841312257</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-25 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>國立臺灣藝術大學戲劇學系進修學士班113級班級展演《瘋狂年代》</title>
-      <link>https://www.opentix.life/event/2117594637315022849</link>
-      <guid isPermaLink="false">opentix:2117594637315022849</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-08 – 2027-01-10 · Venue: 國立臺灣藝術大學實驗劇場（八角廳）, 新北市 · On sale: 2026-11-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
