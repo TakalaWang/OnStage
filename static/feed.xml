@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:52:32 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -503,6 +503,14 @@
       <description>Date: 2026-11-27 – 2026-12-20 · Venue: 空軍三重一村時藝廣場, 新北市 · Source: udn 售票網</description>
     </item>
     <item>
+      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
+      <guid isPermaLink="false">era:P1F33E6Z</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-27 – 2026-11-29 · Venue: 新竹縣政府文化局演藝廳, 新竹縣 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>台北喜劇節：漫才 Open Mic : City Pleasure | 11/27  (五）20:00 | 飛客俱樂部</title>
       <link>https://www.accupass.com/event/2610031301306099659270</link>
       <guid isPermaLink="false">accupass:2610031301306099659270</guid>
@@ -541,6 +549,22 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-26 · Venue: 卡濰咖啡 明誠店, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>倫敦全本音樂劇《史瑞克》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
+      <guid isPermaLink="false">udn:P1AEBJG5</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-25 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>影集式音樂劇《不親愛家人》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
+      <guid isPermaLink="false">udn:P1EBDFKH</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-25 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
       <title>【12/20 21:00】2026 阮劇團封箱感謝祭「花開的理由」</title>
@@ -671,38 +695,6 @@
       <description>Date: 2027-03-13 – 2027-03-14 · Venue: 衛武營國家藝術文化中心音樂廳, 高雄市 · On sale: 2026-11-24 · Source: OPENTIX 兩廳院</description>
     </item>
     <item>
-      <title>倫敦全本音樂劇《史瑞克》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
-      <guid isPermaLink="false">udn:P1AEBJG5</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-24 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>影集式音樂劇《不親愛家人》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
-      <guid isPermaLink="false">udn:P1EBDFKH</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-24 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
-      <guid isPermaLink="false">era:P1F33E6Z</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-11-24 – 2026-11-29 · Venue: 高雄市文化中心至德堂, 高雄市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>多情城市之約會難題</title>
-      <link>https://www.accupass.com/event/2611180551112005817580</link>
-      <guid isPermaLink="false">accupass:2611180551112005817580</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-24 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>面白放送</title>
       <link>https://www.opentix.life/event/2118638424182243329</link>
       <guid isPermaLink="false">opentix:2118638424182243329</guid>
@@ -805,6 +797,14 @@
       <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-05-28 – 2027-05-30 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>創作社劇團《孃孃狂言》</title>
+      <link>https://www.opentix.life/event/2120024606565634049</link>
+      <guid isPermaLink="false">opentix:2120024606565634049</guid>
+      <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-06-05 – 2027-06-06 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
