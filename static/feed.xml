@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:23:27 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -109,14 +109,6 @@
       <pubDate>Fri, 01 Jan 2027 16:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2027-01-02 · Venue: 集合地點：捷運新莊站2號出口外面, 新北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>MUSICAL OPEN MIC 音樂劇 Open Mic 第一季</title>
-      <link>https://www.accupass.com/event/2611160929448672133220</link>
-      <guid isPermaLink="false">accupass:2611160929448672133220</guid>
-      <pubDate>Sat, 26 Dec 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-12-27 – 2027-01-24 · Venue: PLAY HUB 玩・劇 創意基地（白盒子）, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>會演是英雄2之《英雄所賤略同》</title>
@@ -551,6 +543,22 @@
       <description>Date: 2026-11-26 · Venue: 卡濰咖啡 明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>說．唱老 young子</title>
+      <link>https://www.opentix.life/event/2124696633971167232</link>
+      <guid isPermaLink="false">opentix:2124696633971167232</guid>
+      <pubDate>Wed, 25 Nov 2026 05:40:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-13 · Venue: 桃園市土地公文化館 203視聽空間, 桃園市 · On sale: 2026-11-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>元泰劇坊《濁世金蓮》</title>
+      <link>https://www.opentix.life/event/2119643475143950337</link>
+      <guid isPermaLink="false">opentix:2119643475143950337</guid>
+      <pubDate>Wed, 25 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-23 – 2027-01-24 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-11-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>倫敦全本音樂劇《史瑞克》</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
       <guid isPermaLink="false">udn:P1AEBJG5</guid>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-05-28 – 2027-05-30 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>創作社劇團《孃孃狂言》</title>
-      <link>https://www.opentix.life/event/2120024606565634049</link>
-      <guid isPermaLink="false">opentix:2120024606565634049</guid>
-      <pubDate>Tue, 17 Nov 2026 07:40:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-06-05 – 2027-06-06 · Venue: 衛武營國家藝術文化中心戲劇院, 高雄市 · On sale: 2026-11-17 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,23 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:23:27 GMT</lastBuildDate>
+    <item>
+      <title>說．唱老 young子</title>
+      <link>https://www.opentix.life/event/2124696633971167232</link>
+      <guid isPermaLink="false">opentix:2124696633971167232</guid>
+      <pubDate>Wed, 25 Nov 2026 05:40:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-13 · Venue: 桃園市土地公文化館 203視聽空間, 桃園市 · On sale: 2026-11-25 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>元泰劇坊《濁世金蓮》</title>
+      <link>https://www.opentix.life/event/2119643475143950337</link>
+      <guid isPermaLink="false">opentix:2119643475143950337</guid>
+      <pubDate>Wed, 25 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-01-23 – 2027-01-24 · Venue: 大稻埕戲苑, 臺北市 · On sale: 2026-11-25 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>2027 NTT Arts NOVA 愛爾蘭跨界藝術家路克．墨菲《焦土之下》</title>
       <link>https://www.opentix.life/event/2119987265943801857</link>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2026-11-29 · Venue: 國立臺灣藝術教育館南海劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>盜火劇團 權力首部曲《椅仔》</title>
-      <link>https://www.opentix.life/event/2099314057961340929</link>
-      <guid isPermaLink="false">opentix:2099314057961340929</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-04 – 2026-12-06 · Venue: 牯嶺街小劇場一樓實驗劇場, 臺北市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>《生氣王子》親子繪本音樂會</title>
-      <link>https://www.opentix.life/event/2097267213329641473</link>
-      <guid isPermaLink="false">opentix:2097267213329641473</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
-      <category>兒童親子</category>
-      <description>Date: 2026-12-06 – 2027-05-30 · Venue: 桃園展演中心展演廳, 桃園市 · On sale: 2026-09-16 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
