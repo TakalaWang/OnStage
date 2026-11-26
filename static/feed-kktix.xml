@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:50:37 GMT</lastBuildDate>
     <item>
       <title>【1/23台北場】2026 佳諭單口喜劇專場《Get 婚》</title>
       <link>https://comedyclub.kktix.cc/events/get20261024</link>
@@ -21,6 +21,14 @@
       <pubDate>Thu, 21 Jan 2027 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2027-01-22 · Venue: COMEDY PLUS 卡米地+, 臺北市 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【2/13 晚】今晚，把煩惱留給我們演--女子限定互動專場・台北場</title>
+      <link>https://comedyclub.kktix.cc/events/20270213</link>
+      <guid isPermaLink="false">kktix:comedyclub/20270213</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-02-13 · Venue: COMEDY PLUS 小廳, 臺北市 · On sale: 2026-11-29 · Source: KKTIX</description>
     </item>
     <item>
       <title>【12/20 21:00】2026 阮劇團封箱感謝祭「花開的理由」</title>
@@ -119,14 +127,6 @@
       <description>Date: 2026-12-27 · Venue: 嘉義文化創意產業園區 新嘉義座, 嘉義市 · On sale: 2026-11-24 · Source: KKTIX</description>
     </item>
     <item>
-      <title>【1/9 (六) 午】 狄哥＆婉妹 來抬槓</title>
-      <link>https://comedyclub.kktix.cc/events/talk0109</link>
-      <guid isPermaLink="false">kktix:comedyclub/talk0109</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-09 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-11-23 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>邱舒《正來尞》2026 巡迴終場－高雄站</title>
       <link>https://kafka.kktix.cc/events/chiushukafka</link>
       <guid isPermaLink="false">kktix:kafka/chiushukafka</guid>
@@ -159,20 +159,20 @@
       <description>Date: 2027-01-10 · Venue: 新竹SOGO巨城店4F演藝廳B廳, 新竹市 · On sale: 2026-10-31 · Source: KKTIX</description>
     </item>
     <item>
-      <title>【台中 2/13 午】相聲失控《原聲變態》加演場</title>
-      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270213</link>
-      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270213</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
-      <category>相聲</category>
-      <description>Date: 2027-02-13 – 2027-02-20 · Venue: 台中群島藝術園 大劇院, 臺中市 · On sale: 2026-10-31 · Source: KKTIX</description>
-    </item>
-    <item>
       <title>2027年 相聲失控《原聲變態》加演場</title>
       <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk2027</link>
       <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk2027</guid>
       <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
       <category>相聲</category>
       <description>Date: 2027-02-13 – 2027-02-20 · Venue: Comedy Plus + 大廳, 臺北市 · On sale: 2026-10-31 · Source: KKTIX</description>
+    </item>
+    <item>
+      <title>【台中 2/13 午】相聲失控《原聲變態》加演場</title>
+      <link>https://comedyclub.kktix.cc/events/lostcontrolcrosstalk20270213</link>
+      <guid isPermaLink="false">kktix:comedyclub/lostcontrolcrosstalk20270213</guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+      <category>相聲</category>
+      <description>Date: 2027-02-13 – 2027-02-20 · Venue: 台中群島藝術園 大劇院, 臺中市 · On sale: 2026-10-31 · Source: KKTIX</description>
     </item>
     <item>
       <title>【台北 2/19 晚】相聲失控《原聲變態》加演場</title>

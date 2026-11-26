@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:50:37 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -311,6 +311,14 @@
       <description>Date: 2026-12-12 – 2026-12-13 · Venue: 角落沙龍, 臺中市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>舞台工作，有約在先——2026藝文工作合約範本發布說明會</title>
+      <link>https://www.accupass.com/event/2611260707161513943110</link>
+      <guid isPermaLink="false">accupass:2611260707161513943110</guid>
+      <pubDate>Fri, 11 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-12 · Venue: 小樹屋合歡B302, 臺北市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>麥高芬劇團 2026冬季公演《收信快樂》12/12 週六晚場</title>
       <link>https://www.accupass.com/event/2611011814336355147790</link>
       <guid isPermaLink="false">accupass:2611011814336355147790</guid>
@@ -333,6 +341,14 @@
       <pubDate>Fri, 11 Dec 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-12-12 · Venue: 右半側, 高雄市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>第一超棒台北脫口秀| 台北場 12/12（六）20:00|飛客俱樂部 |品喬 / Ether Chen / 品賢 / 皓宇 / 光頭哥</title>
+      <link>https://www.accupass.com/event/2611261018231375709851</link>
+      <guid isPermaLink="false">accupass:2611261018231375709851</guid>
+      <pubDate>Fri, 11 Dec 2026 16:00:00 GMT</pubDate>
+      <category>喜劇</category>
+      <description>Date: 2026-12-12 · Venue: Basis Coffee 地下室 , 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>台北偶戲館特展年度公眾活動｜派對代號：金光大舞廳 Party Code：Bling Bling</title>
@@ -415,6 +431,14 @@
       <description>Date: 2026-12-05 · Venue: 原公館東南亞戲院第2廳, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>來福OPEN MIC 12月</title>
+      <link>https://www.accupass.com/event/2611250854598407887770</link>
+      <guid isPermaLink="false">accupass:2611250854598407887770</guid>
+      <pubDate>Thu, 03 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-04 – 2026-12-25 · Venue: 群島藝術園區 小劇院, 臺中市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
       <title>台北喜劇節「腹語術：翻雲腹語之夜」｜12/03 (四) 20:00｜多位腹語師帶你走一趟腹語的神奇世界！</title>
       <link>https://www.accupass.com/event/2610031306132100376983</link>
       <guid isPermaLink="false">accupass:2610031306132100376983</guid>
@@ -455,6 +479,14 @@
       <description>Date: 2026-11-30 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>【2/13 晚】今晚，把煩惱留給我們演--女子限定互動專場・台北場</title>
+      <link>https://comedyclub.kktix.cc/events/20270213</link>
+      <guid isPermaLink="false">kktix:comedyclub/20270213</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2027-02-13 · Venue: COMEDY PLUS 小廳, 臺北市 · On sale: 2026-11-29 · Source: KKTIX</description>
+    </item>
+    <item>
       <title>台北喜劇節 《落語：日本人的娛樂》11/29（日）20:00｜飛客俱樂部 ｜吉田真嗣 / 山姆 / BJ / 小南</title>
       <link>https://www.accupass.com/event/2610031303311430797100</link>
       <guid isPermaLink="false">accupass:2610031303311430797100</guid>
@@ -493,6 +525,22 @@
       <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-11-27 – 2026-12-20 · Venue: 空軍三重一村時藝廣場, 新北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>倫敦全本音樂劇《史瑞克》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
+      <guid isPermaLink="false">udn:P1AEBJG5</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-27 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>影集式音樂劇《不親愛家人》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
+      <guid isPermaLink="false">udn:P1EBDFKH</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-27 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
     </item>
     <item>
       <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
@@ -565,46 +613,6 @@
       <pubDate>Thu, 26 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-05-08 – 2027-05-09 · Venue: 國家戲劇院, 臺北市 · On sale: 2026-11-26 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>倫敦全本音樂劇《史瑞克》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
-      <guid isPermaLink="false">udn:P1AEBJG5</guid>
-      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-26 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>影集式音樂劇《不親愛家人》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
-      <guid isPermaLink="false">udn:P1EBDFKH</guid>
-      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-26 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>《月亮上的（女）人》</title>
-      <link>https://www.accupass.com/event/2611110910331126590079</link>
-      <guid isPermaLink="false">accupass:2611110910331126590079</guid>
-      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-11-26 · Venue: 空總國家文化基地 C-LAB臺灣聲響實驗室 立體聲場, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>打架俱樂部｜即興裡的反派練習 &lt;11月場&gt;</title>
-      <link>https://www.accupass.com/event/2609081439351941839157</link>
-      <guid isPermaLink="false">accupass:2609081439351941839157</guid>
-      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-26 · Venue: 遊牧計劃, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>小心！匪諜就在你穴裡面 喜劇專場 Try Out</title>
-      <link>https://www.accupass.com/event/2610251726032821160900</link>
-      <guid isPermaLink="false">accupass:2610251726032821160900</guid>
-      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
-      <category>喜劇</category>
-      <description>Date: 2026-11-26 · Venue: 卡濰咖啡 明誠店, 高雄市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>說．唱老 young子</title>
@@ -757,14 +765,6 @@
       <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-02 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【1/9 (六) 午】 狄哥＆婉妹 來抬槓</title>
-      <link>https://comedyclub.kktix.cc/events/talk0109</link>
-      <guid isPermaLink="false">kktix:comedyclub/talk0109</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-09 · Venue: Comedy Plus 卡米地＋, 臺北市 · On sale: 2026-11-23 · Source: KKTIX</description>
     </item>
     <item>
       <title>【驫．馬的心事】名駒與牠們的英雄（上集）</title>
