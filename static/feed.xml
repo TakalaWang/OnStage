@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:05:17 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -519,6 +519,14 @@
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: Two Three Comedy Club 23喜劇俱樂部, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
+      <title>臺灣豫劇團2027飆戲「熱血X戲魂」</title>
+      <link>https://www.opentix.life/event/2120807976384757760</link>
+      <guid isPermaLink="false">opentix:2120807976384757760</guid>
+      <pubDate>Fri, 27 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2027-03-27 – 2027-03-28 · Venue: 臺灣豫劇團大排練場, 高雄市 · On sale: 2026-11-27 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
       <title>《一村喜事：光陰的故事》沉浸式辦桌舞台劇</title>
       <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFK7</link>
       <guid isPermaLink="false">udn:P1EBDFK7</guid>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 20 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲曲</category>
       <description>Date: 2027-05-29 · Venue: 臺北市中山堂中正廳, 臺北市 · On sale: 2026-11-20 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>乾淨的這群人</title>
-      <link>https://www.opentix.life/event/2119975121441427456</link>
-      <guid isPermaLink="false">opentix:2119975121441427456</guid>
-      <pubDate>Thu, 19 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-01-09 – 2027-01-10 · Venue: 濕地Venue-5F, 臺北市 · On sale: 2026-11-19 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>

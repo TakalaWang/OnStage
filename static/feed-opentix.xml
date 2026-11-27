@@ -5,7 +5,15 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:05:17 GMT</lastBuildDate>
+    <item>
+      <title>臺灣豫劇團2027飆戲「熱血X戲魂」</title>
+      <link>https://www.opentix.life/event/2120807976384757760</link>
+      <guid isPermaLink="false">opentix:2120807976384757760</guid>
+      <pubDate>Fri, 27 Nov 2026 04:00:00 GMT</pubDate>
+      <category>戲曲</category>
+      <description>Date: 2027-03-27 – 2027-03-28 · Venue: 臺灣豫劇團大排練場, 高雄市 · On sale: 2026-11-27 · Source: OPENTIX 兩廳院</description>
+    </item>
     <item>
       <title>2027TIFA 五藝中心《漢都亞的碎片》</title>
       <link>https://www.opentix.life/event/2105222131238346753</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 – 2026-12-06 · Venue: EX Studio黑盒子劇場, 苗栗縣 · On sale: 2026-09-22 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【醫聲．白袍金嗓】施宗賢醫師 廣音域 跨界演唱會</title>
-      <link>https://www.opentix.life/event/2100752451028361216</link>
-      <guid isPermaLink="false">opentix:2100752451028361216</guid>
-      <pubDate>Sun, 20 Sep 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-20 · Venue: 大東文化藝術中心, 高雄市 · On sale: 2026-09-20 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
