@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:36:05 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -79,20 +79,20 @@
       <description>Date: 2026-12-02 · Venue: 衛武營國家藝術文化中心音樂廳, 高雄市 · Source: 年代售票</description>
     </item>
     <item>
+      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
+      <guid isPermaLink="false">era:P1F33E6Z</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-29 · Venue: 嘉義市政府文化局音樂廳, 嘉義市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
       <guid isPermaLink="false">era:P1ET7M40</guid>
       <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
       <category>舞台劇</category>
       <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
-    </item>
-    <item>
-      <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
-      <guid isPermaLink="false">era:P1F33E6Z</guid>
-      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-11-27 – 2026-11-29 · Venue: 新竹縣政府文化局演藝廳, 新竹縣 · Source: 年代售票</description>
     </item>
   </channel>
 </rss>
