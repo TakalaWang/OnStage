@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:47:32 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -261,6 +261,14 @@
       <pubDate>Fri, 04 Dec 2026 16:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-05 · Venue: 米倉劇場, 桃園市 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>一日限定 〈四喜轉運站〉特開活動</title>
+      <link>https://www.accupass.com/event/2611270843451467991350</link>
+      <guid isPermaLink="false">accupass:2611270843451467991350</guid>
+      <pubDate>Fri, 04 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-05 · Venue: 北投中心新村, 臺北市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>來福OPEN MIC 12月</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2027-01-22 – 2027-01-24 · Venue: 臺中市中山堂, 臺中市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>娛人時代《放鳥未來人》EnKram手機殼冠名製作</title>
-      <link>https://www.opentix.life/event/2105134764212035585</link>
-      <guid isPermaLink="false">opentix:2105134764212035585</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2027-03-05 – 2027-03-20 · Venue: 國立臺中教育大學寶成演藝廳, 臺中市 · On sale: 2026-10-12 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
