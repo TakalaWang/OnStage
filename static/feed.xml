@@ -5,7 +5,7 @@
     <link>https://onstage.takalawang.dev</link>
     <description>Aggregated theatre performances from OPENTIX, udn, KHAM, ERA and KKTIX.</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 19:28:56 GMT</lastBuildDate>
     <item>
       <title>2027國標舞亞巡賽-臺北公開賽</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IGZBD7</link>
@@ -407,20 +407,20 @@
       <description>Date: 2026-12-06 · Venue: 台北市議會B1禮堂, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
-      <title>朴子好書室 x 看嘸舞蹈劇場《彩色的我們》社群藝術計畫</title>
-      <link>https://www.accupass.com/event/2611270938041724529910</link>
-      <guid isPermaLink="false">accupass:2611270938041724529910</guid>
-      <pubDate>Sat, 05 Dec 2026 16:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-06 · Venue: 朴子好書室, 嘉義市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
       <title>《翻轉孩子未來 希望劇場》公益兒童劇場活動</title>
       <link>https://www.accupass.com/event/2611270900549473736000</link>
       <guid isPermaLink="false">accupass:2611270900549473736000</guid>
       <pubDate>Sat, 05 Dec 2026 16:00:00 GMT</pubDate>
       <category>兒童親子</category>
       <description>Date: 2026-12-06 · Source: Accupass 活動通</description>
+    </item>
+    <item>
+      <title>朴子好書室 x 看嘸舞蹈劇場《彩色的我們》社群藝術計畫</title>
+      <link>https://www.accupass.com/event/2611270938041724529910</link>
+      <guid isPermaLink="false">accupass:2611270938041724529910</guid>
+      <pubDate>Sat, 05 Dec 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-12-06 · Venue: 朴子好書室, 嘉義市 · Source: Accupass 活動通</description>
     </item>
     <item>
       <title>在感受與表達之間｜即興表演 × 溝通實驗：探索關係裡的另一種可能</title>
@@ -535,6 +535,46 @@
       <description>Date: 2027-02-13 · Venue: COMEDY PLUS 小廳, 臺北市 · On sale: 2026-11-29 · Source: KKTIX</description>
     </item>
     <item>
+      <title>《續這一季 夏天燦亮》2026年杵音文化藝術團 年度製作演出</title>
+      <link>https://www.opentix.life/event/2122179341701812224</link>
+      <guid isPermaLink="false">opentix:2122179341701812224</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>戲劇</category>
+      <description>Date: 2026-11-29 · Venue: 就藝會（臺東表演藝術創生基地）小劇場, 臺東縣 · On sale: 2026-11-28 · Source: OPENTIX 兩廳院</description>
+    </item>
+    <item>
+      <title>《一村喜事：光陰的故事》沉浸式辦桌舞台劇</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFK7</link>
+      <guid isPermaLink="false">udn:P1EBDFK7</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-29 – 2026-12-20 · Venue: 空軍三重一村時藝廣場, 新北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>倫敦全本音樂劇《史瑞克》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
+      <guid isPermaLink="false">udn:P1AEBJG5</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>影集式音樂劇《不親愛家人》</title>
+      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
+      <guid isPermaLink="false">udn:P1EBDFKH</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>音樂劇</category>
+      <description>Date: 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
+    </item>
+    <item>
+      <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
+      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
+      <guid isPermaLink="false">era:P1ET7M40</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
+      <category>舞台劇</category>
+      <description>Date: 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
+    </item>
+    <item>
       <title>《超人力霸王舞台劇  與光同行  60週年特別公演》</title>
       <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F33E6Z</link>
       <guid isPermaLink="false">era:P1F33E6Z</guid>
@@ -549,38 +589,6 @@
       <pubDate>Sat, 28 Nov 2026 16:00:00 GMT</pubDate>
       <category>喜劇</category>
       <description>Date: 2026-11-29 · Venue: Basis Coffee 地下室, 臺北市 · Source: Accupass 活動通</description>
-    </item>
-    <item>
-      <title>《一村喜事：光陰的故事》沉浸式辦桌舞台劇</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFK7</link>
-      <guid isPermaLink="false">udn:P1EBDFK7</guid>
-      <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-11-28 – 2026-12-20 · Venue: 空軍三重一村時藝廣場, 新北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>倫敦全本音樂劇《史瑞克》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AEBJG5</link>
-      <guid isPermaLink="false">udn:P1AEBJG5</guid>
-      <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺北表演藝術中心 大劇院, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>影集式音樂劇《不親愛家人》</title>
-      <link>https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBDFKH</link>
-      <guid isPermaLink="false">udn:P1EBDFKH</guid>
-      <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
-      <category>音樂劇</category>
-      <description>Date: 2026-11-28 – 2026-11-29 · Venue: PLAYground 南村劇場, 臺北市 · Source: udn 售票網</description>
-    </item>
-    <item>
-      <title>2026年巧虎英語舞臺劇“Finding Rainbow Island 尋找彩虹島“</title>
-      <link>https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ET7M40</link>
-      <guid isPermaLink="false">era:P1ET7M40</guid>
-      <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
-      <category>舞台劇</category>
-      <description>Date: 2026-11-28 – 2026-11-29 · Venue: 臺北市兒童新樂園兒童劇場, 臺北市 · Source: 年代售票</description>
     </item>
     <item>
       <title>【2026台北喜劇節】笑點工作室《母親與她們的產物》</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
       <category>戲劇</category>
       <description>Date: 2026-12-02 · Venue: 光啟社（光啟社攝影棚）, 臺北市 · On sale: 2026-11-23 · Source: OPENTIX 兩廳院</description>
-    </item>
-    <item>
-      <title>【驫．馬的心事】名駒與牠們的英雄（上集）</title>
-      <link>https://www.opentix.life/event/2123316650408214529</link>
-      <guid isPermaLink="false">opentix:2123316650408214529</guid>
-      <pubDate>Fri, 20 Nov 2026 04:00:00 GMT</pubDate>
-      <category>戲劇</category>
-      <description>Date: 2026-12-12 – 2026-12-13 · Venue: 田和越．茶劇場, 高雄市 · On sale: 2026-11-20 · Source: OPENTIX 兩廳院</description>
     </item>
   </channel>
 </rss>
